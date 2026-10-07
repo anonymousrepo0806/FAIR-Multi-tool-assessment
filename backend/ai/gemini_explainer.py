@@ -10,7 +10,7 @@ try:
 except ImportError:
     genai = None
 
-DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+DEFAULT_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-3.8-flash"
 
 SECTION_HEADERS = [
     "## Overall FAIR Compliance",
@@ -89,7 +89,7 @@ def explain(
     # Try the configured model first, retrying briefly when Google reports it
     # as overloaded (503 / UNAVAILABLE), then fall back to other models.
     fallbacks = [m.strip() for m in os.environ.get(
-        "GEMINI_FALLBACK_MODELS", "gemini-2.5-flash,gemini-2.5-flash-lite,gemini-2.0-flash"
+        "GEMINI_FALLBACK_MODELS", "gemini-3.8-flash,gemini-3.1-flash-lite"
     ).split(",") if m.strip()]
     candidates = [model] + [m for m in fallbacks if m != model]
     last_error: Optional[Exception] = None
@@ -142,6 +142,12 @@ def explain(
                 "the account at aistudio.google.com and try again -- this is a "
                 "billing/quota issue on the connected account, not a problem with the "
                 "FAIR assessment itself.*"
+            )
+        if status == 404 or "not_found" in message_lower:
+            return (
+                "## Overall FAIR Compliance\n\n"
+                "*AI explanations are unavailable: the configured Gemini model is no longer "
+                "offered by Google. Set GEMINI_MODEL to a current model on the server.*"
             )
         if status == 401 or status == 403 or "api key not valid" in message_lower or "permission_denied" in message_lower:
             return (
