@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import time
 from typing import Optional
 
 try:
@@ -85,18 +86,54 @@ def explain(
     client = genai.Client(api_key=key)
     prompt = build_prompt(consensus, tool_results)
 
+    # Try the configured model first, retrying briefly when Google reports it
+    # as overloaded (503 / UNAVAILABLE), then fall back to other models.
+    fallbacks = [m.strip() for m in os.environ.get(
+        "GEMINI_FALLBACK_MODELS", "gemini-2.5-flash,gemini-2.5-flash-lite,gemini-2.0-flash"
+    ).split(",") if m.strip()]
+    candidates = [model] + [m for m in fallbacks if m != model]
+    last_error: Optional[Exception] = None
+    fatal = False
+
+    for candidate in candidates:
+        for attempt in range(3):
+            try:
+                response = client.models.generate_content(model=candidate, contents=prompt)
+                text = (response.text or "").strip()
+                if not text:
+                    raise RuntimeError("the model returned an empty response")
+                missing = [h for h in SECTION_HEADERS if h not in text]
+                if missing:
+                    text += f"\n\n*(Note: response may be missing expected section(s): {', '.join(missing)})*"
+                return text
+            except Exception as e:  # noqa: BLE001
+                last_error = e
+                code = getattr(e, "status_code", None) or getattr(e, "code", None)
+                msg = str(e).lower()
+                overloaded = code in (500, 503, 504) or "unavailable" in msg or "overloaded" in msg or "high demand" in msg
+                not_found = code == 404 or "not_found" in msg or "not found" in msg
+                if overloaded and attempt < 2:
+                    time.sleep(2 * (attempt + 1))
+                    continue
+                if overloaded or not_found:
+                    break  # try the next model
+                fatal = True
+                break
+        if fatal:
+            break
+
+    e = last_error
     try:
-        response = client.models.generate_content(model=model, contents=prompt)
-        text = (response.text or "").strip()
-        if not text:
-            return "## Overall FAIR Compliance\n\n*Explanation generation failed: the model returned an empty response.*"
-        missing = [h for h in SECTION_HEADERS if h not in text]
-        if missing:
-            text += f"\n\n*(Note: response may be missing expected section(s): {', '.join(missing)})*"
-        return text
+        raise e  # re-enter the original error handling below
     except Exception as e:
         status = getattr(e, "status_code", None) or getattr(e, "code", None)
         message_lower = str(e).lower()
+        if status in (500, 503, 504) or "unavailable" in message_lower or "high demand" in message_lower:
+            return (
+                "## Overall FAIR Compliance\n\n"
+                "*The AI explanation service is busy right now. The FAIR scores above are "
+                "complete and unaffected; click Regenerate in a minute to get the explanation.*"
+            )
         if status == 429 or "quota" in message_lower or "resource_exhausted" in message_lower:
             return (
                 "## Overall FAIR Compliance\n\n"
