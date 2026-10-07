@@ -1,0 +1,91 @@
+version: "3.8"
+
+services:
+
+  fuji:
+    build: ./fuji
+    environment:
+      - ENABLE_CORS=true
+    ports:
+      - "127.0.0.1:1071:1071"   # exposed for direct debugging; the backend reaches it
+                        # over the internal Docker network regardless
+    restart: unless-stopped
+
+ 
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER:-fair_app}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-fair_app_pw}
+      - POSTGRES_DB=${POSTGRES_DB:-fair_multi_assessor}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+
+  graphdb:
+    image: ontotext/graphdb:10.7.2
+    environment:
+      - GDB_JAVA_OPTS=-Xmx2g -Dgraphdb.workbench.importDirectory=/opt/graphdb/home/graphdb-import -Dgraphdb.workbench.autoload=true
+    volumes:
+      - graphdb_data:/opt/graphdb/home
+      - ./graphdb/repo-config.ttl:/opt/graphdb/home/graphdb-import/fair.ttl:ro
+    ports:
+      - "127.0.0.1:7200:7200"   # exposed for the GraphDB Workbench UI / direct debugging
+    restart: unless-stopped
+
+  backend:
+    build: ./backend
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.0-flash}
+      # service name resolves over the internal Docker network -- no
+      # localhost/port juggling needed between containers
+      - FUJI_API_URL=http://fuji:1071/fuji/api/v1/evaluate
+      - FUJI_USER=${FUJI_USER:-marvel}
+      - FUJI_PASSWORD=${FUJI_PASSWORD:-wonderwoman}
+      - KGHEARTBEAT_API_URL=${KGHEARTBEAT_API_URL:-}
+      - KGHEARTBEAT_FAIRNESS_URL=${KGHEARTBEAT_FAIRNESS_URL:-}
+      - FRONTEND_ORIGINS=${FRONTEND_ORIGINS:-}
+      # Blank by default -- the corpus loads from the CSVs baked into this
+      # image, same as always. Set to enable Postgres, e.g.:
+      #   postgresql://fair_app:fair_app_pw@postgres:5432/fair_multi_assessor
+      # (the `postgres` service above, or your own instance). First boot
+      # with this set creates the schema and seeds it from the CSVs.
+      - DATABASE_URL=${DATABASE_URL:-}
+      # Blank by default -- /sparql runs against an in-memory rdflib graph
+      # rebuilt on demand, same as always. Set to enable GraphDB, e.g.:
+      #   http://graphdb:7200/repositories/fair
+      # (the `graphdb` service above, or your own instance/repository).
+      # First boot with this set seeds the repository from the corpus.
+      - GRAPHDB_SPARQL_URL=${GRAPHDB_SPARQL_URL:-}
+      - GRAPHDB_UPDATE_URL=${GRAPHDB_UPDATE_URL:-}
+    depends_on:
+      - fuji
+      - postgres
+      - graphdb
+    ports:
+      - "127.0.0.1:8000:8000"   # exposed for direct API access / debugging; the
+                        # frontend reaches it via nginx's proxy, not this port
+    volumes:
+      # Without this, every `docker compose up --build` wipes out the
+      # container's writable layer and every snapshot created so far is
+      # gone -- defeats the entire point of a month-over-month archive.
+      # This volume persists snapshots across rebuilds/restarts; the rest
+      # of backend/data (the static BLOD corpus CSVs) is baked into the
+      # image at build time and doesn't need to persist separately.
+      - snapshots_data:/app/data/snapshots
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "80:80"       # the single entry point for the whole app
+    restart: unless-stopped
+
+volumes:
+  snapshots_data:
+  postgres_data:
+  graphdb_data:

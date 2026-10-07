@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+.vite/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# never commit secrets or local env overrides
+.env.*
+!.env.example
+*.local
+.DS_Store
