@@ -4,7 +4,7 @@ A web application that assesses a research resource with three independent
 FAIR tools — **F-UJI**, **FAIR-Checker**, **KGHeartBeat** — normalises their
 output onto a shared mapping, computes a cross-tool consensus, and generates
 an OpenAI-based plain-language explanation.
-
+**🔗 Demo:** https://anonymousrepo0806.github.io/FAIR-Multi-tool-assessment/
 ## Run it (Docker — the standalone way)
 
 This is one app, three containers, one command:
