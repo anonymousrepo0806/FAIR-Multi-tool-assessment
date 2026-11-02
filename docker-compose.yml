@@ -7,7 +7,7 @@ services:
     environment:
       - ENABLE_CORS=true
     ports:
-      - "127.0.0.1:1071:1071"   # exposed for direct debugging; the backend reaches it
+      - "1071:1071"   # exposed for direct debugging; the backend reaches it
                         # over the internal Docker network regardless
     restart: unless-stopped
 
@@ -31,7 +31,7 @@ services:
       - graphdb_data:/opt/graphdb/home
       - ./graphdb/repo-config.ttl:/opt/graphdb/home/graphdb-import/fair.ttl:ro
     ports:
-      - "127.0.0.1:7200:7200"   # exposed for the GraphDB Workbench UI / direct debugging
+      - "7200:7200"   # exposed for the GraphDB Workbench UI / direct debugging
     restart: unless-stopped
 
   backend:
@@ -45,7 +45,6 @@ services:
       - FUJI_USER=${FUJI_USER:-marvel}
       - FUJI_PASSWORD=${FUJI_PASSWORD:-wonderwoman}
       - KGHEARTBEAT_API_URL=${KGHEARTBEAT_API_URL:-}
-      - KGHEARTBEAT_FAIRNESS_URL=${KGHEARTBEAT_FAIRNESS_URL:-}
       - FRONTEND_ORIGINS=${FRONTEND_ORIGINS:-}
       # Blank by default -- the corpus loads from the CSVs baked into this
       # image, same as always. Set to enable Postgres, e.g.:
@@ -65,7 +64,7 @@ services:
       - postgres
       - graphdb
     ports:
-      - "127.0.0.1:8000:8000"   # exposed for direct API access / debugging; the
+      - "8000:8000"   # exposed for direct API access / debugging; the
                         # frontend reaches it via nginx's proxy, not this port
     volumes:
       # Without this, every `docker compose up --build` wipes out the

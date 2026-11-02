@@ -1,0 +1,9 @@
+RQ1 uses 2515 unique datasets; RQ3 uses 2754 assessments
+FAIR-Checker: 22 distinct composite scores, median 0.19, 2% at 0, 0% at 1
+F-UJI: 12 distinct composite scores, median 0.33, 0% at 0, 0% at 1
+KGHeartBeat: 124 distinct composite scores, median 0.48, 0% at 0, 0% at 1
+RQ3 sub-cloud ranking agreement FAIR-Checker vs F-UJI: Spearman +0.87
+RQ3 sub-cloud ranking agreement FAIR-Checker vs KGHeartBeat: Spearman +0.77
+RQ3 sub-cloud ranking agreement F-UJI vs KGHeartBeat: Spearman +0.58
+F-UJI gives every dataset in Cross-domain the same composite score (0.38)
+F-UJI gives every dataset in Media the same composite score (0.38)

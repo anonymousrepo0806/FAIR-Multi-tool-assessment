@@ -82,14 +82,14 @@ def list_sources() -> list[dict]:
         {
             "name": "CheCLOUD",
             "status": "connected_full",
-            "description": "Cultural heritage LOD cloud, "
-                            "a related LOD sub-cloud -- 190 "
+            "description": "Cultural heritage LOD cloud (github.com/GabrieleT0/CHe-CLOUD), "
+                            "a sibling project to BLOD from the same research group -- 190 "
                             "knowledge graphs with real, verified FAIR scores, included in "
                             "snapshots. Assessed by KGHeartBeat ALONE (per its own published "
                             "methodology, not three tools like BLOD), so its consensus is "
                             "correctly reported as \"single_tool\" agreement, not cross-tool. "
                             "A genuinely live per-dataset REST endpoint also exists "
-                            "(KGHeartBeat's public fairness API, confirmed "
+                            "(kgheartbeat.di.unisa.it/kgheartbeat-api/fairness/{id}, confirmed "
                             "in CheCLOUD's own backend source) but is not wired up here -- "
                             "the static CSV above is what's actually loaded.",
         },

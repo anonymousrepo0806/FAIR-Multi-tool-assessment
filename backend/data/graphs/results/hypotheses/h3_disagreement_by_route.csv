@@ -1,0 +1,7 @@
+pair,route,n,mean,median
+FC vs FU,Endpoint or dump working,898,0.1414,0.1037
+FC vs FU,No working endpoint,1856,0.1823,0.1401
+FC vs KG,Endpoint or dump working,898,0.217,0.1296
+FC vs KG,No working endpoint,1856,0.1618,0.0532
+FU vs KG,Endpoint or dump working,898,0.2424,0.1588
+FU vs KG,No working endpoint,1856,0.2652,0.1467

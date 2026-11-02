@@ -1,0 +1,34 @@
+subcloud,pair,n,rho
+BLOD,FC vs FU,1299,0.2418
+BLOD,FC vs KG,1299,0.4179
+BLOD,FU vs KG,1299,-0.3032
+CHeCLOUD,FC vs FU,193,0.8035
+CHeCLOUD,FC vs KG,193,0.5017
+CHeCLOUD,FU vs KG,193,0.4767
+Cross-domain,FC vs FU,78,
+Cross-domain,FC vs KG,78,0.0326
+Cross-domain,FU vs KG,78,
+Geography,FC vs FU,44,0.5551
+Geography,FC vs KG,44,0.5371
+Geography,FU vs KG,44,0.4998
+Government,FC vs FU,188,0.8284
+Government,FC vs KG,188,0.5837
+Government,FU vs KG,188,0.601
+Life Sciences,FC vs FU,355,0.9473
+Life Sciences,FC vs KG,355,0.4491
+Life Sciences,FU vs KG,355,0.3793
+Linguistic,FC vs FU,246,0.3644
+Linguistic,FC vs KG,246,0.1255
+Linguistic,FU vs KG,246,-0.1331
+Media,FC vs FU,36,
+Media,FC vs KG,36,0.4756
+Media,FU vs KG,36,
+Publications,FC vs FU,148,0.356
+Publications,FC vs KG,148,0.4167
+Publications,FU vs KG,148,0.1462
+Social Networking,FC vs FU,96,0.9974
+Social Networking,FC vs KG,96,0.437
+Social Networking,FU vs KG,96,0.4208
+User Generated,FC vs FU,71,0.4097
+User Generated,FC vs KG,71,0.539
+User Generated,FU vs KG,71,0.2416

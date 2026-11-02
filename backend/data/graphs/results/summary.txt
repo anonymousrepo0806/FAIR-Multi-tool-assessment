@@ -1,0 +1,20 @@
+Correlations tested: 124 (defined), 56 undefined (constant scores)
+Significant at 0.05: Benjamini-Hochberg 98, Holm 83, Benjamini-Yekutieli 86 of 124
+  Significant under BH but not Holm: Publications F FC-KG (rho +0.221, q_BH 0.01); Publications I FC-KG (rho +0.197, q_BH 0.0214); Social Networking I FC-KG (rho +0.267, q_BH 0.0122); CHeCLOUD R FC-KG (rho +0.164, q_BH 0.0287); Geography R FC-KG (rho +0.407, q_BH 0.00887); User Generated R FC-KG (rho +0.293, q_BH 0.0181); Media composite FC-KG (rho +0.476, q_BH 0.00497); Geography A FU-KG (rho +0.318, q_BH 0.0452); Life Sciences A FU-KG (rho -0.128, q_BH 0.0212); Linguistic I FU-KG (rho -0.158, q_BH 0.0179); Social Networking I FU-KG (rho +0.245, q_BH 0.0214); CHeCLOUD R FU-KG (rho +0.164, q_BH 0.0287); Geography R FU-KG (rho +0.407, q_BH 0.00887); User Generated R FU-KG (rho +0.293, q_BH 0.0181); Linguistic composite FU-KG (rho -0.133, q_BH 0.0468)
+  Significant under BH but not Benjamini-Yekutieli: Publications F FC-KG (rho +0.221, q_BH 0.01); Publications I FC-KG (rho +0.197, q_BH 0.0214); Social Networking I FC-KG (rho +0.267, q_BH 0.0122); CHeCLOUD R FC-KG (rho +0.164, q_BH 0.0287); User Generated R FC-KG (rho +0.293, q_BH 0.0181); Geography A FU-KG (rho +0.318, q_BH 0.0452); Life Sciences A FU-KG (rho -0.128, q_BH 0.0212); Linguistic I FU-KG (rho -0.158, q_BH 0.0179); Social Networking I FU-KG (rho +0.245, q_BH 0.0214); CHeCLOUD R FU-KG (rho +0.164, q_BH 0.0287); User Generated R FU-KG (rho +0.293, q_BH 0.0181); Linguistic composite FU-KG (rho -0.133, q_BH 0.0468)
+Composite FC-FU: pooled +0.645 vs stratified +0.554
+Composite FC-KG: pooled +0.763 vs stratified +0.329
+Composite FU-KG: pooled +0.301 vs stratified +0.033
+Test-retest FC [all]: n=236, identical=126, max |diff|=0.73, rho=+0.51
+Test-retest FC [same URL]: n=126, identical=126, max |diff|=0.00, rho=+1.00
+Test-retest FC [different URL]: n=110, identical=0, max |diff|=0.73, rho=+0.42
+Test-retest FU [all]: n=236, identical=134, max |diff|=0.33, rho=+0.42
+Test-retest FU [same URL]: n=126, identical=126, max |diff|=0.00, rho=+nan
+Test-retest FU [different URL]: n=110, identical=8, max |diff|=0.33, rho=-0.56
+Test-retest KG [all]: n=236, identical=59, max |diff|=0.25, rho=+0.84
+Test-retest KG [same URL]: n=130, identical=58, max |diff|=0.15, rho=+0.96
+Test-retest KG [different URL]: n=106, identical=1, max |diff|=0.25, rho=+0.88
+Sensitivity to first/last/mean assessment: max change in pooled rho = 0.101
+BLOD top-10% overlap FC-FU: 24.2% (chance 10%)
+BLOD top-10% overlap FC-KG: 15.5% (chance 10%)
+BLOD top-10% overlap FU-KG: 3.1% (chance 10%)

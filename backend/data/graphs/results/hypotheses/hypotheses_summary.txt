@@ -1,0 +1,34 @@
+H1 principle-level rho: shared-source mean +0.242 (n=15), divergent-source mean +0.156 (n=14), one-sided Mann-Whitney p=0.323; 2 undefined
+H2 FC vs FU: Spearman +0.645, Kendall tau-b +0.508, gap +0.136
+H2 FC vs KG: Spearman +0.763, Kendall tau-b +0.636, gap +0.126
+H2 FU vs KG: Spearman +0.301, Kendall tau-b +0.209, gap +0.092
+H2 FAIR-Checker: 22 distinct composite values, 24.2% of dataset pairs tied
+H2 F-UJI: 12 distinct composite values, 33.8% of dataset pairs tied
+H2 KGHeartBeat: 124 distinct composite values, 15.1% of dataset pairs tied
+H2 top-10% overlap FC vs FU: 22.9% (tie-break range 18.7%-27.0%)
+H2 top-10% overlap FC vs KG: 30.4% (tie-break range 27.0%-34.1%)
+H2 top-10% overlap FU vs KG: 19.0% (tie-break range 14.3%-23.0%)
+H3 FAIR-Checker [Same URL]: n=126, identical=126, mean |diff|=0.000, max |diff|=0.00
+H3 FAIR-Checker [Different URL]: n=110, identical=0, mean |diff|=0.303, max |diff|=0.73
+H3 F-UJI [Same URL]: n=126, identical=126, mean |diff|=0.000, max |diff|=0.00
+H3 F-UJI [Different URL]: n=110, identical=8, mean |diff|=0.178, max |diff|=0.33
+H3 KGHeartBeat [Same URL]: n=130, identical=58, mean |diff|=0.036, max |diff|=0.15
+H3 KGHeartBeat [Different URL]: n=106, identical=1, mean |diff|=0.090, max |diff|=0.25
+H3 FC vs FU: mean rank disagreement Endpoint or dump working 0.141 (n=898), No working endpoint 0.182 (n=1856)
+H3 FC vs KG: mean rank disagreement Endpoint or dump working 0.217 (n=898), No working endpoint 0.162 (n=1856)
+H3 FU vs KG: mean rank disagreement Endpoint or dump working 0.242 (n=898), No working endpoint 0.265 (n=1856)
+H4 pid_doi vs agreement FC vs FU: Spearman +0.25 (p=0.515, 9 sub-clouds)
+H4 pid_doi vs agreement FC vs KG: Spearman -0.03 (p=0.937, 11 sub-clouds)
+H4 pid_doi vs agreement FU vs KG: Spearman +0.14 (p=0.725, 9 sub-clouds)
+H4 metadata_completeness vs agreement FC vs FU: Spearman -0.17 (p=0.668, 9 sub-clouds)
+H4 metadata_completeness vs agreement FC vs KG: Spearman -0.20 (p=0.555, 11 sub-clouds)
+H4 metadata_completeness vs agreement FU vs KG: Spearman -0.05 (p=0.898, 9 sub-clouds)
+H4 interlinked vs agreement FC vs FU: Spearman +0.37 (p=0.334, 9 sub-clouds)
+H4 interlinked vs agreement FC vs KG: Spearman +0.03 (p=0.937, 11 sub-clouds)
+H4 interlinked vs agreement FU vs KG: Spearman +0.27 (p=0.476, 9 sub-clouds)
+H4 endpoint vs agreement FC vs FU: Spearman +0.22 (p=0.576, 9 sub-clouds)
+H4 endpoint vs agreement FC vs KG: Spearman +0.17 (p=0.612, 11 sub-clouds)
+H4 endpoint vs agreement FU vs KG: Spearman +0.07 (p=0.865, 9 sub-clouds)
+H4 FC vs FU: pooled rho +0.645, stratified rho +0.554
+H4 FC vs KG: pooled rho +0.763, stratified rho +0.329
+H4 FU vs KG: pooled rho +0.301, stratified rho +0.033

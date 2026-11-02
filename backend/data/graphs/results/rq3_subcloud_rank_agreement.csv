@@ -1,0 +1,4 @@
+tool,FAIR-Checker,F-UJI,KGHeartBeat
+FAIR-Checker,1.0,0.875,0.773
+F-UJI,0.875,1.0,0.579
+KGHeartBeat,0.773,0.579,1.0

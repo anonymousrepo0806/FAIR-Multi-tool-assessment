@@ -1,0 +1,122 @@
+subcloud,principle,n,consensus_fail,consensus_pass,no_consensus
+BLOD,F1,1299,0.0,0.0,1.0
+BLOD,F2,1299,0.0,0.0,1.0
+BLOD,F3,1299,0.7945,0.0031,0.2025
+BLOD,A1,1299,0.0,0.0015,0.9985
+BLOD,A1.2,1299,0.0,0.0008,0.9992
+BLOD,I1,1299,0.0,0.0,1.0
+BLOD,I2,1299,0.2733,0.0,0.7267
+BLOD,I3,1299,0.9045,0.0008,0.0947
+BLOD,R1.1,1299,0.8345,0.0015,0.164
+BLOD,R1.2,1299,0.5982,0.0046,0.3972
+BLOD,R1.3,1299,0.0,0.0008,0.9992
+CHeCLOUD,F1,193,0.0,0.0,1.0
+CHeCLOUD,F2,193,0.0,0.0,1.0
+CHeCLOUD,F3,193,0.8912,0.0,0.1088
+CHeCLOUD,A1,193,0.0,0.0,1.0
+CHeCLOUD,A1.2,193,0.0,0.0,1.0
+CHeCLOUD,I1,193,0.0,0.2228,0.7772
+CHeCLOUD,I2,193,0.2539,0.0104,0.7358
+CHeCLOUD,I3,193,0.2539,0.0,0.7461
+CHeCLOUD,R1.1,193,0.3005,0.0,0.6995
+CHeCLOUD,R1.2,193,0.0,0.0,1.0
+CHeCLOUD,R1.3,193,0.0,0.0,1.0
+Cross-domain,F1,78,0.0,0.0,1.0
+Cross-domain,F2,78,0.0,0.0,1.0
+Cross-domain,F3,78,0.0,0.0,1.0
+Cross-domain,A1,78,0.0,0.0,1.0
+Cross-domain,A1.2,78,0.0,0.0,1.0
+Cross-domain,I1,78,0.0,0.2821,0.7179
+Cross-domain,I2,78,0.0,0.0128,0.9872
+Cross-domain,I3,78,0.0,0.0,1.0
+Cross-domain,R1.1,78,0.3205,0.0,0.6795
+Cross-domain,R1.2,78,0.0,0.0,1.0
+Cross-domain,R1.3,78,0.0,0.0,1.0
+Geography,F1,44,0.0,0.0,1.0
+Geography,F2,44,0.0,0.0,1.0
+Geography,F3,44,0.0,0.0,1.0
+Geography,A1,44,0.0,0.0,1.0
+Geography,A1.2,44,0.0,0.0,1.0
+Geography,I1,44,0.0,0.4091,0.5909
+Geography,I2,44,0.0909,0.0227,0.8864
+Geography,I3,44,0.0,0.0,1.0
+Geography,R1.1,44,0.3409,0.0,0.6591
+Geography,R1.2,44,0.0,0.0,1.0
+Geography,R1.3,44,0.0,0.0,1.0
+Government,F1,188,0.0,0.0,1.0
+Government,F2,188,0.0,0.0,1.0
+Government,F3,188,0.0,0.0,1.0
+Government,A1,188,0.0,0.0,1.0
+Government,A1.2,188,0.0,0.0,1.0
+Government,I1,188,0.0,0.266,0.734
+Government,I2,188,0.2819,0.0053,0.7128
+Government,I3,188,0.0,0.0,1.0
+Government,R1.1,188,0.516,0.0,0.484
+Government,R1.2,188,0.0,0.0,1.0
+Government,R1.3,188,0.0,0.0,1.0
+Life Sciences,F1,355,0.0,0.0,1.0
+Life Sciences,F2,355,0.0,0.0,1.0
+Life Sciences,F3,355,0.0,0.0,1.0
+Life Sciences,A1,355,0.0,0.0,1.0
+Life Sciences,A1.2,355,0.0,0.0,1.0
+Life Sciences,I1,355,0.0,0.1521,0.8479
+Life Sciences,I2,355,0.5718,0.0,0.4282
+Life Sciences,I3,355,0.0,0.0,1.0
+Life Sciences,R1.1,355,0.7634,0.0,0.2366
+Life Sciences,R1.2,355,0.0,0.0,1.0
+Life Sciences,R1.3,355,0.0,0.0,1.0
+Linguistic,F1,246,0.0,0.0,1.0
+Linguistic,F2,246,0.0,0.0,1.0
+Linguistic,F3,246,0.0,0.0,1.0
+Linguistic,A1,246,0.0,0.0,1.0
+Linguistic,A1.2,246,0.0,0.0,1.0
+Linguistic,I1,246,0.0,0.4553,0.5447
+Linguistic,I2,246,0.0244,0.0122,0.9634
+Linguistic,I3,246,0.0,0.0,1.0
+Linguistic,R1.1,246,0.187,0.0,0.813
+Linguistic,R1.2,246,0.0,0.0,1.0
+Linguistic,R1.3,246,0.0,0.0,1.0
+Media,F1,36,0.0,0.0,1.0
+Media,F2,36,0.0,0.0,1.0
+Media,F3,36,0.0,0.0,1.0
+Media,A1,36,0.0,0.0,1.0
+Media,A1.2,36,0.0,0.0,1.0
+Media,I1,36,0.0,0.3611,0.6389
+Media,I2,36,0.0,0.0,1.0
+Media,I3,36,0.0,0.0,1.0
+Media,R1.1,36,0.3611,0.0,0.6389
+Media,R1.2,36,0.0,0.0,1.0
+Media,R1.3,36,0.0,0.0,1.0
+Publications,F1,148,0.0,0.0,1.0
+Publications,F2,148,0.0,0.0,1.0
+Publications,F3,148,0.0,0.0,1.0
+Publications,A1,148,0.0,0.0,1.0
+Publications,A1.2,148,0.0,0.0,1.0
+Publications,I1,148,0.0,0.2568,0.7432
+Publications,I2,148,0.0338,0.0,0.9662
+Publications,I3,148,0.0,0.0,1.0
+Publications,R1.1,148,0.5135,0.0,0.4865
+Publications,R1.2,148,0.0,0.0,1.0
+Publications,R1.3,148,0.0,0.0,1.0
+Social Networking,F1,96,0.0,0.0,1.0
+Social Networking,F2,96,0.0,0.0,1.0
+Social Networking,F3,96,0.0,0.0,1.0
+Social Networking,A1,96,0.0,0.0,1.0
+Social Networking,A1.2,96,0.0,0.0,1.0
+Social Networking,I1,96,0.0,0.0312,0.9688
+Social Networking,I2,96,0.8646,0.0104,0.125
+Social Networking,I3,96,0.0,0.0,1.0
+Social Networking,R1.1,96,0.9271,0.0,0.0729
+Social Networking,R1.2,96,0.0,0.0,1.0
+Social Networking,R1.3,96,0.0,0.0,1.0
+User Generated,F1,71,0.0,0.0,1.0
+User Generated,F2,71,0.0,0.0,1.0
+User Generated,F3,71,0.0,0.0,1.0
+User Generated,A1,71,0.0,0.0,1.0
+User Generated,A1.2,71,0.0,0.0,1.0
+User Generated,I1,71,0.0,0.2113,0.7887
+User Generated,I2,71,0.0423,0.0,0.9577
+User Generated,I3,71,0.0,0.0,1.0
+User Generated,R1.1,71,0.2394,0.0,0.7606
+User Generated,R1.2,71,0.0,0.0,1.0
+User Generated,R1.3,71,0.0,0.0,1.0

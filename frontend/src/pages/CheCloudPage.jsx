@@ -4,7 +4,8 @@ import { fetchChecloudSummary, fetchChecloudDatasets, fetchChecloudDatasetDetail
 /**
  * CheCloudPage
  * ==============
- * Browse CheCLOUD (Cultural Heritage LOD Cloud) -- a related LOD sub-cloud, 190 KGs, assessed by KGHeartBeat
+ * Browse CheCLOUD (Cultural Heritage LOD Cloud) -- a sibling corpus to
+ * BLOD from the same research group, 190 KGs, assessed by KGHeartBeat
  * ALONE (not three tools like BLOD). Deliberately a separate page rather
  * than folded into BlodCloudPage: the data shape is genuinely different
  * (single-tool dimension scores + full metric breakdown, no per-tool
@@ -70,7 +71,8 @@ export default function CheCloudPage() {
       <header className="dashboard__header">
         <h1>CheCLOUD</h1>
         <p>
-          Cultural Heritage Linked Open Data Cloud — a related LOD sub-cloud, assessed by KGHeartBeat alone (not three tools). No cross-tool consensus here — there's
+          Cultural Heritage Linked Open Data Cloud — a sibling corpus to BLOD from the same research
+          group, assessed by KGHeartBeat alone (not three tools). No cross-tool consensus here — there's
           only one tool's opinion to show.
         </p>
       </header>

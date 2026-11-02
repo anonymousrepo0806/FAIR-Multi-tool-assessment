@@ -1,0 +1,2755 @@
+dataset_id,subcloud,pid_doi,metadata_completeness,interlinked,endpoint
+10x-human-cerebellum-organoid,BLOD,0.0,0.22,0.0,0.0
+abd,BLOD,0.0,0.22,0.0,0.0
+aceso,BLOD,0.0,0.22,0.0,0.0
+acvd-ontology,BLOD,0.0,0.22,0.0,0.0
+ad-drop,BLOD,0.0,0.22,0.0,0.0
+adalab,BLOD,0.0,0.22,0.0,0.0
+adalab-meta,BLOD,0.0,0.22,0.0,0.0
+adar,BLOD,0.0,0.22,0.0,0.0
+adcad,BLOD,0.0,0.22,0.0,0.0
+addgene,BLOD,1.0,0.67,1.0,0.0
+addicto,BLOD,0.0,0.22,0.0,0.0
+adher-intcare-en,BLOD,0.0,0.22,0.0,0.0
+adher-intcare-sp,BLOD,0.0,0.22,0.0,0.0
+adicap,BLOD,0.0,0.22,0.0,0.0
+admf,BLOD,0.0,0.22,0.0,0.0
+admin,BLOD,0.0,0.22,0.0,0.0
+admo,BLOD,0.0,0.22,0.0,0.0
+adni-ontology,BLOD,0.0,0.22,0.0,0.0
+ado,BLOD,0.0,0.33,0.0,0.0
+aero,BLOD,1.0,0.44,0.0,0.0
+afo,BLOD,1.0,0.56,0.0,0.0
+agrocymac,BLOD,0.0,0.22,0.0,0.0
+agromop,BLOD,0.0,0.22,0.0,0.0
+ahol,BLOD,0.0,0.22,0.0,0.0
+ahso,BLOD,0.0,0.22,0.0,0.0
+ai,BLOD,0.0,0.22,0.0,0.0
+aio,BLOD,0.0,0.22,0.0,0.0
+allergidoc,BLOD,0.0,0.22,0.0,0.0
+allergydetector,BLOD,0.0,0.22,0.0,0.0
+altproton,BLOD,0.0,0.22,0.0,0.0
+amphx,BLOD,1.0,0.56,0.0,0.0
+animal-disease-symptom-ontology,BLOD,1.0,0.33,0.0,0.0
+ao,BLOD,0.0,0.22,0.0,0.0
+apadisorders,BLOD,0.0,0.22,0.0,0.0
+apaeducluster,BLOD,0.0,0.22,0.0,0.0
+apaneurocluster,BLOD,0.0,0.22,0.0,0.0
+apaocuemploy,BLOD,0.0,0.22,0.0,0.0
+apaonto,BLOD,0.0,0.22,0.0,0.0
+apastatistical,BLOD,0.0,0.22,0.0,0.0
+apatandt,BLOD,0.0,0.22,0.0,0.0
+apatreatment,BLOD,0.0,0.22,0.0,0.0
+apollo-sv,BLOD,0.0,0.22,0.0,0.0
+apro,BLOD,0.0,0.22,0.0,0.0
+arcrc,BLOD,0.0,0.22,0.0,0.0
+aro/aro,BLOD,1.0,0.44,0.0,0.0
+arrayexpress-e-afmx-1,BLOD,1.0,0.67,0.0,1.0
+asdf,BLOD,0.0,0.22,0.0,0.0
+asdpto,BLOD,0.0,0.22,0.0,0.0
+aspect,BLOD,0.0,0.22,0.0,0.0
+assaynode,BLOD,0.0,0.22,0.0,0.0
+atol,BLOD,0.0,0.22,0.0,0.0
+atom,BLOD,0.0,0.22,0.0,0.0
+aura,BLOD,0.0,0.22,0.0,0.0
+auto,BLOD,0.0,0.33,0.0,0.0
+autocoo,BLOD,0.0,0.22,0.0,0.0
+bacteria-infectious-disease-ontology,BLOD,0.0,0.22,0.0,0.0
+bacteria-ontologia,BLOD,0.0,0.22,0.0,0.0
+bacteria-ontology,BLOD,0.0,0.22,0.0,0.0
+bao-gpcr,BLOD,0.0,0.22,0.0,0.0
+basic-gene-ontology,BLOD,0.0,0.22,0.0,0.0
+bayesgo2do,BLOD,0.0,0.22,0.0,0.0
+bbc-wildlife,BLOD,0.0,0.22,0.0,0.0
+bcgo,BLOD,1.0,0.56,0.0,0.0
+bci,BLOD,0.0,0.44,0.0,0.0
+bci-o,BLOD,0.0,0.22,0.0,0.0
+bcio,BLOD,0.0,0.22,0.0,0.0
+bclion,BLOD,0.0,0.22,0.0,0.0
+bcmo,BLOD,0.0,0.22,0.0,0.0
+bco,BLOD,0.0,0.44,0.0,0.0
+bcon,BLOD,0.0,0.22,0.0,0.0
+bcontology,BLOD,0.0,0.22,0.0,0.0
+bcs7,BLOD,0.0,0.22,0.0,0.0
+bcs8,BLOD,0.0,0.22,0.0,0.0
+bcsr-onto,BLOD,0.0,0.22,0.0,0.0
+bcteo,BLOD,0.0,0.22,0.0,0.0
+bctt,BLOD,0.0,0.22,0.0,0.0
+bdpm,BLOD,0.0,0.22,0.0,0.0
+be,BLOD,0.0,0.22,0.0,0.0
+behavior-ontology,BLOD,0.0,0.44,0.0,0.0
+bero,BLOD,0.0,0.22,0.0,0.0
+bflc,BLOD,0.0,0.22,0.0,0.0
+bfo,BLOD,0.0,0.33,0.0,0.0
+bhn,BLOD,0.0,0.22,0.0,0.0
+bibframe,BLOD,0.0,0.22,0.0,0.0
+bibliotek-o,BLOD,0.0,0.22,0.0,0.0
+bifo,BLOD,0.0,0.22,0.0,0.0
+bim,BLOD,0.0,0.22,0.0,0.0
+bim-biomedical-image-ontology,BLOD,0.0,0.22,0.0,0.0
+bin,BLOD,0.0,0.22,0.0,0.0
+binf,BLOD,0.0,0.22,0.0,0.0
+bio-attribute-ontology,BLOD,0.0,0.44,0.0,0.0
+bio2rdf-affymetrix,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-bioportal,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-chembl,BLOD,1.0,0.89,1.0,1.0
+bio2rdf-clinicaltrials,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-ctd,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-dbsnp,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-genage,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-gendr,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-goa,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-hgnc,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-homologene,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-interpro,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-iproclass,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-irefindex,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-kegg,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-linkedspl,BLOD,1.0,0.89,0.0,1.0
+bio2rdf-lsr,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-mesh,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-ncbigene,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-ndc,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-omim,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-orphanet,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-pathwaycommons,BLOD,1.0,0.89,0.0,1.0
+bio2rdf-pharmgkb,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-pubmed,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-reactome,BLOD,1.0,0.78,1.0,1.0
+bio2rdf-sabiork,BLOD,1.0,0.89,1.0,1.0
+bio2rdf-sgd,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-sider,BLOD,1.0,1.0,1.0,1.0
+bio2rdf-taxon,BLOD,1.0,0.78,1.0,1.0
+bio2rdf-wormbase,BLOD,1.0,1.0,1.0,1.0
+biodivthes,BLOD,0.0,0.22,0.0,0.0
+biol,BLOD,0.0,0.44,0.0,0.0
+biolink,BLOD,0.0,0.22,0.0,0.0
+biolod-pdb,BLOD,1.0,0.78,1.0,0.0
+biological-co-analysis,BLOD,0.0,0.22,0.0,0.0
+biomo,BLOD,0.0,0.22,0.0,0.0
+biomodels,BLOD,0.0,0.22,0.0,0.0
+biopax,BLOD,0.0,0.44,0.0,0.0
+bioportal,BLOD,0.0,0.33,0.0,0.0
+bioportal-aeo,BLOD,1.0,0.67,1.0,0.0
+bioportal-air,BLOD,1.0,0.67,1.0,0.0
+bioportal-apo,BLOD,1.0,0.67,1.0,0.0
+bioportal-bcgo,BLOD,1.0,0.67,1.0,0.0
+bioportal-bdo,BLOD,1.0,0.67,1.0,0.0
+bioportal-bootstrep,BLOD,1.0,0.67,1.0,0.0
+bioportal-bp,BLOD,1.0,0.78,1.0,0.0
+bioportal-bto,BLOD,1.0,0.67,1.0,0.0
+bioportal-chebi,BLOD,1.0,0.67,1.0,0.0
+bioportal-cheminf,BLOD,1.0,0.78,1.0,0.0
+bioportal-cl,BLOD,1.0,0.67,1.0,0.0
+bioportal-cogat,BLOD,1.0,0.67,1.0,0.0
+bioportal-ddi,BLOD,1.0,0.67,1.0,0.0
+bioportal-ecg,BLOD,1.0,0.67,1.0,0.0
+bioportal-efo,BLOD,1.0,0.56,1.0,0.0
+bioportal-ehdaa,BLOD,1.0,0.67,1.0,0.0
+bioportal-ev,BLOD,1.0,0.67,1.0,0.0
+bioportal-exo,BLOD,1.0,0.67,1.0,0.0
+bioportal-fbbt,BLOD,1.0,0.67,1.0,0.0
+bioportal-fbdv,BLOD,1.0,0.67,1.0,0.0
+bioportal-fypo,BLOD,1.0,0.67,1.0,0.0
+bioportal-geospecies,BLOD,1.0,0.67,1.0,0.0
+bioportal-gro,BLOD,1.0,0.56,0.0,0.0
+bioportal-hao,BLOD,1.0,0.67,1.0,0.0
+bioportal-hugo,BLOD,1.0,0.67,1.0,0.0
+bioportal-icf-x1,BLOD,1.0,0.67,1.0,0.0
+bioportal-ido,BLOD,1.0,0.67,1.0,0.0
+bioportal-imr,BLOD,1.0,0.67,1.0,0.0
+bioportal-jerm,BLOD,1.0,0.67,1.0,0.0
+bioportal-lipro,BLOD,1.0,0.67,1.0,0.0
+bioportal-mcbcc,BLOD,1.0,0.67,1.0,0.0
+bioportal-mccl-x1,BLOD,1.0,0.56,1.0,0.0
+bioportal-mdr,BLOD,1.0,0.67,1.0,0.0
+bioportal-mego,BLOD,1.0,0.67,1.0,0.0
+bioportal-mmo,BLOD,1.0,0.67,1.0,0.0
+bioportal-mo,BLOD,1.0,0.67,1.0,0.0
+bioportal-mod,BLOD,1.0,0.67,1.0,0.0
+bioportal-mpath,BLOD,1.0,0.67,1.0,0.0
+bioportal-ms,BLOD,1.0,0.67,1.0,0.0
+bioportal-ncbitaxon,BLOD,1.0,0.67,1.0,0.0
+bioportal-nddf,BLOD,1.0,0.67,1.0,0.0
+bioportal-ndfrt,BLOD,1.0,0.67,1.0,0.0
+bioportal-neomark,BLOD,1.0,0.67,1.0,0.0
+bioportal-nif-cell,BLOD,1.0,0.67,1.0,0.0
+bioportal-nigo,BLOD,1.0,0.67,1.0,0.0
+bioportal-nmr,BLOD,1.0,0.67,1.0,0.0
+bioportal-npo,BLOD,1.0,0.67,1.0,0.0
+bioportal-oboe,BLOD,1.0,0.67,1.0,0.0
+bioportal-ogi,BLOD,1.0,0.67,1.0,0.0
+bioportal-ogmd,BLOD,1.0,0.67,1.0,0.0
+bioportal-ontoorpha,BLOD,1.0,0.78,1.0,0.0
+bioportal-pato,BLOD,1.0,0.67,1.0,0.0
+bioportal-pdq,BLOD,1.0,0.67,1.0,0.0
+bioportal-phare,BLOD,1.0,0.67,1.0,0.0
+bioportal-pw,BLOD,1.0,0.67,1.0,0.0
+bioportal-rex,BLOD,1.0,0.67,1.0,0.0
+bioportal-rnao,BLOD,1.0,0.67,1.0,0.0
+bioportal-sao,BLOD,1.0,0.67,1.0,0.0
+bioportal-sio,BLOD,1.0,0.89,1.0,1.0
+bioportal-snpo,BLOD,1.0,0.67,1.0,0.0
+bioportal-spto,BLOD,1.0,0.67,1.0,0.0
+bioportal-unitsontology,BLOD,1.0,0.67,1.0,0.0
+bioportal-uo,BLOD,1.0,0.67,1.0,0.0
+bioportal-wbphenotype,BLOD,1.0,0.67,1.0,0.0
+biosamples-rdf,BLOD,1.0,0.78,1.0,1.0
+biotop,BLOD,0.0,0.44,0.0,0.0
+bipom,BLOD,0.0,0.22,0.0,0.0
+birthonto,BLOD,0.0,0.22,0.0,0.0
+bko,BLOD,0.0,0.22,0.0,0.0
+bllm,BLOD,0.0,0.22,0.0,0.0
+bluegenes-gene-ontology,BLOD,0.0,0.33,0.0,0.0
+bmont/bmont,BLOD,1.0,0.44,0.0,0.0
+bms-lm,BLOD,0.0,0.22,0.0,0.0
+bmt,BLOD,0.0,0.22,0.0,0.0
+bno,BLOD,0.0,0.22,0.0,0.0
+bof,BLOD,0.0,0.22,0.0,0.0
+boshi,BLOD,0.0,0.22,0.0,0.0
+bp-metadata,BLOD,0.0,0.22,0.0,0.0
+bpforms,BLOD,0.0,0.22,0.0,0.0
+bpt,BLOD,0.0,0.22,0.0,0.0
+brain-cof,BLOD,0.0,0.22,0.0,0.0
+brazi,BLOD,0.0,0.22,0.0,0.0
+brct,BLOD,0.0,0.22,0.0,0.0
+breast-cancer-ontology,BLOD,0.0,0.22,0.0,0.0
+bridg,BLOD,0.0,0.22,0.0,0.0
+brso,BLOD,0.0,0.22,0.0,0.0
+bsao,BLOD,0.0,0.22,0.0,0.0
+bspo,BLOD,1.0,0.56,0.0,0.0
+bt-ontology,BLOD,0.0,0.22,0.0,0.0
+bto,BLOD,1.0,0.56,0.0,0.0
+bto-bfo,BLOD,0.0,0.22,0.0,0.0
+bto-ontology,BLOD,0.0,0.22,0.0,0.0
+bto-provo,BLOD,0.0,0.22,0.0,0.0
+bulk-rna-sequencing,BLOD,0.0,0.22,0.0,0.0
+cabro,BLOD,0.0,0.22,0.0,0.0
+cancerdiseaseontology,BLOD,0.0,0.22,0.0,0.0
+canont,BLOD,0.0,0.22,0.0,0.0
+cao,BLOD,1.0,0.33,0.0,0.0
+cardiovasculardiseasesontology,BLOD,0.0,0.22,0.0,0.0
+caro,BLOD,1.0,0.56,0.0,0.0
+carolio,BLOD,1.0,0.44,0.0,0.0
+carre,BLOD,0.0,0.22,0.0,0.0
+case-base-onto,BLOD,0.0,0.22,0.0,0.0
+cbo,BLOD,0.0,0.22,0.0,0.0
+ccfo,BLOD,0.0,0.44,0.0,0.0
+cco,BLOD,0.0,0.33,0.0,0.0
+ccon,BLOD,0.0,0.22,0.0,0.0
+ccont,BLOD,0.0,0.22,0.0,0.0
+cctoo,BLOD,0.0,0.22,0.0,0.0
+cdmonto,BLOD,0.0,0.22,0.0,0.0
+cdno,BLOD,1.0,0.56,0.0,0.0
+cdo,BLOD,0.0,0.22,0.0,0.0
+cdoh,BLOD,0.0,0.22,0.0,0.0
+cdpeo,BLOD,0.0,0.22,0.0,0.0
+cdt-ontology,BLOD,0.0,0.22,0.0,0.0
+cedarpc,BLOD,0.0,0.22,0.0,0.0
+cedarvs,BLOD,0.0,0.22,0.0,0.0
+cell-ontology,BLOD,0.0,0.44,0.0,0.0
+cellfinder,BLOD,0.0,0.22,0.0,0.0
+cellxgene-ontology-guide,BLOD,0.0,0.33,0.0,0.0
+ceph/ceph,BLOD,1.0,0.44,0.0,0.0
+chd,BLOD,0.0,0.22,0.0,0.0
+chear,BLOD,0.0,0.22,0.0,0.0
+chebi,BLOD,1.0,0.44,0.0,0.0
+chem2bio2rdf,BLOD,1.0,0.67,1.0,0.0
+cheminf,BLOD,1.0,0.56,0.0,0.0
+chempedia-rdf,BLOD,1.0,0.78,0.0,1.0
+chemrof,BLOD,1.0,0.44,0.0,0.0
+chiro,BLOD,1.0,0.44,0.0,0.0
+chmo,BLOD,1.0,0.56,0.0,0.0
+cho,BLOD,0.0,0.22,0.0,0.0
+chr,BLOD,0.0,0.22,0.0,0.0
+chro,BLOD,0.0,0.22,0.0,0.0
+cido,BLOD,1.0,0.56,0.0,0.0
+cidoc-crm,BLOD,0.0,0.22,0.0,0.0
+ciinteado,BLOD,0.0,0.22,0.0,0.0
+cisaviado,BLOD,0.0,0.22,0.0,0.0
+ckdo,BLOD,0.0,0.22,0.0,0.0
+cl,BLOD,1.0,0.56,0.0,0.0
+clinical-trial-ontology,BLOD,0.0,0.22,0.0,0.0
+clinreason,BLOD,0.0,0.22,0.0,0.0
+clustering-on-gene-annotations,BLOD,0.0,0.22,0.0,0.0
+clusterprofiler,BLOD,0.0,0.44,0.0,0.0
+cmdo,BLOD,0.0,0.22,0.0,0.0
+cmeo,BLOD,0.0,0.22,0.0,0.0
+cmo,BLOD,1.0,0.44,0.0,0.0
+cmpo/cmpo,BLOD,1.0,0.44,0.0,0.0
+cmr-qa,BLOD,0.0,0.22,0.0,0.0
+cn,BLOD,0.0,0.22,0.0,0.0
+cob,BLOD,1.0,0.56,0.0,0.0
+cochrane,BLOD,0.0,0.44,0.0,0.0
+cocoon,BLOD,0.0,0.44,0.0,0.0
+codmo,BLOD,1.0,0.44,0.0,0.0
+codo,BLOD,1.0,0.44,0.0,0.0
+cohsi2study,BLOD,0.0,0.22,0.0,0.0
+cohsi2termsweekx,BLOD,0.0,0.22,0.0,0.0
+coid,BLOD,0.0,0.22,0.0,0.0
+cokpme,BLOD,0.0,0.22,0.0,0.0
+colao,BLOD,0.0,0.22,0.0,0.0
+comet,BLOD,0.0,0.22,0.0,0.0
+como,BLOD,0.0,0.22,0.0,0.0
+comodi,BLOD,0.0,0.22,0.0,0.0
+conso,BLOD,0.0,0.33,0.0,0.0
+contsonto,BLOD,0.0,0.22,0.0,0.0
+copdo,BLOD,0.0,0.22,0.0,0.0
+covid-19,BLOD,1.0,0.44,0.0,0.0
+covid-19-ont-pm,BLOD,0.0,0.22,0.0,0.0
+covid-19-ontology,BLOD,0.0,0.22,0.0,0.0
+covid19,BLOD,0.0,0.22,0.0,0.0
+covid19-epidemiology-ontology,BLOD,0.0,0.22,0.0,0.0
+covid19-ibo,BLOD,0.0,0.22,0.0,0.0
+covidcrfrapid,BLOD,0.0,0.22,0.0,0.0
+covoc,BLOD,0.0,0.22,0.0,0.0
+cpro,BLOD,0.0,0.22,0.0,0.0
+cptac,BLOD,0.0,0.22,0.0,0.0
+creno,BLOD,0.0,0.22,0.0,0.0
+cro,BLOD,0.0,0.33,0.0,0.0
+crohn-ontology,BLOD,0.0,0.22,0.0,0.0
+crop-ontology,BLOD,0.0,0.44,0.0,0.0
+cryoem,BLOD,0.0,0.22,0.0,0.0
+cs,BLOD,0.0,0.22,0.0,0.0
+cseo,BLOD,0.0,0.22,0.0,0.0
+cso,BLOD,0.0,0.22,0.0,0.0
+csso,BLOD,0.0,0.22,0.0,0.0
+cst,BLOD,0.0,0.22,0.0,0.0
+cstd,BLOD,0.0,0.22,0.0,0.0
+cteno/cteno,BLOD,1.0,0.44,0.0,0.0
+ctgo,BLOD,0.0,0.22,0.0,0.0
+cto,BLOD,0.0,0.22,0.0,0.0
+cto-ndd,BLOD,0.0,0.22,0.0,0.0
+ctu-beready-gem,BLOD,0.0,0.22,0.0,0.0
+cu-vo,BLOD,0.0,0.22,0.0,0.0
+cvdo/cvdo,BLOD,1.0,0.56,0.0,0.0
+cwd,BLOD,0.0,0.22,0.0,0.0
+cyto,BLOD,0.0,0.22,0.0,0.0
+cz-eh-1-atc,BLOD,1.0,0.78,1.0,0.0
+cz-sidc-drug-ingredients,BLOD,1.0,0.78,1.0,0.0
+cz-sidc-drugs,BLOD,1.0,0.78,1.0,0.0
+d3o,BLOD,0.0,0.22,0.0,0.0
+datacite,BLOD,0.0,0.22,0.0,0.0
+datacite-vocab,BLOD,0.0,0.22,0.0,0.0
+datahub,BLOD,1.0,0.67,1.0,0.0
+dataid,BLOD,0.0,0.44,0.0,0.0
+dataset-gene-ontology-term,BLOD,0.0,0.22,0.0,0.0
+dbm,BLOD,0.0,0.44,0.0,0.0
+dbpedia-owl,BLOD,0.0,0.44,0.0,0.0
+dcat-fdc,BLOD,0.0,0.22,0.0,0.0
+dcat3,BLOD,0.0,0.22,0.0,0.0
+dccdfv,BLOD,0.0,0.22,0.0,0.0
+dcm,BLOD,0.0,0.33,0.0,0.0
+dct,BLOD,0.0,0.22,0.0,0.0
+dcterms,BLOD,0.0,0.22,0.0,0.0
+ddiem,BLOD,0.0,0.22,0.0,0.0
+ddpheno,BLOD,1.0,0.56,0.0,0.0
+ddss,BLOD,0.0,0.22,0.0,0.0
+deb,BLOD,0.0,0.22,0.0,0.0
+debio,BLOD,0.0,0.22,0.0,0.0
+decide,BLOD,0.0,0.22,0.0,0.0
+dermatology,BLOD,0.0,0.22,0.0,0.0
+dermlex,BLOD,0.0,0.22,0.0,0.0
+dermo,BLOD,0.0,0.22,0.0,0.0
+developmental-stage-ontologies,BLOD,0.0,0.22,0.0,0.0
+dfo,BLOD,0.0,0.22,0.0,0.0
+dhba,BLOD,0.0,0.22,0.0,0.0
+dhmo,BLOD,0.0,0.22,0.0,0.0
+diab,BLOD,0.0,0.22,0.0,0.0
+diagnosis-support,BLOD,0.0,0.33,0.0,0.0
+diamond,BLOD,0.0,0.44,0.0,0.0
+dibo,BLOD,0.0,0.22,0.0,0.0
+dibo-ontology,BLOD,0.0,0.22,0.0,0.0
+dideo,BLOD,1.0,0.44,0.0,0.0
+dikb,BLOD,0.0,0.22,0.0,0.0
+dilon,BLOD,0.0,0.22,0.0,0.0
+dinto,BLOD,0.0,0.33,0.0,0.0
+disdriv,BLOD,0.0,0.44,0.0,0.0
+disease-incidence-ontology,BLOD,0.0,0.22,0.0,0.0
+disease-ontology,BLOD,0.0,0.22,0.0,0.0
+disease-ontology-human-disease-ontology,BLOD,0.0,0.22,0.0,0.0
+diseasedriversontology,BLOD,0.0,0.33,0.0,0.0
+diseaseontology,BLOD,0.0,0.22,0.0,0.0
+diseases-ontology,BLOD,0.0,0.22,0.0,0.0
+diseasesontology,BLOD,0.0,0.22,0.0,0.0
+disgenet,BLOD,1.0,0.89,1.0,1.0
+dloro,BLOD,0.0,0.22,0.0,0.0
+dmdsont,BLOD,0.0,0.22,0.0,0.0
+dmto,BLOD,0.0,0.22,0.0,0.0
+do,BLOD,1.0,0.44,0.0,0.0
+do-master-table,BLOD,0.0,0.22,0.0,0.0
+do2go-mouse,BLOD,0.0,0.22,0.0,0.0
+doccc,BLOD,0.0,0.22,0.0,0.0
+doid,BLOD,0.0,0.44,0.0,0.0
+domain-sofc,BLOD,0.0,0.22,0.0,0.0
+doremus-keys,BLOD,0.0,0.22,0.0,0.0
+doves,BLOD,0.0,0.22,0.0,0.0
+dpo,BLOD,0.0,0.22,0.0,0.0
+dranpto,BLOD,0.0,0.22,0.0,0.0
+dreamdnpto,BLOD,0.0,0.22,0.0,0.0
+drmo,BLOD,0.0,0.22,0.0,0.0
+dron,BLOD,0.0,0.22,0.0,0.0
+drosophila-anatomy-developmental-ontology,BLOD,0.0,0.44,0.0,0.0
+drpsnpto,BLOD,0.0,0.22,0.0,0.0
+dseo,BLOD,0.0,0.22,0.0,0.0
+dsip,BLOD,0.0,0.22,0.0,0.0
+dsip-fl-7,BLOD,0.0,0.22,0.0,0.0
+dsip1v,BLOD,0.0,0.22,0.0,0.0
+dsip2324-demo,BLOD,0.0,0.22,0.0,0.0
+dsip7,BLOD,0.0,0.22,0.0,0.0
+dsip8,BLOD,0.0,0.22,0.0,0.0
+dsipf7,BLOD,0.0,0.22,0.0,0.0
+dsipfl7,BLOD,0.0,0.22,0.0,0.0
+dto,BLOD,1.0,0.44,0.0,0.0
+e-ppo,BLOD,0.0,0.22,0.0,0.0
+ebp,BLOD,0.0,0.22,0.0,0.0
+ecao,BLOD,0.0,0.33,0.0,0.0
+ecdo,BLOD,0.0,0.22,0.0,0.0
+ecm4m-md-vocabs,BLOD,0.0,0.22,0.0,0.0
+ecmo,BLOD,0.0,0.22,0.0,0.0
+eco,BLOD,1.0,0.56,0.0,0.0
+ecocore,BLOD,1.0,0.56,0.0,0.0
+ecosim,BLOD,0.0,0.22,0.0,0.0
+ecp,BLOD,0.0,0.22,0.0,0.0
+ecso,BLOD,0.0,0.22,0.0,0.0
+edam-bioimaging,BLOD,1.0,0.44,0.0,0.0
+edda,BLOD,0.0,0.22,0.0,0.0
+edda-pt,BLOD,0.0,0.22,0.0,0.0
+edem-connectonto,BLOD,0.0,0.22,0.0,0.0
+ego,BLOD,0.0,0.22,0.0,0.0
+ehda,BLOD,1.0,0.56,0.0,0.0
+ehdaa2,BLOD,1.0,0.44,0.0,0.0
+eld,BLOD,0.0,0.22,0.0,0.0
+electrica,BLOD,0.0,0.22,0.0,0.0
+elig,BLOD,0.0,0.22,0.0,0.0
+elter-cl,BLOD,0.0,0.22,0.0,0.0
+emif-ad,BLOD,0.0,0.22,0.0,0.0
+emo,BLOD,0.0,0.22,0.0,0.0
+endoh,BLOD,0.0,0.22,0.0,0.0
+enm,BLOD,1.0,0.44,0.0,0.0
+ensembl-to-go,BLOD,0.0,0.22,0.0,0.0
+entity,BLOD,0.0,0.22,0.0,0.0
+entrez-gene,BLOD,1.0,0.56,1.0,0.0
+environmental-exposure-ontology,BLOD,0.0,0.44,0.0,0.0
+envs-variables,BLOD,0.0,0.22,0.0,0.0
+envthes,BLOD,0.0,0.22,0.0,0.0
+eo1,BLOD,0.0,0.22,0.0,0.0
+eol,BLOD,0.0,0.22,0.0,0.0
+epie,BLOD,0.0,0.22,0.0,0.0
+epio,BLOD,1.0,0.56,0.0,0.0
+epip,BLOD,0.0,0.22,0.0,0.0
+episem,BLOD,0.0,0.22,0.0,0.0
+epo,BLOD,1.0,0.44,0.0,0.0
+epso,BLOD,0.0,0.22,0.0,0.0
+ero,BLOD,0.0,0.22,0.0,0.0
+esfo,BLOD,0.0,0.22,0.0,0.0
+eso-c,BLOD,0.0,0.22,0.0,0.0
+esso,BLOD,0.0,0.22,0.0,0.0
+etanc,BLOD,0.0,0.22,0.0,0.0
+ethanc,BLOD,0.0,0.22,0.0,0.0
+ethopd,BLOD,0.0,0.22,0.0,0.0
+eupath,BLOD,1.0,0.44,0.0,0.0
+ev,BLOD,1.0,0.44,0.0,0.0
+evi,BLOD,0.0,0.22,0.0,0.0
+evorao,BLOD,1.0,0.44,0.0,0.0
+evs,BLOD,0.0,0.22,0.0,0.0
+exact,BLOD,0.0,0.22,0.0,0.0
+exmo,BLOD,0.0,0.22,0.0,0.0
+exo,BLOD,1.0,0.44,0.0,0.0
+exon,BLOD,0.0,0.22,0.0,0.0
+extract,BLOD,0.0,0.22,0.0,0.0
+eyediseaseontology,BLOD,0.0,0.22,0.0,0.0
+fall,BLOD,0.0,0.22,0.0,0.0
+falls,BLOD,0.0,0.22,0.0,0.0
+farmaci,BLOD,0.0,0.22,0.0,0.0
+fast-chrono,BLOD,0.0,0.22,0.0,0.0
+fast-event,BLOD,0.0,0.22,0.0,0.0
+fast-event-skos,BLOD,0.0,0.22,0.0,0.0
+fast-formgenre,BLOD,0.0,0.22,0.0,0.0
+fast-genreform,BLOD,0.0,0.22,0.0,0.0
+fast-title,BLOD,0.0,0.22,0.0,0.0
+fasto,BLOD,0.0,0.22,0.0,0.0
+fbbi,BLOD,1.0,0.44,0.0,0.0
+fbbt,BLOD,1.0,0.56,0.0,0.0
+fbcv,BLOD,0.0,0.44,0.0,0.0
+fbdv,BLOD,1.0,0.56,0.0,0.0
+fbsp,BLOD,0.0,0.33,0.0,0.0
+fcc1,BLOD,0.0,0.22,0.0,0.0
+fdc-gdmt,BLOD,0.0,0.22,0.0,0.0
+fdsajfahsjk,BLOD,0.0,0.22,0.0,0.0
+fdt-o,BLOD,0.0,0.22,0.0,0.0
+fenics,BLOD,0.0,0.22,0.0,0.0
+fg,BLOD,0.0,0.22,0.0,0.0
+fgnhns,BLOD,0.0,0.22,0.0,0.0
+fideo,BLOD,1.0,0.56,0.0,0.0
+fire,BLOD,0.0,0.22,0.0,0.0
+fish-ast,BLOD,0.0,0.22,0.0,0.0
+fisho,BLOD,0.0,0.22,0.0,0.0
+fit-bit,BLOD,0.0,0.22,0.0,0.0
+fitbit,BLOD,0.0,0.22,0.0,0.0
+fldlb3,BLOD,0.0,0.22,0.0,0.0
+flopo,BLOD,1.0,0.44,0.0,0.0
+flu,BLOD,1.0,0.56,0.0,0.0
+flybase-controlled-vocabulary,BLOD,0.0,0.33,0.0,0.0
+flyglycodb,BLOD,0.0,0.22,0.0,0.0
+fma,BLOD,1.0,0.44,0.0,0.0
+fmpm,BLOD,0.0,0.22,0.0,0.0
+fns-h,BLOD,0.0,0.22,0.0,0.0
+fo,BLOD,0.0,0.22,0.0,0.0
+fobi,BLOD,1.0,0.44,0.0,0.0
+foodbiomarkerontology,BLOD,0.0,0.33,0.0,0.0
+foodon,BLOD,0.0,0.44,0.0,0.0
+four-m-vocabs,BLOD,0.0,0.22,0.0,0.0
+fovt,BLOD,1.0,0.56,0.0,0.0
+fplx,BLOD,0.0,0.22,0.0,0.0
+frmo,BLOD,0.0,0.22,0.0,0.0
+ftc,BLOD,0.0,0.22,0.0,0.0
+fu-berlin-dailymed,BLOD,1.0,0.67,1.0,0.0
+fu-berlin-drugbank,BLOD,1.0,0.67,1.0,0.0
+fu-berlin-stitch,BLOD,1.0,0.67,1.0,0.0
+fungal-anatomy-ontology,BLOD,0.0,0.22,0.0,0.0
+g-prov,BLOD,0.0,0.22,0.0,0.0
+g4-dsip,BLOD,0.0,0.22,0.0,0.0
+galen,BLOD,0.0,0.22,0.0,0.0
+gamuts,BLOD,0.0,0.22,0.0,0.0
+gaz,BLOD,0.0,0.33,0.0,0.0
+gb,BLOD,0.0,0.22,0.0,0.0
+gbol,BLOD,0.0,0.22,0.0,0.0
+gcbo,BLOD,0.0,0.22,0.0,0.0
+gco,BLOD,0.0,0.22,0.0,0.0
+gdco,BLOD,0.0,0.22,0.0,0.0
+gdmt,BLOD,0.0,0.22,0.0,0.0
+gdo,BLOD,0.0,0.22,0.0,0.0
+gdoa,BLOD,0.0,0.22,0.0,0.0
+gecco,BLOD,0.0,0.22,0.0,0.0
+gecko,BLOD,1.0,0.56,0.0,0.0
+genai,BLOD,0.0,0.22,0.0,0.0
+gender,BLOD,0.0,0.22,0.0,0.0
+gene-expression-atlas-rdf,BLOD,1.0,0.78,1.0,1.0
+gene-onotology-obo-tools,BLOD,0.0,0.22,0.0,0.0
+gene-ontology,BLOD,0.0,0.22,0.0,0.0
+gene-ontology-classification-of-protein-sequence,BLOD,0.0,0.22,0.0,0.0
+gene-ontology-database,BLOD,0.0,0.22,0.0,0.0
+gene-ontology-enrichment,BLOD,0.0,0.22,0.0,0.0
+gene-pleiotropy,BLOD,0.0,0.22,0.0,0.0
+genealogical-trees,BLOD,0.0,0.33,0.0,0.0
+geneexpression-dataparser,BLOD,0.0,0.22,0.0,0.0
+geneontology,BLOD,0.0,0.22,0.0,0.0
+geneontology.jl,BLOD,0.0,0.33,0.0,0.0
+geneontologygraphdb,BLOD,0.0,0.22,0.0,0.0
+geneontologynextgeneration,BLOD,0.0,0.22,0.0,0.0
+genepio,BLOD,1.0,0.56,0.0,0.0
+genes-data,BLOD,0.0,0.22,0.0,0.0
+genevieve,BLOD,0.0,0.22,0.0,0.0
+geno,BLOD,0.0,0.22,0.0,0.0
+geno-ontology,BLOD,0.0,0.44,0.0,0.0
+geosparql,BLOD,0.0,0.22,0.0,0.0
+gexo,BLOD,1.0,0.44,0.0,0.0
+gff-m4m,BLOD,0.0,0.22,0.0,0.0
+gffo,BLOD,0.0,0.22,0.0,0.0
+gfo-bio,BLOD,0.0,0.22,0.0,0.0
+gfvo,BLOD,0.0,0.22,0.0,0.0
+gliomarker,BLOD,0.0,0.22,0.0,0.0
+glyco,BLOD,0.0,0.22,0.0,0.0
+glycocoo,BLOD,0.0,0.22,0.0,0.0
+glycordf,BLOD,0.0,0.22,0.0,0.0
+gmm,BLOD,0.0,0.22,0.0,0.0
+gmo,BLOD,0.0,0.22,0.0,0.0
+go,BLOD,1.0,0.56,0.0,0.0
+go-analysis,BLOD,0.0,0.22,0.0,0.0
+go-ltr,BLOD,0.0,0.22,0.0,0.0
+go-ontology,BLOD,0.0,0.44,0.0,0.0
+go-plus,BLOD,0.0,0.22,0.0,0.0
+go-rdf,BLOD,0.0,0.22,0.0,0.0
+go2cell,BLOD,0.0,0.22,0.0,0.0
+goal2.0,BLOD,0.0,0.22,0.0,0.0
+gocluster,BLOD,0.0,0.22,0.0,0.0
+goenrichment.jl,BLOD,0.0,0.33,0.0,0.0
+gograph,BLOD,0.0,0.22,0.0,0.0
+goldterms,BLOD,0.0,0.22,0.0,0.0
+gombo,BLOD,0.0,0.22,0.0,0.0
+goo,BLOD,0.0,0.22,0.0,0.0
+gopher,BLOD,0.0,0.22,0.0,0.0
+gosum,BLOD,0.0,0.22,0.0,0.0
+gow,BLOD,0.0,0.22,0.0,0.0
+gpml,BLOD,0.0,0.22,0.0,0.0
+gro-cpd,BLOD,0.0,0.22,0.0,0.0
+gsso,BLOD,1.0,0.56,0.0,0.0
+gvo,BLOD,0.0,0.22,0.0,0.0
+haauraado,BLOD,0.0,0.22,0.0,0.0
+hamidehsgh,BLOD,0.0,0.22,0.0,0.0
+hancestro,BLOD,1.0,0.56,0.0,0.0
+hao,BLOD,1.0,0.44,0.0,0.0
+haroreado,BLOD,0.0,0.22,0.0,0.0
+hasco,BLOD,0.0,0.22,0.0,0.0
+hba,BLOD,1.0,0.33,0.0,0.0
+hc,BLOD,0.0,0.22,0.0,0.0
+hcao,BLOD,1.0,0.33,0.0,0.0
+hcdo,BLOD,0.0,0.22,0.0,0.0
+hcdr,BLOD,0.0,0.22,0.0,0.0
+hcm-d,BLOD,0.0,0.22,0.0,0.0
+hcodonont,BLOD,0.0,0.22,0.0,0.0
+hdmponto,BLOD,0.0,0.22,0.0,0.0
+healthont,BLOD,0.0,0.33,0.0,0.0
+hecon,BLOD,0.0,0.22,0.0,0.0
+hed,BLOD,0.0,0.22,0.0,0.0
+heio,BLOD,0.0,0.22,0.0,0.0
+helifit,BLOD,0.0,0.22,0.0,0.0
+henecon,BLOD,0.0,0.22,0.0,0.0
+henegeo,BLOD,0.0,0.22,0.0,0.0
+hermos,BLOD,1.0,0.78,0.0,1.0
+hero,BLOD,0.0,0.22,0.0,0.0
+heron-ontology,BLOD,0.0,0.33,0.0,0.0
+hetontology,BLOD,0.0,0.33,0.0,0.0
+hfo,BLOD,0.0,0.22,0.0,0.0
+hgnc-nr,BLOD,0.0,0.22,0.0,0.0
+hhear,BLOD,0.0,0.22,0.0,0.0
+hhearp,BLOD,0.0,0.22,0.0,0.0
+hhearvs,BLOD,0.0,0.22,0.0,0.0
+hifm,BLOD,0.0,0.44,0.0,0.0
+hino,BLOD,1.0,0.44,0.0,0.0
+hio,BLOD,0.0,0.22,0.0,0.0
+hiv,BLOD,0.0,0.22,0.0,0.0
+hivcrs,BLOD,0.0,0.22,0.0,0.0
+hivhpv,BLOD,0.0,0.22,0.0,0.0
+hivhpvfgs,BLOD,0.0,0.22,0.0,0.0
+hivhpvschistosom,BLOD,0.0,0.22,0.0,0.0
+hivhpvstom,BLOD,0.0,0.22,0.0,0.0
+hivmt,BLOD,0.0,0.22,0.0,0.0
+hivo004,BLOD,0.0,0.22,0.0,0.0
+hmado,BLOD,0.0,0.22,0.0,0.0
+hmis033b,BLOD,0.0,0.22,0.0,0.0
+hmislab0115,BLOD,0.0,0.22,0.0,0.0
+hns,BLOD,0.0,0.22,0.0,0.0
+ho,BLOD,0.0,0.22,0.0,0.0
+hoip,BLOD,0.0,0.22,0.0,0.0
+hom,BLOD,1.0,0.44,0.0,0.0
+home,BLOD,0.0,0.22,0.0,0.0
+homology-ontology,BLOD,0.0,0.56,1.0,1.0
+hoom,BLOD,0.0,0.22,0.0,0.0
+hord,BLOD,0.0,0.22,0.0,0.0
+hosp,BLOD,0.0,0.44,0.0,0.0
+hp-o,BLOD,0.0,0.22,0.0,0.0
+hpo-explorer,BLOD,0.0,0.33,0.0,0.0
+hpo-mp-matching,BLOD,0.0,0.22,0.0,0.0
+hpo-study-04-12-2020,BLOD,0.0,0.22,0.0,0.0
+hra,BLOD,0.0,0.22,0.0,0.0
+hravs,BLOD,0.0,0.22,0.0,0.0
+hrdo,BLOD,0.0,0.22,0.0,0.0
+hsapdv,BLOD,0.0,0.33,0.0,0.0
+hsclo38,BLOD,0.0,0.22,0.0,0.0
+hso,BLOD,1.0,0.56,0.0,0.0
+hspo,BLOD,0.0,0.22,0.0,0.0
+hspo-ontology,BLOD,0.0,0.44,0.0,0.0
+htao,BLOD,0.0,0.22,0.0,0.0
+htn,BLOD,1.0,0.44,0.0,0.0
+huma-disease-ontology,BLOD,0.0,0.22,0.0,0.0
+human-developmental-anatomy-ontology,BLOD,0.0,0.44,0.0,0.0
+human-phenotype-challenge,BLOD,0.0,0.22,0.0,0.0
+human-phenotype-ontology,BLOD,0.0,0.44,0.0,0.0
+humandiseaseontology,BLOD,0.0,0.44,0.0,0.0
+hupson,BLOD,0.0,0.22,0.0,0.0
+i-adopt,BLOD,0.0,0.22,0.0,0.0
+i2sv,BLOD,0.0,0.22,0.0,0.0
+iaml-mop,BLOD,0.0,0.22,0.0,0.0
+iao,BLOD,0.0,0.33,0.0,0.0
+ibd,BLOD,0.0,0.22,0.0,0.0
+ibio,BLOD,0.0,0.22,0.0,0.0
+ibo,BLOD,0.0,0.22,0.0,0.0
+icd-o-3,BLOD,0.0,0.22,0.0,0.0
+icd11-bodysystem,BLOD,0.0,0.22,0.0,0.0
+icdo,BLOD,1.0,0.44,0.0,0.0
+iceci,BLOD,0.0,0.22,0.0,0.0
+iceo,BLOD,1.0,0.44,0.0,0.0
+ichom-proms-pcb,BLOD,0.0,0.22,0.0,0.0
+ico,BLOD,1.0,0.56,0.0,0.0
+ictv,BLOD,0.0,0.33,0.0,0.0
+icw,BLOD,0.0,0.22,0.0,0.0
+id-amr,BLOD,0.0,0.22,0.0,0.0
+idem,BLOD,0.0,0.22,0.0,0.0
+idg-gl,BLOD,0.0,0.22,0.0,0.0
+ido,BLOD,1.0,0.56,0.0,0.0
+ido;-vido;-cido,BLOD,1.0,0.56,0.0,0.0
+idocovid19,BLOD,1.0,0.44,0.0,0.0
+idoden,BLOD,0.0,0.22,0.0,0.0
+idomal,BLOD,1.0,0.44,0.0,0.0
+idomen,BLOD,0.0,0.22,0.0,0.0
+idoschisto,BLOD,0.0,0.22,0.0,0.0
+idqa,BLOD,0.0,0.22,0.0,0.0
+ifar,BLOD,0.0,0.22,0.0,0.0
+ik,BLOD,0.0,0.22,0.0,0.0
+imobo,BLOD,0.0,0.22,0.0,0.0
+inbancido,BLOD,0.0,0.22,0.0,0.0
+inbio,BLOD,0.0,0.22,0.0,0.0
+inbiodiv,BLOD,0.0,0.22,0.0,0.0
+incentive,BLOD,0.0,0.22,0.0,0.0
+incentive-vars,BLOD,0.0,0.22,0.0,0.0
+incident,BLOD,0.0,0.44,0.0,0.0
+infection-trans,BLOD,0.0,0.22,0.0,0.0
+infectious-disease-ontology,BLOD,0.0,0.22,0.0,0.0
+infectious-diseases-ontology,BLOD,0.0,0.22,0.0,0.0
+infra-en,BLOD,0.0,0.22,0.0,0.0
+infrarisk,BLOD,0.0,0.22,0.0,0.0
+injurytypes,BLOD,0.0,0.22,0.0,0.0
+ino,BLOD,1.0,0.44,0.0,0.0
+insecth,BLOD,0.0,0.22,0.0,0.0
+insname,BLOD,0.0,0.22,0.0,0.0
+into,BLOD,0.0,0.22,0.0,0.0
+intveetype,BLOD,0.0,0.22,0.0,0.0
+intvmode,BLOD,0.0,0.22,0.0,0.0
+inverseroles,BLOD,0.0,0.22,0.0,0.0
+iobc,BLOD,0.0,0.22,0.0,0.0
+ipd,BLOD,0.0,0.22,0.0,0.0
+ird,BLOD,0.0,0.22,0.0,0.0
+irdg,BLOD,0.0,0.22,0.0,0.0
+iso-15926-2-2003,BLOD,0.0,0.22,0.0,0.0
+iso-annotations,BLOD,0.0,0.22,0.0,0.0
+iso-food,BLOD,0.0,0.22,0.0,0.0
+iso19108to,BLOD,0.0,0.22,0.0,0.0
+iso19110,BLOD,0.0,0.22,0.0,0.0
+iso19115,BLOD,0.0,0.22,0.0,0.0
+iso19115cc,BLOD,0.0,0.22,0.0,0.0
+iso19115ci,BLOD,0.0,0.22,0.0,0.0
+iso19115con,BLOD,0.0,0.22,0.0,0.0
+iso19115dtc,BLOD,0.0,0.22,0.0,0.0
+iso19115ex,BLOD,0.0,0.22,0.0,0.0
+iso19115id,BLOD,0.0,0.22,0.0,0.0
+iso19115mi,BLOD,0.0,0.22,0.0,0.0
+iso19115pr,BLOD,0.0,0.22,0.0,0.0
+iso19115roles,BLOD,0.0,0.22,0.0,0.0
+iso19115srs,BLOD,0.0,0.22,0.0,0.0
+iso19115tcc,BLOD,0.0,0.22,0.0,0.0
+iso639-1,BLOD,0.0,0.22,0.0,0.0
+iso639-2,BLOD,0.0,0.22,0.0,0.0
+issva,BLOD,0.0,0.22,0.0,0.0
+itemas,BLOD,0.0,0.22,0.0,0.0
+ito,BLOD,0.0,0.22,0.0,0.0
+jerm,BLOD,0.0,0.22,0.0,0.0
+jita,BLOD,1.0,0.89,1.0,1.0
+joint-food-ontology-wg,BLOD,0.0,0.33,0.0,0.0
+jso,BLOD,0.0,0.22,0.0,0.0
+kenyaanc,BLOD,0.0,0.22,0.0,0.0
+kgcl,BLOD,0.0,0.22,0.0,0.0
+koio,BLOD,0.0,0.22,0.0,0.0
+koro,BLOD,0.0,0.22,0.0,0.0
+ktao,BLOD,1.0,0.44,0.0,0.0
+kupkb,BLOD,1.0,0.56,1.0,0.0
+kusiima,BLOD,0.0,0.22,0.0,0.0
+labo/labo,BLOD,1.0,0.44,0.0,0.0
+land-surface,BLOD,0.0,0.22,0.0,0.0
+landform,BLOD,0.0,0.22,0.0,0.0
+lbo,BLOD,0.0,0.22,0.0,0.0
+lc-carriers,BLOD,0.0,0.22,0.0,0.0
+lc-media,BLOD,0.0,0.22,0.0,0.0
+lcdgt,BLOD,0.0,0.22,0.0,0.0
+lcgft,BLOD,0.0,0.22,0.0,0.0
+lda,BLOD,0.0,0.22,0.0,0.0
+ldbase,BLOD,0.0,0.22,0.0,0.0
+legalapa,BLOD,0.0,0.22,0.0,0.0
+legalapatest2,BLOD,0.0,0.22,0.0,0.0
+leo,BLOD,0.0,0.22,0.0,0.0
+lepao,BLOD,1.0,0.44,0.0,0.0
+lib,BLOD,0.0,0.22,0.0,0.0
+library,BLOD,0.0,0.22,0.0,0.0
+lico,BLOD,0.0,0.22,0.0,0.0
+lifo,BLOD,0.0,0.22,0.0,0.0
+lincs-cloview,BLOD,0.0,0.33,0.0,1.0
+linked-drugs,BLOD,1.0,0.78,1.0,0.0
+lion,BLOD,0.0,0.22,0.0,0.0
+lipidmaps,BLOD,0.0,0.33,0.0,1.0
+loggerhead,BLOD,0.0,0.44,0.0,0.0
+longcovid,BLOD,0.0,0.22,0.0,0.0
+lpt,BLOD,0.0,0.22,0.0,0.0
+lsc,BLOD,0.0,0.44,0.0,0.0
+lsfc,BLOD,0.0,0.22,0.0,0.0
+lsfo,BLOD,0.0,0.22,0.0,0.0
+lthido,BLOD,0.0,0.33,0.0,1.0
+lungmap-h-cell,BLOD,0.0,0.22,0.0,0.0
+lungmap-human,BLOD,0.0,0.22,0.0,0.0
+lungmap-m-cell,BLOD,0.0,0.22,0.0,0.0
+lungmap-mouse,BLOD,0.0,0.22,0.0,0.0
+m,BLOD,0.0,0.22,0.0,0.0
+m4m-20-subjects,BLOD,0.0,0.22,0.0,0.0
+m4m-20-variables,BLOD,0.0,0.22,0.0,0.0
+m4m-21-subjects,BLOD,0.0,0.22,0.0,0.0
+m4m-21-variables,BLOD,0.0,0.22,0.0,0.0
+m4m-char,BLOD,0.0,0.22,0.0,0.0
+m4m19-subs,BLOD,0.0,0.22,0.0,0.0
+m4m19-vars,BLOD,0.0,0.22,0.0,0.0
+macroalgaetraits,BLOD,0.0,0.22,0.0,0.0
+mads-rdf,BLOD,0.0,0.22,0.0,0.0
+mammalian-phenotype-ontology,BLOD,0.0,0.44,0.0,0.0
+mamo-scr-onto,BLOD,0.0,0.22,0.0,0.0
+marc-languages,BLOD,0.0,0.22,0.0,0.0
+marc-relators,BLOD,0.0,0.22,0.0,0.0
+materialsmine,BLOD,0.0,0.22,0.0,0.0
+matr,BLOD,0.0,0.22,0.0,0.0
+matrcompound,BLOD,0.0,0.22,0.0,0.0
+matrrock,BLOD,0.0,0.22,0.0,0.0
+matrrockigneous,BLOD,0.0,0.22,0.0,0.0
+maxo,BLOD,1.0,0.56,0.0,0.0
+mccl,BLOD,0.0,0.22,0.0,0.0
+mccv,BLOD,0.0,0.22,0.0,0.0
+mchvodanaterms,BLOD,0.0,0.22,0.0,0.0
+mco,BLOD,1.0,0.44,0.0,0.0
+mco4hke,BLOD,0.0,0.22,0.0,0.0
+mco4mcre,BLOD,0.0,0.22,0.0,0.0
+mcog-core,BLOD,0.0,0.33,0.0,0.0
+mcr-tx,BLOD,0.0,0.22,0.0,0.0
+mdm,BLOD,0.0,0.22,0.0,0.0
+medeon,BLOD,0.0,0.22,0.0,0.0
+medicalinfo,BLOD,0.0,0.22,0.0,0.0
+medo,BLOD,0.0,0.22,0.0,0.0
+mello-d,BLOD,0.0,0.22,0.0,0.0
+melo,BLOD,0.0,0.22,0.0,0.0
+mental-functioning-ontology,BLOD,0.0,0.44,0.0,0.0
+meo,BLOD,0.0,0.22,0.0,0.0
+mepo,BLOD,0.0,0.22,0.0,0.0
+mera,BLOD,0.0,0.22,0.0,0.0
+metabus,BLOD,0.0,0.22,0.0,0.0
+metpo,BLOD,0.0,0.22,0.0,0.0
+mi,BLOD,1.0,0.44,0.0,0.0
+miaf-ontology,BLOD,0.0,0.22,0.0,0.0
+miapa,BLOD,1.0,0.44,0.0,0.0
+micro,BLOD,1.0,0.44,0.0,0.0
+microbe-masst,BLOD,0.0,0.44,0.0,0.0
+mido,BLOD,1.0,0.44,0.0,0.0
+mim,BLOD,0.0,0.22,0.0,0.0
+mineral,BLOD,0.0,0.22,0.0,0.0
+mini-fast-1,BLOD,0.0,0.22,0.0,0.0
+mio,BLOD,0.0,0.22,0.0,0.0
+mirapie,BLOD,0.0,0.22,0.0,0.0
+mirnao,BLOD,0.0,0.33,0.0,0.0
+mixs,BLOD,0.0,0.22,0.0,0.0
+ml-mcr-tx,BLOD,0.0,0.22,0.0,0.0
+mltx,BLOD,0.0,0.22,0.0,0.0
+mm,BLOD,0.0,0.22,0.0,0.0
+mmo,BLOD,1.0,0.44,0.0,0.0
+mnr,BLOD,0.0,0.22,0.0,0.0
+mnv,BLOD,0.0,0.22,0.0,0.0
+mobio,BLOD,0.0,0.33,0.0,0.0
+moc,BLOD,0.0,0.22,0.0,0.0
+modsci/modsci,BLOD,1.0,0.56,0.0,0.0
+momcare,BLOD,0.0,0.22,0.0,0.0
+monarch-disease-ontology-retired,BLOD,0.0,0.44,0.0,0.0
+mondo,BLOD,0.0,0.33,0.0,0.0
+mono,BLOD,0.0,0.22,0.0,0.0
+moocciado,BLOD,0.0,0.22,0.0,0.0
+mooccuado,BLOD,0.0,0.22,0.0,0.0
+mooculado,BLOD,0.0,0.22,0.0,0.0
+mop,BLOD,1.0,0.44,0.0,0.0
+mosaic,BLOD,0.0,0.22,0.0,0.0
+mpio/mpio,BLOD,1.0,0.44,0.0,0.0
+mpo,BLOD,0.0,0.22,0.0,0.0
+mro,BLOD,0.0,0.22,0.0,0.0
+msio,BLOD,1.0,0.33,0.0,0.0
+mstde,BLOD,0.0,0.22,0.0,0.0
+msv,BLOD,0.0,0.22,0.0,0.0
+mvaont,BLOD,0.0,0.22,0.0,0.0
+mwla,BLOD,0.0,0.22,0.0,0.0
+my-syriancinema,BLOD,0.0,0.22,0.0,0.0
+myupheno1,BLOD,0.0,0.33,0.0,0.0
+n-cdoh,BLOD,0.0,0.22,0.0,0.0
+naturopathy,BLOD,1.0,0.89,1.0,1.0
+nbo,BLOD,1.0,0.56,0.0,0.0
+ncbitaxon,BLOD,1.0,0.56,0.0,0.0
+nccnehr,BLOD,0.0,0.22,0.0,0.0
+ncco,BLOD,0.0,0.22,0.0,0.0
+ncit,BLOD,0.0,0.22,0.0,0.0
+ncod,BLOD,0.0,0.22,0.0,0.0
+ncro,BLOD,0.0,0.33,0.0,0.0
+nddo,BLOD,0.0,0.22,0.0,0.0
+ndf-rt,BLOD,0.0,0.33,0.0,0.5
+neic-onto,BLOD,0.0,0.22,0.0,0.0
+neicbeer,BLOD,0.0,0.22,0.0,0.0
+neio,BLOD,0.0,0.22,0.0,0.0
+nemo,BLOD,0.0,0.22,0.0,0.0
+neo,BLOD,0.0,0.22,0.0,0.0
+neomark4,BLOD,0.0,0.22,0.0,0.0
+nero,BLOD,0.0,0.22,0.0,0.0
+neudigs,BLOD,0.0,0.22,0.0,0.0
+neumore,BLOD,0.0,0.22,0.0,0.0
+neurobrg,BLOD,0.0,0.22,0.0,0.0
+neurological-disease-ontology,BLOD,0.0,0.22,0.0,0.0
+nfdi4plants-ontology,BLOD,0.0,0.33,0.0,0.0
+ngbo/ngbo,BLOD,1.0,0.56,0.0,0.0
+ngsonto,BLOD,0.0,0.22,0.0,0.0
+nhsqi2009,BLOD,0.0,0.22,0.0,0.0
+nic,BLOD,0.0,0.22,0.0,0.0
+nidm-results,BLOD,0.0,0.22,0.0,0.0
+nifsubcell,BLOD,0.0,0.22,0.0,0.0
+nihss,BLOD,0.0,0.22,0.0,0.0
+nio,BLOD,0.0,0.22,0.0,0.0
+nist-gel,BLOD,0.0,0.22,0.0,0.0
+nlmvs,BLOD,0.0,0.22,0.0,0.0
+nln,BLOD,0.0,0.22,0.0,0.0
+nmdco,BLOD,0.0,0.22,0.0,0.0
+nmobr,BLOD,0.0,0.22,0.0,0.0
+nmosp,BLOD,0.0,0.22,0.0,0.0
+nnd-ch,BLOD,0.0,0.22,0.0,0.0
+nnd-nd,BLOD,0.0,0.22,0.0,0.0
+nomen,BLOD,0.0,0.22,0.0,0.0
+npi,BLOD,0.0,0.22,0.0,0.0
+npokb,BLOD,0.0,0.22,0.0,0.0
+nro,BLOD,0.0,0.22,0.0,0.0
+ntdo,BLOD,0.0,0.22,0.0,0.0
+nxdx,BLOD,0.0,0.22,0.0,0.0
+o-rextech,BLOD,0.0,0.22,0.0,0.0
+oae,BLOD,1.0,0.56,0.0,0.0
+oarcs,BLOD,1.0,0.44,0.0,0.0
+oba/oba,BLOD,1.0,0.56,0.0,0.0
+obci,BLOD,0.0,0.22,0.0,0.0
+obi,BLOD,1.0,0.56,0.0,0.0
+obi-iee,BLOD,0.0,0.22,0.0,0.0
+obi-ontology.org,BLOD,1.0,0.56,0.0,0.0
+obib,BLOD,1.0,0.56,0.0,0.0
+obiws,BLOD,1.0,0.44,0.0,0.0
+obo-parser,BLOD,0.0,0.22,0.0,0.0
+oborel,BLOD,0.0,0.22,0.0,0.0
+obs,BLOD,0.0,0.22,0.0,0.0
+obsolete-hdo,BLOD,0.0,0.22,0.0,0.0
+ocd,BLOD,1.0,0.89,1.0,1.0
+ocdm,BLOD,0.0,0.22,0.0,0.0
+oce,BLOD,1.0,0.56,0.0,0.0
+ochv,BLOD,0.0,0.22,0.0,0.0
+ocimido,BLOD,1.0,0.44,0.0,0.0
+ocmr,BLOD,1.0,0.44,0.0,0.0
+oco,BLOD,0.0,0.22,0.0,0.0
+ocular-disease-ontology,BLOD,0.0,0.22,0.0,0.0
+ocvdae,BLOD,1.0,0.56,0.0,0.0
+odao,BLOD,0.0,0.22,0.0,0.0
+odht,BLOD,0.0,0.22,0.0,0.0
+odnae,BLOD,1.0,0.44,0.0,0.0
+of,BLOD,0.0,0.22,0.0,0.0
+ofl,BLOD,0.0,0.22,0.0,0.0
+ofo,BLOD,0.0,0.44,0.0,0.0
+ofsmr,BLOD,0.0,0.22,0.0,0.0
+ogco,BLOD,0.0,0.22,0.0,0.0
+ogg,BLOD,1.0,0.56,0.0,0.0
+ogg-at,BLOD,0.0,0.44,0.0,1.0
+ogg-bacteria,BLOD,1.0,0.44,0.0,0.0
+ogg-bru,BLOD,0.0,0.44,0.0,1.0
+ogg-core,BLOD,0.0,0.22,0.0,0.0
+ogg-dm,BLOD,0.0,0.44,0.0,1.0
+ogg-sc,BLOD,0.0,0.44,0.0,1.0
+ogi,BLOD,1.0,0.44,0.0,0.0
+ogolod,BLOD,1.0,0.78,1.0,0.0
+ogr,BLOD,0.0,0.22,0.0,0.0
+ogroup,BLOD,0.0,0.22,0.0,0.0
+ogsf,BLOD,1.0,0.56,0.0,0.0
+ohboi-human-bacterial-infectious-disease-ontology-semtech-an,BLOD,0.0,0.22,0.0,0.0
+ohd,BLOD,1.0,0.56,0.0,0.0
+ohmi,BLOD,1.0,0.56,0.0,0.0
+olam,BLOD,0.0,0.22,0.0,0.0
+olas,BLOD,0.0,0.22,0.0,0.0
+olobo,BLOD,1.0,0.44,0.0,0.0
+omco,BLOD,0.0,0.22,0.0,0.0
+omit,BLOD,1.0,0.44,0.0,0.0
+omnlc,BLOD,0.0,0.44,0.0,0.0
+omv,BLOD,0.0,0.22,0.0,0.0
+oncocl,BLOD,0.0,0.22,0.0,0.0
+onl-dp,BLOD,0.0,0.22,0.0,0.0
+onl-mr-da,BLOD,0.0,0.22,0.0,0.0
+onl-msa,BLOD,0.0,0.22,0.0,0.0
+onl-tasks,BLOD,0.0,0.22,0.0,0.0
+onlira,BLOD,0.0,0.22,0.0,0.0
+ons,BLOD,0.0,0.22,0.0,0.0
+onstr,BLOD,0.0,0.22,0.0,0.0
+ontie,BLOD,0.0,0.33,0.0,0.0
+ontoad,BLOD,0.0,0.22,0.0,0.0
+ontobeef-domain,BLOD,1.0,0.78,1.0,0.0
+ontodm-algorithm,BLOD,0.0,0.22,0.0,0.0
+ontodm-core,BLOD,0.0,0.22,0.0,0.0
+ontodm-kdd,BLOD,0.0,0.22,0.0,0.0
+ontokbcf,BLOD,0.0,0.22,0.0,0.0
+ontology-covid-patients,BLOD,0.0,0.22,0.0,0.0
+ontology-deb,BLOD,0.0,0.33,0.0,0.0
+ontology-of-clinical-research,BLOD,0.0,0.22,0.0,0.0
+ontology-of-traditional-chinese-medicine,BLOD,0.0,0.22,0.0,0.0
+ontologyandqahealth,BLOD,0.0,0.33,0.0,0.0
+ontologyclassgenerator,BLOD,0.0,0.22,0.0,0.0
+ontolurgences,BLOD,0.0,0.22,0.0,0.0
+ontoparon,BLOD,0.0,0.22,0.0,0.0
+ontoparon-social,BLOD,0.0,0.22,0.0,0.0
+ontopbm,BLOD,0.0,0.22,0.0,0.0
+ontopneumo,BLOD,0.0,0.22,0.0,0.0
+ontopsychia,BLOD,0.0,0.22,0.0,0.0
+ontoreplicov,BLOD,0.0,0.22,0.0,0.0
+ontosim,BLOD,0.0,0.22,0.0,0.0
+ontosinasc,BLOD,0.0,0.22,0.0,0.0
+ontotox,BLOD,0.0,0.22,0.0,0.0
+ontotoxnuc,BLOD,0.0,0.22,0.0,0.0
+ontovip,BLOD,0.0,0.22,0.0,0.0
+ontriscal,BLOD,0.0,0.22,0.0,0.0
+ooevv,BLOD,0.0,0.22,0.0,0.0
+oostt,BLOD,1.0,0.44,0.0,0.0
+opb,BLOD,0.0,0.22,0.0,0.0
+opd-nambobi,BLOD,0.0,0.22,0.0,0.0
+opde,BLOD,0.0,0.22,0.0,0.0
+opdre,BLOD,0.0,0.22,0.0,0.0
+opdront,BLOD,0.0,0.22,0.0,0.0
+opdt,BLOD,0.0,0.22,0.0,0.0
+opdzimbabwe,BLOD,0.0,0.22,0.0,0.0
+ope,BLOD,0.0,0.22,0.0,0.0
+opioiddrugontology.github.io,BLOD,0.0,0.33,0.0,0.0
+opmi,BLOD,1.0,0.56,0.0,0.0
+optimal,BLOD,0.0,0.22,0.0,0.0
+option-ontology,BLOD,0.0,0.22,0.0,0.0
+orcs,BLOD,0.0,0.22,0.0,0.0
+ordi,BLOD,0.0,0.22,0.0,0.0
+orex-sam,BLOD,0.0,0.22,0.0,0.0
+orex-wg,BLOD,0.0,0.22,0.0,0.0
+orsa,BLOD,0.0,0.22,0.0,0.0
+osdu-ontology,BLOD,0.0,0.44,0.0,0.0
+oto,BLOD,0.0,0.22,0.0,0.0
+ovae,BLOD,1.0,0.44,0.0,0.0
+ovd,BLOD,0.0,0.22,0.0,0.0
+owl,BLOD,0.0,0.22,0.0,0.0
+pacco,BLOD,0.0,0.22,0.0,0.0
+paco,BLOD,0.0,0.22,0.0,0.0
+page-mpo,BLOD,0.0,0.22,0.0,0.0
+paino,BLOD,0.0,0.22,0.0,0.0
+panda,BLOD,0.0,0.22,0.0,0.0
+panet,BLOD,0.0,0.22,0.0,0.0
+partumdo,BLOD,0.0,0.22,0.0,0.0
+patct,BLOD,0.0,0.22,0.0,0.0
+patel,BLOD,0.0,0.22,0.0,0.0
+patgv,BLOD,0.0,0.22,0.0,0.0
+pathlex,BLOD,0.0,0.22,0.0,0.0
+pathogenesis-gene-ontology,BLOD,0.0,0.22,0.0,0.0
+patit,BLOD,0.0,0.22,0.0,0.0
+patmhc,BLOD,0.0,0.22,0.0,0.0
+pato,BLOD,1.0,0.56,0.0,0.0
+paymentmode,BLOD,0.0,0.22,0.0,0.0
+payor,BLOD,0.0,0.22,0.0,0.0
+pbpko,BLOD,0.0,0.22,0.0,0.0
+pcalion,BLOD,0.0,0.22,0.0,0.0
+pcao,BLOD,0.0,0.22,0.0,0.0
+pcl,BLOD,1.0,0.56,0.0,0.0
+pcmo,BLOD,0.0,0.22,0.0,0.0
+pco,BLOD,0.0,0.44,0.0,0.0
+pcpannotationassessment,BLOD,0.0,0.22,0.0,0.0
+pd-st,BLOD,1.0,0.56,0.0,0.0
+pdo-cas,BLOD,0.0,0.22,0.0,0.0
+pdon,BLOD,0.0,0.22,0.0,0.0
+pdro,BLOD,1.0,0.56,0.0,0.0
+pdumdv,BLOD,0.0,0.33,0.0,0.0
+pe,BLOD,0.0,0.22,0.0,0.0
+pe-o,BLOD,0.0,0.22,0.0,0.0
+peao,BLOD,0.0,0.22,0.0,0.0
+peo-ontology,BLOD,0.0,0.22,0.0,0.0
+peroman,BLOD,0.0,0.22,0.0,0.0
+person,BLOD,0.0,0.44,0.0,0.0
+pesont,BLOD,0.0,0.22,0.0,0.0
+pext,BLOD,0.0,0.44,0.0,0.0
+pghd-bp,BLOD,0.0,0.22,0.0,0.0
+pghd-connect,BLOD,0.0,0.22,0.0,0.0
+pgxlod,BLOD,1.0,0.78,1.0,1.0
+pgxo,BLOD,0.0,0.22,0.0,0.0
+phage,BLOD,0.0,0.22,0.0,0.0
+pharmgkb,BLOD,0.0,0.22,0.0,0.0
+phdd,BLOD,0.0,0.44,0.0,0.0
+phenomeblast,BLOD,0.0,0.22,0.0,0.0
+phenostacks,BLOD,0.0,0.22,0.0,0.0
+phenx,BLOD,0.0,0.22,0.0,0.0
+phewas-sd,BLOD,0.0,0.22,0.0,0.0
+phfumiado,BLOD,0.0,0.22,0.0,0.0
+phi,BLOD,0.0,0.33,0.0,0.0
+phipo,BLOD,1.0,0.56,0.0,0.0
+phmammado,BLOD,0.0,0.22,0.0,0.0
+phy,BLOD,0.0,0.22,0.0,0.0
+phylont,BLOD,0.0,0.22,0.0,0.0
+pico,BLOD,1.0,0.56,0.0,0.0
+pido,BLOD,0.0,0.22,0.0,0.0
+piero,BLOD,0.0,0.22,0.0,0.0
+pimsii,BLOD,0.0,0.33,0.0,0.0
+pino,BLOD,0.0,0.22,0.0,0.0
+plant-experimental-conditions-ontology,BLOD,0.0,0.33,0.0,0.0
+plant-ontology,BLOD,0.0,0.33,0.0,0.0
+plant-stress-ontology,BLOD,0.0,0.33,0.0,0.0
+plink,BLOD,0.0,0.33,0.0,0.0
+plio,BLOD,0.0,0.22,0.0,0.0
+plosthes,BLOD,0.0,0.22,0.0,0.0
+pma,BLOD,0.0,0.22,0.0,0.0
+pmapp-pmo,BLOD,0.0,0.22,0.0,0.0
+pmd,BLOD,0.0,0.22,0.0,0.0
+pmdo,BLOD,0.0,0.22,0.0,0.0
+pmo,BLOD,0.0,0.22,0.0,0.0
+pmo-speed,BLOD,0.0,0.22,0.0,0.0
+pmofn,BLOD,0.0,0.44,0.0,0.0
+pmonb,BLOD,0.0,0.44,0.0,0.0
+pmopb,BLOD,0.0,0.44,0.0,0.0
+pmovn,BLOD,0.0,0.44,0.0,0.0
+pnado,BLOD,0.0,0.22,0.0,0.0
+poem,BLOD,0.0,0.22,0.0,0.0
+pp,BLOD,0.0,0.22,0.0,0.0
+ppi-research,BLOD,0.0,0.22,0.0,0.0
+pplc,BLOD,0.0,0.22,0.0,0.0
+pr,BLOD,1.0,0.56,0.0,0.0
+pregonto,BLOD,0.0,0.22,0.0,0.0
+premedonto,BLOD,0.0,0.22,0.0,0.0
+preo,BLOD,0.0,0.22,0.0,0.0
+pride,BLOD,1.0,0.44,0.0,0.0
+procchemical,BLOD,0.0,0.22,0.0,0.0
+proco,BLOD,1.0,0.56,0.0,0.0
+proj,BLOD,0.0,0.22,0.0,0.0
+propreo,BLOD,1.0,0.56,0.0,0.0
+psdo,BLOD,0.0,0.33,0.0,0.0
+pseudo,BLOD,0.0,0.22,0.0,0.0
+pslg-server,BLOD,0.0,0.22,0.0,0.0
+pso-2,BLOD,0.0,0.22,0.0,0.0
+pts,BLOD,0.0,0.22,0.0,0.0
+pu,BLOD,0.0,0.22,0.0,0.0
+pubchem-rdf,BLOD,1.0,0.78,0.0,1.0
+pvonto,BLOD,0.0,0.22,0.0,0.0
+pw,BLOD,1.0,0.44,0.0,0.0
+qudt2,BLOD,0.0,0.22,0.0,0.0
+qudt2-1,BLOD,0.0,0.22,0.0,0.0
+radipo,BLOD,0.0,0.22,0.0,0.0
+radmo,BLOD,0.0,0.22,0.0,0.0
+radxtt-mvreasons,BLOD,0.0,0.22,0.0,0.0
+rao,BLOD,0.0,0.22,0.0,0.0
+rbo,BLOD,1.0,0.44,0.0,0.0
+rctv2,BLOD,0.0,0.22,0.0,0.0
+rda-content,BLOD,0.0,0.22,0.0,0.0
+rda-issuance,BLOD,0.0,0.22,0.0,0.0
+rdao,BLOD,0.0,0.22,0.0,0.0
+rdl,BLOD,0.0,0.22,0.0,0.0
+rdo,BLOD,0.0,0.22,0.0,0.0
+regeneration-in-drosophila-melanogaster,BLOD,0.0,0.22,0.0,0.0
+regn-bro,BLOD,0.0,0.22,0.0,0.0
+regn-go,BLOD,0.0,0.22,0.0,0.0
+reo,BLOD,0.0,0.33,0.0,0.0
+repos,BLOD,0.0,0.22,0.0,0.0
+reproduce-me,BLOD,0.0,0.22,0.0,0.0
+resid,BLOD,1.0,0.56,0.0,0.0
+reto,BLOD,0.0,0.33,0.0,0.0
+rexo,BLOD,0.0,0.33,0.0,0.0
+rgd,BLOD,0.0,0.22,0.0,0.0
+rh-mesh,BLOD,0.0,0.22,0.0,0.0
+rice-pest-disease-ontology,BLOD,0.0,0.22,0.0,0.0
+rnprio,BLOD,0.0,0.22,0.0,0.0
+rnrmu,BLOD,0.0,0.22,0.0,0.0
+rocknrolltest,BLOD,0.0,0.22,0.0,0.0
+roo,BLOD,0.0,0.22,0.0,0.0
+ros,BLOD,0.0,0.22,0.0,0.0
+rpo,BLOD,0.0,0.22,0.0,0.0
+rsa,BLOD,0.0,0.22,0.0,0.0
+rsc-cmo,BLOD,0.0,0.33,0.0,0.0
+rvo,BLOD,0.0,0.22,0.0,0.0
+rxno,BLOD,1.0,0.44,0.0,0.0
+s4ehaw,BLOD,0.0,0.44,0.0,0.0
+sarsmutonto,BLOD,0.0,0.22,0.0,0.0
+sasap,BLOD,0.0,0.22,0.0,0.0
+sato,BLOD,0.0,0.22,0.0,0.0
+satusehatthesis,BLOD,0.0,0.22,0.0,0.0
+sbeo,BLOD,0.0,0.44,0.0,0.0
+sbo,BLOD,1.0,0.44,0.0,0.0
+sbol,BLOD,0.0,0.22,0.0,0.0
+scatlas,BLOD,0.0,0.22,0.0,0.0
+scdo-ontology,BLOD,0.0,0.22,0.0,0.0
+scdo/scdo,BLOD,1.0,0.44,0.0,0.0
+scio,BLOD,0.0,0.22,0.0,0.0
+scip,BLOD,0.0,0.33,0.0,0.0
+sco-f23,BLOD,0.0,0.22,0.0,0.0
+sco-v1,BLOD,0.0,0.22,0.0,0.0
+scoro,BLOD,0.0,0.44,0.0,0.0
+sd3,BLOD,0.0,0.22,0.0,0.0
+sdgio,BLOD,0.0,0.33,0.0,0.0
+sdoed,BLOD,0.0,0.22,0.0,0.0
+sdoho,BLOD,0.0,0.22,0.0,0.0
+sedi,BLOD,0.0,0.22,0.0,0.0
+sem-prov-ontologies,BLOD,0.0,0.44,0.0,0.0
+semanticchemistry,BLOD,0.0,0.44,0.0,0.0
+senso,BLOD,0.0,0.22,0.0,0.0
+sepio,BLOD,1.0,0.44,0.0,0.0
+sepon,BLOD,0.0,0.22,0.0,0.0
+sepsis-gene-knowledgegraph-ontology,BLOD,0.0,0.22,0.0,0.0
+sfwo,BLOD,0.0,0.22,0.0,0.0
+sibo,BLOD,0.0,0.33,0.0,0.0
+simm,BLOD,0.0,0.22,0.0,0.0
+simon,BLOD,0.0,0.22,0.0,0.0
+sk,BLOD,0.0,0.22,0.0,0.0
+sleep,BLOD,0.0,0.22,0.0,0.0
+smash,BLOD,0.0,0.22,0.0,0.0
+smo,BLOD,0.0,0.22,0.0,0.0
+snmi,BLOD,0.0,0.22,0.0,0.0
+snomed,BLOD,0.0,0.33,0.0,0.0
+snomedct,BLOD,0.0,0.22,0.0,0.0
+socpres,BLOD,0.0,0.22,0.0,0.0
+soho,BLOD,0.0,0.22,0.0,0.0
+soil-prof,BLOD,0.0,0.22,0.0,0.0
+sopharm,BLOD,0.0,0.44,0.0,0.0
+sos,BLOD,0.0,0.22,0.0,0.0
+sp-ontology,BLOD,0.0,0.22,0.0,0.0
+spd,BLOD,1.0,0.44,0.0,0.0
+spo,BLOD,0.0,0.22,0.0,0.0
+sse,BLOD,0.0,0.22,0.0,0.0
+sst,BLOD,0.0,0.22,0.0,0.0
+stmso,BLOD,0.0,0.22,0.0,0.0
+sto-draft,BLOD,0.0,0.22,0.0,0.0
+strong,BLOD,0.0,0.22,0.0,0.0
+sty,BLOD,0.0,0.22,0.0,0.0
+sugarbind,BLOD,0.0,0.22,0.0,0.0
+suicideo,BLOD,0.0,0.22,0.0,0.0
+surgical,BLOD,0.0,0.22,0.0,0.0
+svu-mws-wsm,BLOD,0.0,0.22,0.0,0.0
+svu-mws-wsm-f23,BLOD,0.0,0.22,0.0,0.0
+sweet,BLOD,0.0,0.22,0.0,0.0
+symp,BLOD,1.0,0.44,0.0,0.0
+syrian-cinema,BLOD,0.0,0.22,0.0,0.0
+syriandrugs,BLOD,0.0,0.22,0.0,0.0
+tads,BLOD,1.0,0.44,0.0,0.0
+tahe,BLOD,0.0,0.44,0.0,0.0
+tahh,BLOD,1.0,0.56,0.0,0.0
+taon,BLOD,0.0,0.22,0.0,0.0
+tax,BLOD,0.0,0.44,0.0,0.0
+taxon,BLOD,0.0,0.33,0.0,0.0
+taxrank,BLOD,0.0,0.33,0.0,0.0
+tcdo,BLOD,0.0,0.22,0.0,0.0
+tco,BLOD,0.0,0.22,0.0,0.0
+tdwgspec,BLOD,0.0,0.22,0.0,0.0
+tephram4mexample,BLOD,0.0,0.22,0.0,0.0
+test-a,BLOD,0.0,0.22,0.0,0.0
+test-cbi,BLOD,0.0,0.22,0.0,0.0
+test-m4m20-pav,BLOD,0.0,0.22,0.0,0.0
+testex,BLOD,0.0,0.22,0.0,0.0
+thesisdemo,BLOD,0.0,0.22,0.0,0.0
+three-st,BLOD,0.0,0.22,0.0,0.0
+tibb-nabawi,BLOD,0.0,0.22,0.0,0.0
+tissuephenomicsontology,BLOD,0.0,0.22,0.0,0.0
+tm-const,BLOD,0.0,0.22,0.0,0.0
+tm-mer,BLOD,0.0,0.22,0.0,0.0
+tm-other-factors,BLOD,0.0,0.22,0.0,0.0
+tma,BLOD,0.0,0.22,0.0,0.0
+tml,BLOD,0.0,0.22,0.0,0.0
+top-menelas,BLOD,0.0,0.22,0.0,0.0
+toxicology-ontology,BLOD,0.0,0.22,0.0,0.0
+tp-rel-fam,BLOD,0.0,0.22,0.0,0.0
+tp4,BLOD,0.0,0.22,0.0,0.0
+trak,BLOD,0.0,0.22,0.0,0.0
+triage,BLOD,0.0,0.22,0.0,0.0
+tron,BLOD,0.0,0.22,0.0,0.0
+tst7,BLOD,0.0,0.22,0.0,0.0
+txpo,BLOD,0.0,0.22,0.0,0.0
+typon,BLOD,0.0,0.22,0.0,0.0
+uberon,BLOD,1.0,0.56,0.0,0.0
+uberon-basic,BLOD,0.0,0.44,0.0,0.0
+uberon-collected-metazoa,BLOD,0.0,0.44,0.0,0.0
+uberon-depictions,BLOD,0.0,0.44,0.0,0.0
+uc-fooddruginteractionontology,BLOD,0.0,0.22,0.0,0.0
+ucva,BLOD,0.0,0.22,0.0,0.0
+uganda-diseases,BLOD,0.0,0.22,0.0,0.0
+uhc-metadata,BLOD,0.0,0.22,0.0,0.0
+umms,BLOD,0.0,0.22,0.0,0.0
+unimod,BLOD,0.0,0.33,0.0,0.0
+uniprot,BLOD,1.0,0.78,1.0,1.0
+uniprotrdfs,BLOD,0.0,0.33,0.0,0.0
+url,BLOD,0.0,0.22,0.0,0.0
+vbo,BLOD,1.0,0.56,0.0,0.0
+vdot,BLOD,0.0,0.22,0.0,0.0
+veo,BLOD,0.0,0.22,0.0,0.0
+vfb-drivers,BLOD,0.0,0.22,0.0,0.0
+vfb-scrnaseq-ontology,BLOD,0.0,0.22,0.0,0.0
+vido,BLOD,0.0,0.33,0.0,0.0
+vimm,BLOD,0.0,0.22,0.0,0.0
+vio,BLOD,1.0,0.44,0.0,0.0
+viral,BLOD,0.0,0.22,0.0,0.0
+viraldiseasesanddrugs,BLOD,0.0,0.22,0.0,0.0
+vo,BLOD,1.0,0.56,0.0,0.0
+vodan-anc,BLOD,0.0,0.22,0.0,0.0
+vodana-general,BLOD,0.0,0.22,0.0,0.0
+vodana-mi,BLOD,0.0,0.22,0.0,0.0
+vodana-migrants,BLOD,0.0,0.22,0.0,0.0
+vodana-mpa,BLOD,0.0,0.22,0.0,0.0
+vodanacovid,BLOD,0.0,0.22,0.0,0.0
+vodanadiseases,BLOD,0.0,0.22,0.0,0.0
+vodanakenya,BLOD,0.0,0.22,0.0,0.0
+vodanamflcode,BLOD,0.0,0.22,0.0,0.0
+vodanauganda,BLOD,0.0,0.22,0.0,0.0
+vodanethiopia-or,BLOD,0.0,0.22,0.0,0.0
+vrd,BLOD,0.0,0.22,0.0,0.0
+vsao,BLOD,1.0,0.44,0.0,0.0
+vso,BLOD,1.0,0.44,0.0,0.0
+vt,BLOD,1.0,0.44,0.0,0.0
+vvmm,BLOD,0.0,0.22,0.0,0.0
+wbo-gene-ontology,BLOD,0.0,0.22,0.0,0.0
+wc,BLOD,0.0,0.22,0.0,0.0
+wear,BLOD,0.0,0.22,0.0,0.0
+weave,BLOD,0.0,0.22,0.0,0.0
+wetaxtopics,BLOD,0.0,0.22,0.0,0.0
+whole-human-brain-ontology,BLOD,0.0,0.22,0.0,0.0
+wikibase,BLOD,0.0,0.44,0.0,0.0
+wsio,BLOD,0.0,0.22,0.0,0.0
+wsm-library,BLOD,0.0,0.22,0.0,0.0
+wweca,BLOD,0.0,0.22,0.0,0.0
+xco,BLOD,1.0,0.44,0.0,0.0
+xeo,BLOD,0.0,0.22,0.0,0.0
+xl,BLOD,0.0,0.33,0.0,1.0
+xlmod,BLOD,0.0,0.22,0.0,0.0
+xref-funder-reg,BLOD,0.0,0.22,0.0,0.0
+yado,BLOD,0.0,0.22,0.0,0.0
+yale-senselab,BLOD,1.0,0.56,0.0,0.0
+yggdrasil,BLOD,0.0,0.22,0.0,0.0
+zahrahaddad,BLOD,0.0,0.22,0.0,0.0
+zebrafish-anatomical-ontology,BLOD,0.0,0.44,0.0,0.0
+zebrafish-phenotype-ontology,BLOD,0.0,0.22,0.0,0.0
+zeogs-github,BLOD,0.0,0.22,0.0,0.0
+zonmw-admin-md,BLOD,0.0,0.22,0.0,0.0
+zonmw-content,BLOD,0.0,0.22,0.0,0.0
+zonmw-generic,BLOD,0.0,0.22,0.0,0.0
+adl,CHeCLOUD,0.0,0.22,0.0,0.0
+aliada-scanbit-net,CHeCLOUD,0.0,0.56,1.0,0.0
+amsterdam-museum-as-edm-lod,CHeCLOUD,0.0,0.67,1.0,1.0
+antique-renaissance,CHeCLOUD,0.0,0.22,0.0,0.5
+archives-hub,CHeCLOUD,1.0,0.33,0.0,0.0
+arco,CHeCLOUD,1.0,0.44,0.0,0.0
+ariadne,CHeCLOUD,0.0,0.33,0.0,0.5
+artsdata-ca,CHeCLOUD,0.0,0.33,0.0,0.5
+ascdc-as-ntue-school-art-textbooks,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-as-tfd-fish-species,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-ccp-archive,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-crb,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-cts-tv-programs,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-dnb,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-dqot,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-ihp-wcd,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-linked-taiwan-artists,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-nmmba-aquatic-animals-in-taiwan,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-nmmba-fish-otoliths,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-ntm-formosan-aborigines,CHeCLOUD,0.0,0.44,1.0,0.0
+ascdc-qing-secret-societies,CHeCLOUD,0.0,0.56,1.0,1.0
+ascdc-tibetan-audio-archive,CHeCLOUD,0.0,0.44,1.0,0.0
+atlas-italian-digital-ch,CHeCLOUD,1.0,0.33,0.0,0.0
+atlas-of-paths,CHeCLOUD,1.0,0.22,0.0,0.0
+auckland-museum,CHeCLOUD,0.0,0.11,0.0,0.0
+b3kat,CHeCLOUD,0.0,0.78,1.0,1.0
+bbc-music,CHeCLOUD,0.0,0.56,1.0,1.0
+bbc-wildlife-finder,CHeCLOUD,0.0,0.56,1.0,0.0
+bfontology,CHeCLOUD,1.0,0.67,0.0,1.0
+biblioteca-nacional-escolar-bnescolar,CHeCLOUD,0.0,0.33,1.0,1.0
+bll-thesaurus,CHeCLOUD,0.0,0.56,1.0,1.0
+bluk-bnb,CHeCLOUD,0.0,0.56,1.0,0.0
+bncf-ns,CHeCLOUD,0.0,0.67,1.0,1.0
+bne,CHeCLOUD,0.0,0.22,0.0,0.0
+british-museum-collection,CHeCLOUD,0.0,0.33,0.0,0.0
+bvmc,CHeCLOUD,0.0,0.67,1.0,1.0
+calames,CHeCLOUD,0.0,0.44,1.0,1.0
+ceo,CHeCLOUD,0.0,0.44,1.0,1.0
+chinese-red-classic-song-linked-data-dataset,CHeCLOUD,0.0,0.56,0.0,1.0
+chronicling-america,CHeCLOUD,0.0,0.44,1.0,1.0
+cht,CHeCLOUD,0.0,0.67,1.0,1.0
+cidoc-crm,CHeCLOUD,1.0,0.22,0.0,0.0
+cinematheque-quebecoise-linked-open-data,CHeCLOUD,0.0,0.56,1.0,0.0
+classical-temples,CHeCLOUD,0.0,0.44,0.0,1.0
+confermentsampo,CHeCLOUD,0.0,0.44,1.0,1.0
+copyright-free-music,CHeCLOUD,0.0,0.44,0.0,1.0
+culturalinkeddata,CHeCLOUD,0.0,0.33,0.0,1.0
+data-bnf-fr,CHeCLOUD,0.0,0.56,1.0,1.0
+data-hnm-hu,CHeCLOUD,0.0,0.67,1.0,1.0
+data-incubator-climb,CHeCLOUD,0.0,0.44,1.0,0.0
+data-incubator-discogs,CHeCLOUD,0.0,0.56,1.0,1.0
+data-incubator-moseley,CHeCLOUD,0.0,0.67,1.0,1.0
+data-incubator-musicbrainz,CHeCLOUD,0.0,0.56,1.0,0.0
+data-szepmuveszeti-hu,CHeCLOUD,0.0,0.56,1.0,0.0
+datos-artium-org,CHeCLOUD,0.0,0.56,1.0,0.0
+datos-bne-es,CHeCLOUD,0.0,0.67,1.0,1.0
+dbtropes,CHeCLOUD,0.0,0.56,1.0,1.0
+dbtune-artists-last-fm,CHeCLOUD,0.0,0.22,1.0,0.0
+dbtune-audioscrobbler,CHeCLOUD,0.0,0.22,1.0,0.0
+dbtune-classical,CHeCLOUD,0.0,0.44,1.0,0.5
+dbtune-john-peel-sessions,CHeCLOUD,0.0,0.56,1.0,1.0
+dbtune-magnatune,CHeCLOUD,0.0,0.56,1.0,1.0
+dbtune-musicbrainz,CHeCLOUD,0.0,0.44,1.0,0.0
+dbtune-myspace,CHeCLOUD,0.0,0.44,1.0,0.0
+deutsche-biographie,CHeCLOUD,0.0,0.56,1.0,1.0
+deutsche-nationalbibliografie-dnb,CHeCLOUD,0.0,0.56,1.0,1.0
+digitalnz,CHeCLOUD,0.0,0.22,0.0,0.0
+dm2e,CHeCLOUD,0.0,0.44,1.0,0.0
+dnb-gemeinsame-normdatei,CHeCLOUD,0.0,0.56,1.0,1.0
+dolce,CHeCLOUD,1.0,0.56,0.0,1.0
+dutch-ships-and-sailors,CHeCLOUD,0.0,0.56,1.0,0.5
+ecco-tcp-linked-data,CHeCLOUD,0.0,0.56,1.0,0.5
+eclap,CHeCLOUD,0.0,0.56,1.0,0.0
+english-heritage-periods-list,CHeCLOUD,0.0,0.78,1.0,1.0
+enslaved.org,CHeCLOUD,0.0,0.44,0.0,1.0
+epigraphic-database-heidelberg,CHeCLOUD,1.0,0.33,0.0,0.0
+europeana-lod-v1,CHeCLOUD,0.0,0.78,1.0,1.0
+europeana-sparql,CHeCLOUD,0.0,0.89,1.0,1.0
+event-media,CHeCLOUD,0.0,0.67,1.0,1.0
+eventkg,CHeCLOUD,0.0,0.44,1.0,0.0
+fi-library,CHeCLOUD,0.0,0.33,1.0,1.0
+fi-museum,CHeCLOUD,0.0,0.33,0.0,1.0
+fondazione-zeri,CHeCLOUD,0.0,0.22,0.0,0.0
+food,CHeCLOUD,0.0,0.22,0.0,0.0
+freeyork-org,CHeCLOUD,0.0,0.44,1.0,0.0
+geographic-names-information-system-gnis,CHeCLOUD,0.0,0.44,1.0,0.5
+getty-aat,CHeCLOUD,1.0,0.44,0.0,0.5
+getty-tgn,CHeCLOUD,0.0,0.67,1.0,1.0
+glastonbury-2011,CHeCLOUD,0.0,0.33,0.0,0.0
+googleart-wrapper,CHeCLOUD,0.0,0.33,1.0,0.0
+greekchildrensartmuseum,CHeCLOUD,1.0,0.78,1.0,1.0
+gutenberg,CHeCLOUD,0.0,0.56,1.0,1.0
+hamse,CHeCLOUD,0.0,0.22,0.0,0.0
+hebis-bibliographic-resources,CHeCLOUD,0.0,0.56,1.0,0.0
+hedatuz,CHeCLOUD,0.0,0.56,1.0,0.0
+http:cultural-opposition.eu,CHeCLOUD,0.0,0.44,0.0,0.0
+https:www.childrensartmuseum.grld-project,CHeCLOUD,1.0,0.56,1.0,1.0
+hungarian-national-library-catalog,CHeCLOUD,0.0,0.56,1.0,0.0
+icon,CHeCLOUD,1.0,0.33,0.0,0.0
+iislod-test,CHeCLOUD,0.0,0.56,0.0,1.0
+inztrow,CHeCLOUD,0.0,0.33,0.0,1.0
+issn:0080-3626,CHeCLOUD,0.0,0.22,0.0,0.0
+jamendo-dbtune,CHeCLOUD,0.0,0.56,1.0,1.0
+japan-search,CHeCLOUD,0.0,0.44,1.0,1.0
+jiscopenbib-bl-bnb-1,CHeCLOUD,0.0,0.44,0.0,0.0
+jita,CHeCLOUD,0.0,0.89,1.0,1.0
+john-goodwins-family-tree,CHeCLOUD,0.0,0.44,1.0,0.0
+judaicalink,CHeCLOUD,0.0,0.44,1.0,1.0
+korea-library,CHeCLOUD,0.0,0.11,0.0,0.0
+kronika-naukowa-biblioteki-jagiellońskiej,CHeCLOUD,0.0,0.22,0.0,0.0
+lcsh,CHeCLOUD,0.0,0.44,1.0,1.0
+lcsubjects,CHeCLOUD,0.0,0.33,1.0,0.0
+ldt@library,CHeCLOUD,0.0,0.67,1.0,1.0
+library-of-america,CHeCLOUD,0.0,0.22,0.0,0.0
+libris,CHeCLOUD,0.0,0.67,1.0,1.0
+libver,CHeCLOUD,0.0,0.56,1.0,0.0
+linguistic-phenomena-ontology,CHeCLOUD,0.0,0.11,0.0,0.0
+linkedlccn,CHeCLOUD,0.0,0.44,1.0,0.0
+linkedmdb,CHeCLOUD,0.0,0.56,1.0,0.0
+lista-encabezamientos-materia,CHeCLOUD,0.0,0.56,1.0,0.5
+lucanipharsalia,CHeCLOUD,1.0,0.67,1.0,1.0
+massobservationarchivecatalogue,CHeCLOUD,0.0,0.44,0.0,0.0
+mimotextbase,CHeCLOUD,1.0,0.33,0.0,0.5
+mismuseos-gnoss,CHeCLOUD,0.0,0.56,1.0,1.0
+mmm,CHeCLOUD,1.0,0.56,1.0,1.0
+mondis,CHeCLOUD,0.0,0.11,0.0,0.0
+muninn-world-war-i,CHeCLOUD,0.0,0.89,1.0,1.0
+museosespania-gnoss,CHeCLOUD,0.0,0.56,1.0,1.0
+museums-in-italy,CHeCLOUD,0.0,0.56,1.0,0.0
+music-note-ontology,CHeCLOUD,0.0,0.22,0.0,0.0
+musickg,CHeCLOUD,0.0,0.11,0.0,0.0
+muziekweb,CHeCLOUD,0.0,0.67,1.0,1.0
+national-library-netherlands,CHeCLOUD,0.0,0.44,1.0,1.0
+national-library-of-greece-authority-records,CHeCLOUD,0.0,0.44,1.0,0.0
+national-library-of-scotland,CHeCLOUD,0.0,0.22,0.0,0.0
+nlr-dataset-mod,CHeCLOUD,0.0,0.33,0.0,1.0
+nls,CHeCLOUD,0.0,0.22,0.0,1.0
+nom,CHeCLOUD,0.0,0.67,1.0,1.0
+nomisma-org,CHeCLOUD,0.0,0.67,1.0,1.0
+ntnusc,CHeCLOUD,0.0,0.67,1.0,1.0
+odeuropa,CHeCLOUD,1.0,0.67,0.0,1.0
+ontoceramic-2.0,CHeCLOUD,0.0,0.11,0.0,0.0
+ontocomedysources,CHeCLOUD,0.0,0.11,0.0,0.0
+open-library,CHeCLOUD,0.0,0.44,1.0,1.0
+orlando-womens-writing-linked-open-data-set,CHeCLOUD,0.0,0.56,1.0,0.0
+pali-english-lexicon,CHeCLOUD,0.0,0.56,0.0,1.0
+performing-arts.ch,CHeCLOUD,0.0,0.44,1.0,1.0
+periodo,CHeCLOUD,0.0,0.56,1.0,1.0
+pleiades,CHeCLOUD,0.0,0.56,1.0,1.0
+polifonia,CHeCLOUD,0.0,0.22,0.0,0.0
+polymath-virtual-library,CHeCLOUD,0.0,0.44,1.0,0.0
+prelinger-archives,CHeCLOUD,0.0,0.56,0.0,1.0
+princeton-library-findingaids,CHeCLOUD,0.0,0.33,1.0,1.0
+printed-book-auction-catalogues,CHeCLOUD,0.0,0.56,1.0,0.0
+querolus,CHeCLOUD,1.0,0.67,1.0,1.0
+radatana,CHeCLOUD,0.0,0.67,1.0,1.0
+rainis-and-aspazija-linked-digital-collection,CHeCLOUD,0.0,0.44,1.0,1.0
+rdfize-lastfm,CHeCLOUD,0.0,0.33,1.0,0.0
+rijksmuseum,CHeCLOUD,0.0,0.33,0.0,0.5
+rism,CHeCLOUD,0.0,0.67,1.0,1.0
+rism-authorities,CHeCLOUD,0.0,0.67,1.0,1.0
+roceeh-road,CHeCLOUD,0.0,0.44,1.0,1.0
+russian-museum,CHeCLOUD,0.0,0.11,0.0,0.0
+saintgall-ontology,CHeCLOUD,0.0,0.11,0.0,0.0
+sandrart-net,CHeCLOUD,0.0,0.56,1.0,1.0
+semantic-kalevala,CHeCLOUD,0.0,0.44,1.0,1.0
+shanghai-library-open-data-platform,CHeCLOUD,0.0,0.44,1.0,1.0
+sherry-wine,CHeCLOUD,0.0,0.33,0.0,0.0
+slod,CHeCLOUD,0.0,0.44,1.0,1.0
+smithsonian,CHeCLOUD,0.0,0.33,0.0,1.0
+srcmf,CHeCLOUD,0.0,0.33,0.0,1.0
+stitch-rameau,CHeCLOUD,0.0,0.44,1.0,1.0
+surge-radio,CHeCLOUD,0.0,0.22,1.0,0.0
+swedish-open-cultural-heritage,CHeCLOUD,0.0,0.56,1.0,1.0
+sztaki-lod,CHeCLOUD,0.0,0.67,1.0,1.0
+talis-openlibrary,CHeCLOUD,0.0,0.56,1.0,0.0
+the-european-library-open-dataset,CHeCLOUD,0.0,0.67,1.0,1.0
+the-view-from,CHeCLOUD,0.0,0.44,1.0,0.0
+thesaurus-w,CHeCLOUD,0.0,0.44,1.0,0.0
+tip,CHeCLOUD,0.0,0.44,1.0,0.0
+ub-mannheim-linked-data,CHeCLOUD,0.0,0.44,1.0,0.0
+udante,CHeCLOUD,1.0,0.67,1.0,1.0
+ufontology,CHeCLOUD,1.0,0.56,0.0,1.0
+viaf,CHeCLOUD,0.0,0.56,1.0,1.0
+warsampo,CHeCLOUD,0.0,0.78,1.0,1.0
+wasabi,CHeCLOUD,1.0,0.89,1.0,1.0
+wl-kg,CHeCLOUD,1.0,0.56,0.0,1.0
+ww1lod,CHeCLOUD,0.0,0.78,1.0,1.0
+yale,CHeCLOUD,0.0,0.33,0.0,0.0
+yso,CHeCLOUD,0.0,0.56,1.0,1.0
+zbw-pressemappe20,CHeCLOUD,0.0,0.44,1.0,1.0
+zeri-photo-archive,CHeCLOUD,0.0,0.33,0.0,0.0
+zitgist-musicbrainz,CHeCLOUD,0.0,0.33,1.0,0.0
+associations,Cross-domain,1.0,0.78,1.0,1.0
+austrian-ski-racers,Cross-domain,1.0,0.78,1.0,0.0
+beneficiaries-of-the-european-commission,Cross-domain,1.0,0.89,1.0,1.0
+brazilian-politicians,Cross-domain,1.0,0.56,1.0,0.0
+caligraph,Cross-domain,1.0,0.89,1.0,1.0
+data-gov-ie,Cross-domain,1.0,0.67,1.0,0.0
+dbpedia-commons,Cross-domain,1.0,0.67,1.0,0.0
+dbpedia-el,Cross-domain,1.0,0.78,1.0,0.0
+dbpedia-fr,Cross-domain,1.0,1.0,1.0,1.0
+dbpedia-ja,Cross-domain,1.0,0.89,1.0,1.0
+dbpedia-lite,Cross-domain,1.0,0.56,1.0,0.0
+dbpedia-nl,Cross-domain,1.0,0.78,1.0,0.0
+dbpedia-pt,Cross-domain,1.0,0.67,1.0,0.0
+desaparecidos,Cross-domain,1.0,0.56,1.0,0.0
+dnb-gemeinsame-normdatei,Cross-domain,1.0,0.78,1.0,1.0
+ecco-tcp-linked-data,Cross-domain,1.0,0.78,1.0,0.5
+enipedia,Cross-domain,1.0,0.78,1.0,0.0
+epa-frs,Cross-domain,1.0,0.67,1.0,1.0
+epa-rcra,Cross-domain,1.0,0.67,1.0,1.0
+epa-tri,Cross-domain,1.0,0.67,1.0,1.0
+eventkg,Cross-domain,1.0,0.67,1.0,0.0
+foodpedia,Cross-domain,1.0,0.78,1.0,0.0
+geoecuador,Cross-domain,1.0,0.56,1.0,0.0
+geographic-names-information-system-gnis,Cross-domain,1.0,0.67,1.0,0.5
+googleart-wrapper,Cross-domain,1.0,0.56,1.0,0.0
+icane,Cross-domain,1.0,0.89,1.0,1.0
+imagesnippets,Cross-domain,1.0,0.67,1.0,1.0
+influence-tracker-dataset,Cross-domain,1.0,0.89,1.0,1.0
+intervalue,Cross-domain,1.0,0.78,1.0,0.0
+iserve,Cross-domain,1.0,0.89,1.0,1.0
+ispra-lod-place,Cross-domain,1.0,0.89,1.0,1.0
+jrc-names-mlode,Cross-domain,1.0,0.78,1.0,1.0
+lak-dataset,Cross-domain,1.0,0.67,1.0,0.0
+lexvo-org,Cross-domain,1.0,0.78,1.0,1.0
+linked-crunchbase,Cross-domain,1.0,0.67,1.0,0.0
+linked-drugs,Cross-domain,1.0,0.78,1.0,0.0
+linked-open-numbers,Cross-domain,1.0,0.67,1.0,1.0
+linked-open-vocabularies-lov,Cross-domain,1.0,0.78,1.0,0.5
+linked-user-feedback,Cross-domain,1.0,0.78,1.0,0.0
+linklion,Cross-domain,1.0,0.67,1.0,0.0
+loc,Cross-domain,1.0,0.56,1.0,0.0
+lod2-project-wiki,Cross-domain,1.0,0.67,1.0,1.0
+meducator,Cross-domain,1.0,0.89,1.0,1.0
+muninn-world-war-i,Cross-domain,1.0,0.89,1.0,1.0
+museums-in-italy,Cross-domain,1.0,0.78,1.0,0.0
+nhs-jargon,Cross-domain,1.0,0.67,1.0,1.0
+nitp,Cross-domain,1.0,0.78,1.0,1.0
+nobelprizes,Cross-domain,1.0,0.89,1.0,1.0
+nom,Cross-domain,1.0,0.89,1.0,1.0
+notidentifier,Cross-domain,1.0,0.78,1.0,1.0
+open-data-thesaurus,Cross-domain,1.0,1.0,1.0,1.0
+open-election-data-project,Cross-domain,1.0,0.56,1.0,0.0
+opencalais,Cross-domain,1.0,0.67,1.0,1.0
+opencyc,Cross-domain,1.0,0.67,1.0,0.0
+productontology,Cross-domain,1.0,0.78,1.0,1.0
+provenanceweb,Cross-domain,1.0,0.89,1.0,1.0
+qboairbase,Cross-domain,1.0,0.67,1.0,0.0
+rdflicense,Cross-domain,1.0,0.78,1.0,0.0
+rkb-explorer-webscience,Cross-domain,1.0,0.67,1.0,0.0
+sandrart-net,Cross-domain,1.0,0.78,1.0,1.0
+schemapedia,Cross-domain,1.0,0.67,1.0,0.0
+secold,Cross-domain,1.0,0.67,1.0,0.0
+semsol-crunchbase,Cross-domain,1.0,0.67,1.0,0.0
+serendipity,Cross-domain,1.0,0.67,1.0,0.0
+smartlink,Cross-domain,1.0,0.89,1.0,1.0
+talis-openlibrary,Cross-domain,1.0,0.56,1.0,0.0
+temple-ov-thee-lemur-datasets,Cross-domain,1.0,0.78,1.0,1.0
+thecontentwrangler-com,Cross-domain,1.0,0.67,1.0,0.0
+twc-hub,Cross-domain,1.0,0.89,1.0,1.0
+uberblic,Cross-domain,1.0,0.67,1.0,0.0
+umbel,Cross-domain,1.0,0.67,1.0,0.0
+vulnerapedia,Cross-domain,1.0,0.67,1.0,0.0
+w3c,Cross-domain,1.0,0.56,1.0,1.0
+warsampo,Cross-domain,1.0,0.89,1.0,1.0
+webisalod,Cross-domain,1.0,0.89,1.0,1.0
+whisky-circle-info,Cross-domain,1.0,0.67,1.0,0.0
+wordlift-io-blog-it,Cross-domain,1.0,0.67,1.0,0.0
+yago,Cross-domain,1.0,0.78,1.0,1.0
+earthquake,Geography,1.0,0.89,1.0,1.0
+earthquake-case,Geography,1.0,0.89,1.0,1.0
+eea-vocabularies,Geography,1.0,0.78,1.0,0.5
+environmental-applications-reference-thesaurus,Geography,1.0,0.89,1.0,1.0
+eventseer,Geography,1.0,0.78,1.0,0.0
+fao-geopolitical-ontology,Geography,1.0,0.78,1.0,1.0
+fishes-of-texas,Geography,1.0,0.56,1.0,0.0
+geolinkeddata,Geography,1.0,0.78,1.0,0.0
+geological-survey-of-austria-thesaurus,Geography,1.0,1.0,1.0,1.0
+geonames-semantic-web,Geography,1.0,0.78,1.0,1.0
+geowordnet,Geography,1.0,0.78,1.0,1.0
+greek-administrative-geography,Geography,1.0,0.44,1.0,0.0
+grrp,Geography,1.0,0.78,1.0,0.0
+grrt,Geography,1.0,0.78,1.0,0.0
+gts,Geography,1.0,1.0,1.0,1.0
+gts-ont,Geography,1.0,0.78,1.0,1.0
+knoesis-linked-sensor-data,Geography,1.0,0.78,1.0,0.0
+linked-logainm,Geography,1.0,0.89,1.0,1.0
+linked-uspto-patent-data,Geography,1.0,0.67,1.0,0.0
+linkedcrowdsourceddata,Geography,1.0,0.78,1.0,0.0
+lobid-organisations,Geography,1.0,0.78,1.0,1.0
+los-metar,Geography,1.0,0.56,1.0,0.0
+near,Geography,1.0,0.78,1.0,1.0
+norwegian-geo-divisions,Geography,1.0,0.89,1.0,1.0
+nuts-geovocab,Geography,1.0,0.56,1.0,0.0
+oceandrilling-codices,Geography,1.0,0.78,1.0,1.0
+oceandrilling-forams,Geography,1.0,0.78,1.0,1.0
+oceandrilling-janusamp,Geography,1.0,0.78,1.0,1.0
+openmobilenetwork,Geography,1.0,0.89,1.0,1.0
+ordnance-survey-linked-data,Geography,1.0,0.89,1.0,1.0
+osm-semantic-network,Geography,1.0,0.78,1.0,0.0
+pleiades,Geography,1.0,0.78,1.0,1.0
+riese,Geography,1.0,0.56,1.0,0.0
+statusnet-coreyavis-com,Geography,1.0,0.44,1.0,0.0
+statusnet-hii-co-il,Geography,1.0,0.44,1.0,0.0
+statusnet-ldn-fai-net,Geography,1.0,0.44,1.0,0.0
+taiwan-geographic-names,Geography,1.0,0.78,1.0,0.0
+telegraphis,Geography,1.0,0.78,1.0,1.0
+the-view-from,Geography,1.0,0.67,1.0,0.0
+thist,Geography,1.0,0.89,1.0,1.0
+uganda-disasters-rdf-data,Geography,1.0,0.67,1.0,0.0
+uk-postcodes,Geography,1.0,0.56,1.0,0.0
+world-wide-web-foundation,Geography,1.0,0.56,1.0,0.0
+yahoo-geoplanet,Geography,1.0,0.89,1.0,1.0
+2000-us-census-rdf,Government,1.0,0.78,1.0,0.0
+abs-linked-data,Government,1.0,0.78,1.0,0.0
+agrinepaldata,Government,1.0,0.78,1.0,0.0
+aishe,Government,1.0,0.67,1.0,0.0
+aragodbpedia,Government,1.0,0.89,1.0,1.0
+asn-us,Government,1.0,0.89,1.0,1.0
+bfs-linked-data,Government,1.0,0.78,1.0,0.0
+biographical-directory-of-the-united-states-congress,Government,1.0,0.78,1.0,0.0
+bis-linked-data,Government,1.0,0.78,1.0,0.0
+business-data-gov-uk,Government,1.0,0.67,1.0,0.0
+cablegate,Government,1.0,0.67,1.0,0.5
+ceo,Government,1.0,0.67,1.0,1.0
+cht,Government,1.0,1.0,1.0,1.0
+cipfa,Government,1.0,0.44,1.0,0.0
+clean-energy-data-reegle,Government,1.0,0.89,1.0,1.0
+congresspeople,Government,1.0,0.56,1.0,0.0
+courts-thesaurus,Government,1.0,0.78,1.0,0.0
+cpc,Government,1.0,0.89,1.0,1.0
+cz-ares-or,Government,1.0,0.78,1.0,0.0
+cz-ares-rzp,Government,1.0,0.78,1.0,0.0
+cz-cenia-irz-chemicals,Government,1.0,0.78,1.0,0.0
+cz-cenia-pollution,Government,1.0,0.78,1.0,0.0
+cz-contracts,Government,1.0,0.78,1.0,0.0
+cz-ctia-bans,Government,1.0,0.67,1.0,0.0
+cz-ctia-confiscations,Government,1.0,0.67,1.0,0.0
+cz-ctia-focus,Government,1.0,0.67,1.0,0.0
+cz-ctia-inspections,Government,1.0,0.67,1.0,0.0
+cz-ctia-sanctions,Government,1.0,0.67,1.0,0.0
+cz-cuzk-cadastre-offices,Government,1.0,0.78,1.0,0.0
+cz-cuzk-legal-relationships-documents,Government,1.0,0.78,1.0,0.0
+cz-czso-average-salaries,Government,1.0,0.89,1.0,1.0
+cz-czso-deaths-by-selected-causes-of-death,Government,1.0,0.89,1.0,1.0
+cz-czso-demography-in-regions-czech-republic-age-categories,Government,1.0,0.89,1.0,1.0
+cz-czso-job-applicants,Government,1.0,0.89,1.0,1.0
+cz-czso-job-applicants-and-unemployment-rate,Government,1.0,0.89,1.0,1.0
+cz-czso-regions,Government,1.0,0.78,1.0,0.0
+cz-czso-selected-indicators-of-public-health,Government,1.0,0.89,1.0,1.0
+cz-czso-social-service-facilities,Government,1.0,0.89,1.0,1.0
+cz-czso-unemployment-rate,Government,1.0,0.89,1.0,1.0
+cz-fulfillments,Government,1.0,0.78,1.0,0.0
+cz-ic,Government,1.0,0.78,1.0,1.0
+cz-orders,Government,1.0,0.78,1.0,0.0
+cz-ovm,Government,1.0,1.0,1.0,1.0
+cz-ovm-agendas,Government,1.0,0.78,1.0,0.0
+cz-ruian,Government,1.0,0.89,1.0,1.0
+cz-sao-audited-subjects,Government,1.0,0.89,1.0,1.0
+cz-sao-check-actions,Government,1.0,0.89,1.0,1.0
+cz-sao-check-actions-law,Government,1.0,0.89,1.0,1.0
+cz-souhrnne-typy-ovm,Government,1.0,1.0,1.0,1.0
+cz-vavai-evaluation-2013,Government,1.0,0.67,1.0,0.0
+cz-vavai-funding-providers,Government,1.0,0.67,1.0,0.0
+cz-vavai-organizations,Government,1.0,0.67,1.0,0.0
+cz-vavai-programmes,Government,1.0,0.67,1.0,0.0
+cz-vavai-projects,Government,1.0,0.67,1.0,0.0
+cz-vavai-research-plans,Government,1.0,0.67,1.0,0.0
+cz-vavai-results,Government,1.0,0.67,1.0,0.0
+cz-vavai-tenders,Government,1.0,0.67,1.0,0.0
+data-cnr-it,Government,1.0,0.89,1.0,1.0
+data-gov-uk-time-intervals,Government,1.0,0.56,1.0,0.0
+data-incubator-nasa,Government,1.0,0.89,1.0,1.0
+dataturcyl-lod-for-tourists-in-castilla-y-leon-spain,Government,1.0,0.78,1.0,0.0
+diavgeia,Government,1.0,0.67,1.0,0.0
+ecb-linked-data,Government,1.0,0.78,1.0,0.0
+ecb-statistics-linked-data,Government,1.0,0.89,1.0,1.0
+education-data-gov-uk,Government,1.0,0.78,1.0,1.0
+eea-rod,Government,1.0,0.89,1.0,1.0
+ei2a,Government,1.0,0.89,1.0,1.0
+eionet-rdf,Government,1.0,0.67,1.0,1.0
+enakting-crime,Government,1.0,0.67,1.0,0.0
+enakting-mortality,Government,1.0,0.67,1.0,0.0
+english-index-of-multiple-deprivation-ranking-2010,Government,1.0,0.89,1.0,1.0
+english-index-of-multiple-deprivation-score-2010,Government,1.0,0.89,1.0,1.0
+eprtr,Government,1.0,0.78,1.0,0.5
+esd-standards,Government,1.0,0.67,1.0,1.0
+esd-toolkit,Government,1.0,0.56,1.0,0.0
+eu-agencies-bodies,Government,1.0,0.78,1.0,1.0
+eu-institutions,Government,1.0,0.78,1.0,1.0
+eu-parliament-media,Government,1.0,0.89,1.0,1.0
+eu-who-is-who,Government,1.0,0.89,1.0,1.0
+eumida-linked-data,Government,1.0,0.89,1.0,1.0
+eurobarometer-standard,Government,1.0,0.89,1.0,1.0
+european-patent-information,Government,1.0,0.89,1.0,1.0
+eurostat-rdf,Government,1.0,0.67,1.0,0.0
+fao-linked-data,Government,1.0,0.78,1.0,0.0
+finnish-municipalities,Government,1.0,0.78,1.0,1.0
+frb-linked-data,Government,1.0,0.78,1.0,0.0
+fu-berlin-cordis,Government,1.0,0.56,1.0,0.0
+fu-berlin-eurostat,Government,1.0,0.56,1.0,0.0
+gemet,Government,1.0,0.89,1.0,1.0
+government-web-integration-for-linked-data,Government,1.0,0.78,1.0,0.0
+govtrack,Government,1.0,0.67,1.0,0.0
+hellenic-fire-brigade,Government,1.0,0.78,1.0,0.0
+hellenic-police,Government,1.0,0.78,1.0,0.0
+iati-as-linked-data,Government,1.0,0.89,1.0,1.0
+imf-linked-data,Government,1.0,0.78,1.0,0.0
+istat-immigration,Government,1.0,0.78,1.0,0.0
+kallikratis-municipalities,Government,1.0,0.78,1.0,0.0
+lichfield-spending,Government,1.0,0.78,1.0,0.0
+linked-edgar,Government,1.0,0.56,1.0,0.0
+linked-eurostat,Government,1.0,0.56,1.0,0.0
+linked-nuts,Government,1.0,0.67,1.0,0.0
+linked-stockindex,Government,1.0,0.44,1.0,0.0
+linkedspending,Government,1.0,0.78,1.0,0.0
+london-gazette,Government,1.0,0.67,1.0,0.0
+n-lex-as-linked-data,Government,1.0,0.78,1.0,1.0
+nomenclator-asturias,Government,1.0,0.78,1.0,0.0
+ocd,Government,1.0,0.89,1.0,1.0
+odc-lsoa,Government,1.0,0.89,1.0,1.0
+oecd-linked-data,Government,1.0,0.78,1.0,0.0
+opencorporates,Government,1.0,0.78,1.0,1.0
+opendatacommunities-dev-local-authority-services,Government,1.0,0.44,1.0,0.0
+opendatacommunities-homelessness-acceptances-per-1000,Government,1.0,0.44,1.0,0.0
+opendatacommunities-homelessness-households-accommodated-temporary-housing-types,Government,1.0,0.67,1.0,1.0
+opendatacommunities-households-2008,Government,1.0,0.44,1.0,0.0
+opendatacommunities-households-accommodated-per-1000,Government,1.0,0.44,1.0,0.0
+opendatacommunities-households-projections-population,Government,1.0,0.67,1.0,1.0
+opendatacommunities-households-projections-totalhouseolds,Government,1.0,0.67,1.0,1.0
+opendatacommunities-households-social-lettings-general-needs-lettings-prp-household-composition,Government,1.0,0.44,1.0,0.0
+opendatacommunities-households-social-lettings-general-needs-lettings-prp-number-bedrooms,Government,1.0,0.67,1.0,1.0
+opendatacommunities-housing-market,Government,1.0,0.44,1.0,0.0
+opendatacommunities-imd-crime-rank-2010,Government,1.0,0.44,1.0,0.0
+opendatacommunities-imd-environment-rank-2010,Government,1.0,0.44,1.0,0.0
+opendatacommunities-imd-income-rank-la-2010,Government,1.0,0.44,1.0,0.0
+opendatacommunities-imd-rank-2010,Government,1.0,0.44,1.0,0.0
+opendatacommunities-imd-score-2010,Government,1.0,0.44,1.0,0.0
+opendatacommunities-impact-indicators-affordable-housing-starts,Government,1.0,0.44,1.0,0.0
+opendatacommunities-impact-indicators-energy-efficiency-new-builds,Government,1.0,0.44,1.0,0.0
+opendatacommunities-impact-indicators-housing-starts,Government,1.0,0.44,1.0,0.0
+opendatacommunities-impact-indicators-planning-applications-granted,Government,1.0,0.44,1.0,0.0
+opendatacommunities-input-indicators-local-authority-funding-from-government-grant,Government,1.0,0.44,1.0,0.0
+opendatacommunities-net-additional-dwellings,Government,1.0,0.44,1.0,0.0
+opendatacommunities-service-expenditure,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-education-rank-la-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-employment-rank-la-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-employment-score-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-health-rank-la-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-health-score-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-housing-rank-la-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-income-rank-la-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-rank-2007,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-rank-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-rank-la-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-societal-wellbeing-deprivation-imd-score-2010,Government,1.0,0.67,1.0,1.0
+opendatacommunities-transparency-impact-indicators-affordable-housing-starts,Government,1.0,0.44,1.0,0.0
+opendatacommunities-transparency-impact-indicators-households-in-temporary-accommodation,Government,1.0,0.44,1.0,0.0
+opendatacommunities-transparency-impact-indicators-housing-starts,Government,1.0,0.67,1.0,1.0
+opendatacommunities-transparency-impact-indicators-neighbourhood-plans,Government,1.0,0.67,1.0,1.0
+opendatacommunities-transparency-impact-indicators-troubled-families,Government,1.0,0.67,1.0,1.0
+opendatacommunities-transparency-input-indicators-local-authorities-working-with-troubled-families,Government,1.0,0.44,1.0,0.0
+opendatacommunities-transparency-input-indicators-local-authority-funding-from-government-grant,Government,1.0,0.67,1.0,1.0
+opendatacommunities-wellbeing-happy-yesterday-standard-deviation,Government,1.0,0.67,1.0,1.0
+opendatacommunities-wellbeing-lsoa-happy-yesterday-mean,Government,1.0,0.67,1.0,1.0
+opendatacommunities-wellbeing-worthwhile-mean,Government,1.0,0.67,1.0,1.0
+opendatascotland-graph-education-pupils-by-school-and-datazone,Government,1.0,0.44,1.0,0.0
+opendatascotland-graph-simd-rank,Government,1.0,0.67,1.0,1.0
+opendatascotland-simd-crime-rank,Government,1.0,0.44,1.0,0.0
+opendatascotland-simd-education-rank,Government,1.0,0.44,1.0,0.0
+opendatascotland-simd-employment-rank,Government,1.0,0.44,1.0,0.0
+opendatascotland-simd-geographic-access-rank,Government,1.0,0.44,1.0,0.0
+opendatascotland-simd-health-rank,Government,1.0,0.44,1.0,0.0
+opendatascotland-simd-housing-rank,Government,1.0,0.44,1.0,0.0
+opendatascotland-simd-income-rank,Government,1.0,0.44,1.0,0.0
+openlylocal,Government,1.0,0.78,1.0,1.0
+patents-data-gov-uk,Government,1.0,0.67,1.0,0.0
+prelex,Government,1.0,0.78,1.0,1.0
+public-spending-in-greece,Government,1.0,0.78,1.0,0.0
+rechtspraak,Government,1.0,0.78,1.0,0.0
+reference-data-gov-uk,Government,1.0,0.67,1.0,0.0
+renewable-energy-generators,Government,1.0,0.89,1.0,1.0
+research-data-gov-uk,Government,1.0,0.67,1.0,0.0
+rkb-explorer-cordis,Government,1.0,0.67,1.0,0.0
+sec-rdfabout,Government,1.0,0.78,1.0,0.0
+semantic-xbrl,Government,1.0,0.78,1.0,1.0
+statistics-data-gov-uk,Government,1.0,0.67,1.0,0.0
+the-eurostat-linked-data,Government,1.0,0.67,1.0,0.0
+tip,Government,1.0,0.56,1.0,0.0
+traffic-scotland,Government,1.0,0.78,1.0,0.0
+transparency-linked-data,Government,1.0,0.78,1.0,0.0
+transport-data-gov-uk,Government,1.0,0.78,1.0,1.0
+twc-logd,Government,1.0,0.67,1.0,0.0
+uis-linked-data,Government,1.0,0.78,1.0,0.0
+uk-legislation-api,Government,1.0,0.78,1.0,1.0
+umthes,Government,1.0,0.78,1.0,1.0
+unodc,Government,1.0,0.78,1.0,1.0
+world-bank-linked-data,Government,1.0,0.78,1.0,0.0
+world-factbook-fu-berlin,Government,1.0,0.67,1.0,0.0
+zaragoza-datosabiertos,Government,1.0,0.67,1.0,1.0
+zaragoza-turruta,Government,1.0,0.33,1.0,0.0
+agrovoc,Life Sciences,1.0,0.89,1.0,1.0
+allie-abbreviation-and-long-form-database-in-life-science,Life Sciences,1.0,1.0,1.0,1.0
+arrayexpress-e-mtab-104,Life Sciences,1.0,0.78,1.0,1.0
+ascdc-as-tfd-fish-species,Life Sciences,1.0,0.67,1.0,0.0
+bio2rdf-affymetrix,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-biomodels,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-bioportal,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-chembl,Life Sciences,1.0,0.89,1.0,1.0
+bio2rdf-clinicaltrials,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-ctd,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-dbsnp,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-drugbank,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-genage,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-gendr,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-goa,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-hgnc,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-homologene,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-interpro,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-iproclass,Life Sciences,1.0,0.89,1.0,1.0
+bio2rdf-irefindex,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-lsr,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-mesh,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-mgi,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-ncbigene,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-ndc,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-omim,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-omim-resources,Life Sciences,1.0,0.67,1.0,1.0
+bio2rdf-orphanet,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-pharmgkb,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-pubmed,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-sabiork,Life Sciences,1.0,0.89,1.0,1.0
+bio2rdf-sgd,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-sider,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-taxon,Life Sciences,1.0,0.67,1.0,1.0
+bio2rdf-taxonomy,Life Sciences,1.0,1.0,1.0,1.0
+bio2rdf-wormbase,Life Sciences,1.0,1.0,1.0,1.0
+biomodels-rdf,Life Sciences,1.0,0.78,1.0,1.0
+bioportal-aao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-aba,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-acgt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-adw,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-aeo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-aero,Life Sciences,1.0,0.78,1.0,1.0
+bioportal-air,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-amino-acid,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-apo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-atmo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ato,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-basic-vertebrate-gross-anatomy,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bcgo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bdo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bfo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bho,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bila,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-birnlex,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bootstrep,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bp,Life Sciences,1.0,0.78,1.0,1.0
+bioportal-bro-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bspo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-bt,Life Sciences,1.0,0.78,1.0,1.0
+bioportal-bto,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-canco,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-carelex,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cco,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cdao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-chebi,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-chem2bio2owl,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cheminf,Life Sciences,1.0,0.78,1.0,1.0
+bioportal-cl,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-clo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cmo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cno,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-co-wheat,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cogat,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cogpo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cpt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-csp,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-cst,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ctcae,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ctx,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-dc-cl,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ddanat,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ddi,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-diagnosticont,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-dikb-evidence,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-doid,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ecg,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-efo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ehda,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ehdaa,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ehdaa2,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-envo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-eo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ep,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-epileponto,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ero,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ev,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-exo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fbbi,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fbbt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fbcv,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fbdv,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fbsp,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fda-meddevice,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fhho,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-flu,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fma,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-fypo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-geospecies,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-gfo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-gfo-bio,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-go-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-go-x2,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-gro-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-gro-x2,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-hao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-hcpcs,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-hl7,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-hlth-indics,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-hp-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-hpio,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-hugo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-iao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icd10,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icd10cm,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icd10pcs,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icd9cm,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icf-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icnp,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icpc,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icpc2p,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-icps,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ido,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-idobru,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-idomal,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-iev,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-imgt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-imr,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ino,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ixno,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-jerm,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-lhn,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-lipro,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-lnc,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ma,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mat,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mcbcc,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mccl,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mccl-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mcv,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mddb,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mdr,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-medlineplus,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mego,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mesh-owl,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mf,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mfo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mfoem,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mhc,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mi,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-miro,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mmo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mod,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mp,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mpath,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ms,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-msh,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-mthch,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-natpro,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ncbitaxon,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ncit,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nddf,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ndfrt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nemo-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-neomark,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-neomarkontology,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nif,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nif-cell,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nif-dysfunction,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nigo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nmr,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-nonrctontology,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-npo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-oae,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-obi,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-oboe,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-oboe-sbc,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ocre,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-odgi,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ogi,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ogmd,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ogms,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-omim,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-omit,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-omrse,Life Sciences,1.0,0.56,1.0,0.0
+bioportal-ontodm,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ontodt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ontoorpha,Life Sciences,1.0,0.78,1.0,1.0
+bioportal-opl,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pato,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pdq,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pedterm,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-peo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-phare,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pko,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pma,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pmr,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-po,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-po-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-po-x2,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pr,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-propreo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-pw,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-rcd,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-rctontology,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-repo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-rex,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-rid,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-rnao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-roleo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-rs,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-rxnorm,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sbo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sbro,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sdo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sep,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-shr,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sio,Life Sciences,1.0,0.78,1.0,1.0
+bioportal-sitbac,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-snomedct,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-snpo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-so-x1,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sopharm,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-soy,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-spd,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-spto,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-sso,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-swo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-tads,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-tao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-taxrank,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-teddy,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-teo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-tgma,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-thesaurus,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-tm-signs-and-sympts,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-tmo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-to,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-tok,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-tto,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-uberon,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-unitsontology,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-uo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-vandf,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-vao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-vhog,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-vivo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-vo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-vt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-wbbt,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-wbls,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-wbphenotype,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-who,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-xao,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-xco,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-ypo,Life Sciences,1.0,0.67,1.0,1.0
+bioportal-zfa,Life Sciences,1.0,0.67,1.0,1.0
+biosamples-rdf,Life Sciences,1.0,0.78,1.0,1.0
+chem2bio2rdf,Life Sciences,1.0,0.56,1.0,0.0
+chembl-rdf,Life Sciences,1.0,0.89,1.0,1.0
+chemdb-basicinfo,Life Sciences,1.0,0.67,1.0,1.0
+chemdb-estimatedproperties,Life Sciences,1.0,0.67,1.0,1.0
+chemdb-phasetransition,Life Sciences,1.0,0.67,1.0,1.0
+chemdb-thermochemistry,Life Sciences,1.0,0.67,1.0,1.0
+ckan,Life Sciences,1.0,0.78,1.0,0.0
+colchina-sp2000,Life Sciences,1.0,0.67,1.0,0.5
+cz-eh-1-atc,Life Sciences,1.0,0.78,1.0,0.0
+cz-sidc-drug-ingredients,Life Sciences,1.0,0.78,1.0,0.0
+cz-sidc-drugs,Life Sciences,1.0,0.78,1.0,0.0
+disgenet,Life Sciences,1.0,0.89,1.0,1.0
+eagle-i-alaska,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-cau,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-ccny-cuny,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-cdrewu,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-dartmouth,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-famu,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-harvard,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-hawaii,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-howard,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-hunter-cuny,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-jsu,Life Sciences,1.0,0.78,1.0,0.0
+eagle-i-meharry,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-montana,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-msm,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-ohsu,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-psm,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-tsu,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-tuskegee,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-uccaribe,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-upr,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-utep,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-utsa,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-vanderbilt,Life Sciences,1.0,0.67,1.0,0.0
+eagle-i-xula,Life Sciences,1.0,0.67,1.0,0.0
+entice-graph,Life Sciences,1.0,0.78,1.0,0.0
+entrez-gene,Life Sciences,1.0,0.56,1.0,0.0
+eunis,Life Sciences,1.0,0.89,1.0,1.0
+farmbio-chembl,Life Sciences,1.0,0.89,1.0,1.0
+foodpedia,Life Sciences,1.0,0.78,1.0,0.0
+fu-berlin-dailymed,Life Sciences,1.0,0.67,1.0,0.0
+fu-berlin-diseasome,Life Sciences,1.0,0.67,1.0,0.0
+fu-berlin-drugbank,Life Sciences,1.0,0.67,1.0,0.0
+fu-berlin-medicare,Life Sciences,1.0,0.67,1.0,0.0
+fu-berlin-sider,Life Sciences,1.0,0.67,1.0,0.0
+fu-berlin-stitch,Life Sciences,1.0,0.67,1.0,0.0
+gene-expression-atlas-rdf,Life Sciences,1.0,0.78,1.0,1.0
+geospecies,Life Sciences,1.0,0.89,1.0,1.0
+heartfailure,Life Sciences,1.0,0.67,1.0,0.0
+hito,Life Sciences,1.0,0.89,1.0,1.0
+http:sensormeasurement.appspot.comdatasetnaturopathy-dataset,Life Sciences,1.0,0.89,1.0,1.0
+issa-agritrop,Life Sciences,1.0,0.89,1.0,1.0
+kupkb,Life Sciences,1.0,0.56,1.0,0.0
+linked-life-data,Life Sciences,1.0,0.67,1.0,0.0
+linked-tcga,Life Sciences,1.0,0.78,1.0,0.0
+linkedct,Life Sciences,1.0,0.89,1.0,1.0
+lodac-bdls,Life Sciences,1.0,0.89,1.0,1.0
+micro-coronavirus,Life Sciences,1.0,0.67,1.0,1.0
+naturopathy,Life Sciences,1.0,0.78,1.0,1.0
+nextprot,Life Sciences,1.0,0.67,1.0,0.5
+nvs,Life Sciences,1.0,0.89,1.0,1.0
+ogolod,Life Sciences,1.0,0.78,1.0,0.0
+organic-edunet,Life Sciences,1.0,0.89,1.0,1.0
+plant-specimen,Life Sciences,1.0,0.67,1.0,0.0
+pubchem-rdf,Life Sciences,1.0,0.78,1.0,1.0
+reactome-rdf,Life Sciences,1.0,0.78,1.0,1.0
+sandre,Life Sciences,1.0,0.89,1.0,1.0
+scbg-data,Life Sciences,1.0,0.67,1.0,0.0
+snik,Life Sciences,1.0,0.89,1.0,1.0
+sparql-endpoint-status,Life Sciences,1.0,0.78,1.0,0.0
+t4gm-info,Life Sciences,1.0,0.67,1.0,0.0
+taxonconcept,Life Sciences,1.0,0.89,1.0,1.0
+taxonconcept-assets,Life Sciences,1.0,0.56,1.0,1.0
+taxonconcept-occurences,Life Sciences,1.0,0.67,1.0,1.0
+tcga-roadmap,Life Sciences,1.0,0.67,1.0,0.0
+tcmgenedit-dataset,Life Sciences,1.0,0.78,1.0,0.0
+traditional-korean-medicine,Life Sciences,1.0,0.78,1.0,0.0
+uniprot,Life Sciences,1.0,0.78,1.0,1.0
+uniprotkb,Life Sciences,1.0,0.78,1.0,1.0
+university-plymouth-reading-lists,Life Sciences,1.0,0.56,1.0,0.0
+alpino-rdf,Linguistic,1.0,0.67,1.0,0.0
+apertium-rdf,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-ca-it,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-en-ca,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-en-es,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-en-gl,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-eo-ca,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-eo-en,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-eo-es,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-eo-fr,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-es-an,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-es-ast,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-es-ca,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-es-gl,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-es-pt,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-es-ro,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-eu-en,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-eu-es,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-fr-ca,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-fr-es,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-oc-ca,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-oc-es,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-pt-ca,Linguistic,1.0,0.67,1.0,1.0
+apertium-rdf-pt-gl,Linguistic,1.0,0.67,1.0,1.0
+asit,Linguistic,1.0,0.78,1.0,1.0
+asjp,Linguistic,1.0,0.78,1.0,1.0
+associations,Linguistic,1.0,0.78,1.0,1.0
+augustiniconfessiones,Linguistic,1.0,0.89,1.0,1.0
+babelnet,Linguistic,1.0,0.67,1.0,0.0
+basque-eurowordnet-lemon-lexicon-3-0,Linguistic,1.0,0.67,1.0,1.0
+bll-thesaurus,Linguistic,1.0,0.78,1.0,1.0
+brown-corpus-in-rdf-nif,Linguistic,1.0,0.67,1.0,0.0
+catalan-eurowordnet-lemon-lexicon-3-0,Linguistic,1.0,0.67,1.0,1.0
+chat-game-corpus,Linguistic,1.0,0.67,1.0,0.0
+classes,Linguistic,1.0,0.89,1.0,1.0
+clean-energy-data-reegle,Linguistic,1.0,0.89,1.0,1.0
+clld-afbo,Linguistic,1.0,0.78,1.0,1.0
+clld-apics,Linguistic,1.0,0.78,1.0,1.0
+clld-ewave,Linguistic,1.0,0.78,1.0,1.0
+clld-glottolog,Linguistic,1.0,0.67,1.0,1.0
+clld-phoible,Linguistic,1.0,0.78,1.0,1.0
+clld-sails,Linguistic,1.0,0.78,1.0,1.0
+clld-wals,Linguistic,1.0,0.78,1.0,1.0
+clld-wold,Linguistic,1.0,0.78,1.0,1.0
+comphistsem,Linguistic,1.0,0.89,1.0,1.0
+copyrighttermbank,Linguistic,1.0,0.78,1.0,1.0
+cornetto,Linguistic,1.0,0.56,1.0,0.0
+corpusfibonacci,Linguistic,1.0,0.89,1.0,1.0
+dantelatinloanwords,Linguistic,1.0,0.89,1.0,1.0
+dbnary,Linguistic,1.0,0.89,1.0,1.0
+dbpedia-abstract-corpus,Linguistic,1.0,0.67,1.0,0.0
+dbpedia-nl,Linguistic,1.0,0.78,1.0,0.0
+dbpedia-spotlight-nif-ner-corpus,Linguistic,1.0,0.78,1.0,1.0
+de-gaap-ontology-lexicon,Linguistic,1.0,0.56,1.0,0.0
+emn,Linguistic,1.0,0.78,1.0,1.0
+english-wordnet,Linguistic,1.0,0.78,1.0,1.0
+environmental-applications-reference-thesaurus,Linguistic,1.0,0.89,1.0,1.0
+etymologicaldictionaryoflatin,Linguistic,1.0,0.89,1.0,1.0
+eurosentiment,Linguistic,1.0,0.78,1.0,0.0
+fao-geopolitical-ontology,Linguistic,1.0,0.78,1.0,1.0
+fiesta,Linguistic,1.0,0.67,1.0,0.0
+framebase-schema,Linguistic,1.0,0.78,1.0,1.0
+framester,Linguistic,1.0,0.78,1.0,1.0
+fu-berlin-euraxess,Linguistic,1.0,0.56,1.0,0.0
+galician-eurowordnet-lemon-lexicon-3-0,Linguistic,1.0,0.67,1.0,1.0
+gemeenschappelijke-thesaurus-audiovisuele-archieven,Linguistic,1.0,0.78,1.0,1.0
+gemet,Linguistic,1.0,0.89,1.0,1.0
+gemet-annotated,Linguistic,1.0,0.67,1.0,0.0
+geological-survey-of-austria-thesaurus,Linguistic,1.0,1.0,1.0,1.0
+geowordnet,Linguistic,1.0,0.78,1.0,1.0
+germlex,Linguistic,1.0,0.67,1.0,0.0
+gesis-thesoz,Linguistic,1.0,0.78,1.0,0.0
+glottolog,Linguistic,1.0,0.78,1.0,1.0
+gold,Linguistic,1.0,0.67,1.0,1.0
+greek-wordnet,Linguistic,1.0,0.78,1.0,0.0
+gwa-ili,Linguistic,1.0,0.78,1.0,1.0
+iate-rdf,Linguistic,1.0,0.67,1.0,1.0
+ids,Linguistic,1.0,0.78,1.0,0.0
+ietflang,Linguistic,1.0,0.67,1.0,0.0
+igvll,Linguistic,1.0,0.89,1.0,1.0
+indexthomisticustreebank,Linguistic,1.0,0.89,1.0,1.0
+isocat,Linguistic,1.0,0.67,1.0,0.0
+isocat-metadata,Linguistic,1.0,0.56,1.0,0.0
+iwn,Linguistic,1.0,0.78,1.0,1.0
+jrc-names-mlode,Linguistic,1.0,0.78,1.0,1.0
+kore-50-nif-ner-corpus,Linguistic,1.0,0.78,1.0,1.0
+lark,Linguistic,1.0,0.78,1.0,0.0
+lasla,Linguistic,1.0,0.89,1.0,1.0
+latin-vallex2.0,Linguistic,1.0,0.89,1.0,1.0
+latinaffectus,Linguistic,1.0,0.89,1.0,1.0
+latinwordnetlila,Linguistic,1.0,0.89,1.0,1.0
+lemmabank,Linguistic,1.0,0.89,1.0,1.0
+lemonuby,Linguistic,1.0,0.67,1.0,1.0
+lemonwiktionary,Linguistic,1.0,0.67,1.0,1.0
+lewisshort,Linguistic,1.0,0.89,1.0,1.0
+lexinfo,Linguistic,1.0,0.67,1.0,1.0
+lexvo,Linguistic,1.0,0.78,1.0,1.0
+lime,Linguistic,1.0,0.67,1.0,0.0
+lingvoj,Linguistic,1.0,0.67,1.0,1.0
+linked-hypernyms,Linguistic,1.0,0.78,1.0,1.0
+lodac-bdls,Linguistic,1.0,0.89,1.0,1.0
+lucanipharsalia,Linguistic,1.0,0.89,1.0,1.0
+masc,Linguistic,1.0,0.67,1.0,1.0
+masc-bn-nif,Linguistic,1.0,0.67,1.0,1.0
+mexico,Linguistic,1.0,0.67,1.0,0.0
+mlsa,Linguistic,1.0,0.78,1.0,0.0
+multext-east,Linguistic,1.0,0.56,1.0,0.0
+muninn-world-war-i,Linguistic,1.0,0.89,1.0,1.0
+news-100-nif-ner-corpus,Linguistic,1.0,0.78,1.0,1.0
+nlw,Linguistic,1.0,0.89,1.0,1.0
+olac,Linguistic,1.0,0.67,1.0,0.0
+olia,Linguistic,1.0,0.78,1.0,1.0
+olia-discourse,Linguistic,1.0,0.78,1.0,1.0
+omwn-als,Linguistic,1.0,0.78,1.0,0.0
+omwn-arb,Linguistic,1.0,0.78,1.0,0.0
+omwn-bul,Linguistic,1.0,0.78,1.0,0.0
+omwn-cow,Linguistic,1.0,0.78,1.0,0.0
+omwn-cwn,Linguistic,1.0,0.78,1.0,0.0
+omwn-dan,Linguistic,1.0,0.78,1.0,0.0
+omwn-ell,Linguistic,1.0,0.78,1.0,0.0
+omwn-eng,Linguistic,1.0,0.78,1.0,0.0
+omwn-fas,Linguistic,1.0,0.78,1.0,0.0
+omwn-fin,Linguistic,1.0,0.78,1.0,0.0
+omwn-fra,Linguistic,1.0,0.78,1.0,0.0
+omwn-heb,Linguistic,1.0,0.78,1.0,0.0
+omwn-hrv,Linguistic,1.0,0.78,1.0,0.0
+omwn-isl,Linguistic,1.0,0.78,1.0,0.0
+omwn-ita,Linguistic,1.0,0.78,1.0,0.0
+omwn-iwn,Linguistic,1.0,0.78,1.0,0.0
+omwn-jpn,Linguistic,1.0,0.78,1.0,0.0
+omwn-mcr,Linguistic,1.0,0.78,1.0,0.0
+omwn-msa,Linguistic,1.0,0.78,1.0,0.0
+omwn-nld,Linguistic,1.0,0.78,1.0,0.0
+omwn-nor,Linguistic,1.0,0.78,1.0,0.0
+omwn-pol,Linguistic,1.0,0.78,1.0,0.0
+omwn-por,Linguistic,1.0,0.78,1.0,0.0
+omwn-ron,Linguistic,1.0,0.78,1.0,0.0
+omwn-slk,Linguistic,1.0,0.78,1.0,0.0
+omwn-slv,Linguistic,1.0,0.78,1.0,0.0
+omwn-swe,Linguistic,1.0,0.78,1.0,0.0
+omwn-tha,Linguistic,1.0,0.78,1.0,0.0
+ontos-news-portal,Linguistic,1.0,0.67,1.0,0.0
+open-bantu-isixhosa-lexicon,Linguistic,1.0,0.78,1.0,1.0
+open-data-thesaurus,Linguistic,1.0,1.0,1.0,1.0
+panlex,Linguistic,1.0,0.67,1.0,0.0
+parole-simple-lexinfo-ontology-lexicons,Linguistic,1.0,0.78,1.0,1.0
+pdev-lemon,Linguistic,1.0,0.67,1.0,1.0
+phoible,Linguistic,1.0,0.78,1.0,1.0
+pleiades,Linguistic,1.0,0.78,1.0,1.0
+polymath-virtual-library,Linguistic,1.0,0.67,1.0,0.0
+premon,Linguistic,1.0,0.89,1.0,1.0
+prinparlat,Linguistic,1.0,0.89,1.0,1.0
+querolus,Linguistic,1.0,0.89,1.0,1.0
+reuters-128-nif-ner-corpus,Linguistic,1.0,0.78,1.0,1.0
+rkb-explorer-wordnet,Linguistic,1.0,0.67,1.0,0.0
+rss-500-nif-ner-corpus,Linguistic,1.0,0.78,1.0,1.0
+saldo-rdf,Linguistic,1.0,0.89,1.0,1.0
+saldom-rdf,Linguistic,1.0,0.89,1.0,1.0
+sentiws,Linguistic,1.0,0.78,1.0,0.0
+simple,Linguistic,1.0,0.78,1.0,1.0
+sli-galnet-rdf,Linguistic,1.0,0.67,1.0,0.0
+socialsemweb-thesaurus,Linguistic,1.0,1.0,1.0,1.0
+ssf,Linguistic,1.0,0.89,1.0,1.0
+stw-thesaurus-for-economics,Linguistic,1.0,1.0,1.0,1.0
+swefn-rdf,Linguistic,1.0,0.89,1.0,1.0
+tds,Linguistic,1.0,0.78,1.0,1.0
+thist,Linguistic,1.0,0.89,1.0,1.0
+udante,Linguistic,1.0,0.89,1.0,1.0
+umthes,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-ancient-greek,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-ancient-greek-proiel,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-arabic,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-basque,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-bulgarian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-catalan,Linguistic,1.0,0.67,1.0,1.0
+universal-dependencies-treebank-chinese,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-coptic,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-croatian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-czech,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-czech-cac,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-czech-cltt,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-danish,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-dutch,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-dutch-lassysmall,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-english,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-english-esl,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-english-lines,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-estonian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-finnish,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-finnish-ftb,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-french,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-galician,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-galician-treegal,Linguistic,1.0,0.67,1.0,1.0
+universal-dependencies-treebank-german,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-gothic,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-greek,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-hebrew,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-hindi,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-hungarian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-indonesian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-irish,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-italian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-japanese,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-japanese-ktc,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-kazakh,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-latin,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-latin-ittb,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-latin-proiel,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-latvian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-norwegian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-old-church-slavonic,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-persian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-polish,Linguistic,1.0,0.67,1.0,1.0
+universal-dependencies-treebank-portuguese,Linguistic,1.0,0.67,1.0,0.0
+universal-dependencies-treebank-portuguese-bosque,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-portuguese-br,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-romanian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-russian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-russian-syntagrus,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-sanskrit,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-slovak,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-slovenian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-slovenian-sst,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-spanish,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-spanish-ancora,Linguistic,1.0,0.67,1.0,1.0
+universal-dependencies-treebank-swedish,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-swedish-lines,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-swedish-sign-language,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-tamil,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-turkish,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-ukrainian,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-uyghur,Linguistic,1.0,0.78,1.0,1.0
+universal-dependencies-treebank-vietnamese,Linguistic,1.0,0.78,1.0,1.0
+velezindextotiusartis,Linguistic,1.0,0.89,1.0,1.0
+vu-wordnet,Linguistic,1.0,0.78,1.0,1.0
+w3c-wordnet,Linguistic,1.0,0.78,1.0,1.0
+wikilinks-rdf-nif,Linguistic,1.0,0.67,1.0,0.0
+wiktionary-dbpedia-org,Linguistic,1.0,0.78,1.0,0.0
+wn-wiki-instances,Linguistic,1.0,0.78,1.0,1.0
+wold,Linguistic,1.0,0.78,1.0,0.0
+wordformationlatin,Linguistic,1.0,0.89,1.0,1.0
+wordnet-rdf,Linguistic,1.0,0.56,1.0,0.0
+xlid-lexica,Linguistic,1.0,0.67,1.0,0.0
+xwn,Linguistic,1.0,0.56,1.0,0.0
+zhishi-lemon,Linguistic,1.0,0.67,1.0,0.0
+zhishi-me,Linguistic,1.0,0.78,1.0,0.0
+ascdc-cts-tv-programs,Media,1.0,0.67,1.0,0.0
+ascdc-tibetan-audio-archive,Media,1.0,0.67,1.0,0.0
+bbc-music,Media,1.0,0.78,1.0,1.0
+bbc-programmes,Media,1.0,0.89,1.0,1.0
+bbc-wildlife-finder,Media,1.0,0.78,1.0,0.0
+betweenourworlds,Media,1.0,0.78,1.0,1.0
+bricklink,Media,1.0,0.89,1.0,1.0
+chronicling-america,Media,1.0,0.67,1.0,1.0
+data-incubator-discogs,Media,1.0,0.78,1.0,1.0
+data-incubator-moseley,Media,1.0,0.89,1.0,1.0
+data-incubator-pokedex,Media,1.0,0.78,1.0,1.0
+dbtropes,Media,1.0,0.78,1.0,1.0
+dbtune-artists-last-fm,Media,1.0,0.44,1.0,0.0
+dbtune-audioscrobbler,Media,1.0,0.44,1.0,0.0
+dbtune-classical,Media,1.0,0.67,1.0,0.5
+dbtune-john-peel-sessions,Media,1.0,0.78,1.0,1.0
+dbtune-magnatune,Media,1.0,0.78,1.0,1.0
+dbtune-musicbrainz,Media,1.0,0.56,1.0,0.0
+edublogs,Media,1.0,0.67,1.0,1.0
+eutc-productions,Media,1.0,0.89,1.0,1.0
+event-media,Media,1.0,0.89,1.0,1.0
+gemeenschappelijke-thesaurus-audiovisuele-archieven,Media,1.0,0.78,1.0,1.0
+jamendo-dbtune,Media,1.0,0.78,1.0,1.0
+linked-user-feedback,Media,1.0,0.78,1.0,0.0
+linkedmdb,Media,1.0,0.78,1.0,0.0
+muziekweb,Media,1.0,0.89,1.0,1.0
+nytimes-linked-open-data,Media,1.0,0.67,1.0,0.0
+ontos-news-portal,Media,1.0,0.67,1.0,0.0
+pokepedia-fr,Media,1.0,0.67,1.0,0.0
+rdfize-lastfm,Media,1.0,0.56,1.0,0.0
+salzburgerland-com-de,Media,1.0,0.67,1.0,0.0
+salzburgerland-com-en,Media,1.0,0.67,1.0,0.0
+salzburgerland-com-it,Media,1.0,0.67,1.0,0.0
+surge-radio,Media,1.0,0.56,1.0,0.0
+wasabi,Media,1.0,1.0,1.0,1.0
+zitgist-musicbrainz,Media,1.0,0.67,1.0,0.0
+agris,Publications,1.0,0.89,1.0,1.0
+aliada-scanbit-net,Publications,1.0,0.78,1.0,0.0
+amsterdam-museum-as-edm-lod,Publications,1.0,0.89,1.0,1.0
+b3kat,Publications,1.0,0.89,1.0,1.0
+bibbase,Publications,1.0,0.78,1.0,0.0
+biblioteca-nacional-escolar-bnescolar,Publications,1.0,0.67,1.0,1.0
+bibsonomy,Publications,1.0,0.78,1.0,1.0
+bluk-bnb,Publications,1.0,0.78,1.0,0.0
+bncf-ns,Publications,1.0,0.89,1.0,1.0
+bpr,Publications,1.0,0.89,1.0,1.0
+calames,Publications,1.0,0.67,1.0,1.0
+data-bnf-fr,Publications,1.0,0.78,1.0,1.0
+data-hnm-hu,Publications,1.0,0.89,1.0,1.0
+data-incubator-our-airports,Publications,1.0,0.56,1.0,0.0
+data-persee-fr,Publications,1.0,0.89,1.0,1.0
+data-szepmuveszeti-hu,Publications,1.0,0.78,1.0,0.0
+datos-artium-org,Publications,1.0,0.78,1.0,0.0
+datos-bne-es,Publications,1.0,0.89,1.0,1.0
+dcs-sheffield,Publications,1.0,0.56,1.0,0.0
+deutsche-nationalbibliografie-dnb,Publications,1.0,0.78,1.0,1.0
+dev8d,Publications,1.0,0.44,1.0,0.0
+dewey-decimal-classification,Publications,1.0,0.67,1.0,0.0
+dm2e,Publications,1.0,0.67,1.0,0.0
+doi,Publications,1.0,0.67,1.0,1.0
+dws-group,Publications,1.0,0.44,1.0,0.0
+ecs,Publications,1.0,0.67,1.0,0.0
+eprints-harvest-rkbexplorer,Publications,1.0,0.78,1.0,0.0
+eur-lex-rdf,Publications,1.0,0.78,1.0,1.0
+europeana-lod-v1,Publications,1.0,0.78,1.0,1.0
+freeyork-org,Publications,1.0,0.67,1.0,0.0
+fu-berlin-dblp,Publications,1.0,0.56,1.0,0.0
+fu-berlin-project-gutenberg,Publications,1.0,0.56,1.0,0.0
+geospatialworld-net,Publications,1.0,0.67,1.0,0.0
+german-labor-law-thesaurus,Publications,1.0,0.78,1.0,0.0
+gesis-thesoz,Publications,1.0,0.78,1.0,0.0
+gutenberg,Publications,1.0,0.78,1.0,1.0
+hedatuz,Publications,1.0,0.78,1.0,0.0
+hungarian-national-library-catalog,Publications,1.0,0.67,1.0,0.0
+idreffr,Publications,1.0,0.67,1.0,1.0
+isil-dbpedia,Publications,1.0,0.67,1.0,0.0
+italian-public-schools-linkedopendata-it,Publications,1.0,0.78,1.0,0.0
+jita,Publications,1.0,0.89,1.0,1.0
+l3s-dblp,Publications,1.0,0.67,1.0,0.0
+lcsh,Publications,1.0,0.67,1.0,1.0
+lcsubjects,Publications,1.0,0.56,1.0,0.0
+libris,Publications,1.0,0.89,1.0,1.0
+libver,Publications,1.0,0.78,1.0,0.0
+linked-periodicals,Publications,1.0,0.56,1.0,0.0
+linkedlccn,Publications,1.0,0.56,1.0,0.0
+lista-encabezamientos-materia,Publications,1.0,0.78,1.0,0.0
+lobid-resources,Publications,1.0,0.89,1.0,1.0
+marc-codes,Publications,1.0,0.44,1.0,0.0
+medline,Publications,1.0,0.67,1.0,0.0
+mismuseos-gnoss,Publications,1.0,0.78,1.0,1.0
+morelab,Publications,1.0,0.67,1.0,0.0
+msc,Publications,1.0,0.78,1.0,0.5
+national-library-of-greece-authority-records,Publications,1.0,0.67,1.0,0.0
+ntnusc,Publications,1.0,0.89,1.0,1.0
+nvd,Publications,1.0,0.89,1.0,1.0
+oclc-fast,Publications,1.0,0.78,1.0,1.0
+open-library,Publications,1.0,0.67,1.0,1.0
+opendataec,Publications,1.0,0.67,1.0,0.0
+oreilly,Publications,1.0,0.56,1.0,0.0
+periodo,Publications,1.0,0.78,1.0,1.0
+planetdata-project-wiki,Publications,1.0,0.44,1.0,0.0
+princeton-library-findingaids,Publications,1.0,0.67,1.0,1.0
+printed-book-auction-catalogues,Publications,1.0,0.78,1.0,0.0
+psh-subject-headings,Publications,1.0,0.78,1.0,1.0
+radatana,Publications,1.0,0.89,1.0,1.0
+rainis-and-aspazija-linked-digital-collection,Publications,1.0,0.67,1.0,1.0
+rdf-book-mashup,Publications,1.0,0.44,1.0,0.0
+reload,Publications,1.0,0.89,1.0,1.0
+rism-authorities,Publications,1.0,0.89,1.0,1.0
+rkb-explorer-acm,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-budapest,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-citeseer,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-courseware,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-curriculum,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-darmstadt,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-dblp,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-deepblue,Publications,1.0,0.78,1.0,0.0
+rkb-explorer-deploy,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-dotac,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-eprints,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-epsrc,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-era,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-eurecom,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-ft,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-fun,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-gdlc,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-ibm,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-ieee,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-irit,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-italy,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-jisc,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-kaunas,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-kisti,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-laas,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-lisbon,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-newcastle,Publications,1.0,0.78,1.0,0.0
+rkb-explorer-nsf,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-oai,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-os,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-photos,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-pisa,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-rae2001,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-resex,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-risks,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-roma,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-southampton,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-ulm,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-unlocode,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-webconf,Publications,1.0,0.67,1.0,0.0
+rkb-explorer-wiki,Publications,1.0,0.67,1.0,0.0
+scholarometer,Publications,1.0,0.56,1.0,0.0
+semantic-web-dog-food,Publications,1.0,0.67,1.0,0.0
+shoah-victims-names,Publications,1.0,0.78,1.0,1.0
+southampton-ecs-eprints,Publications,1.0,0.67,1.0,0.0
+springernaturescigraph,Publications,1.0,0.78,1.0,1.0
+stitch-rameau,Publications,1.0,0.67,1.0,1.0
+stw-thesaurus-for-economics,Publications,1.0,1.0,1.0,1.0
+sudocfr,Publications,1.0,0.67,1.0,0.0
+swedish-open-cultural-heritage,Publications,1.0,0.78,1.0,1.0
+sweto-dblp,Publications,1.0,0.67,1.0,0.0
+sztaki-lod,Publications,1.0,0.89,1.0,1.0
+tharawat-magazine-com,Publications,1.0,0.67,1.0,0.0
+the-european-library-open-dataset,Publications,1.0,0.89,1.0,1.0
+thesaurus-w,Publications,1.0,0.67,1.0,0.0
+thesesfr,Publications,1.0,0.67,1.0,1.0
+twc-ieeevis,Publications,1.0,0.89,1.0,1.0
+twc-opendap,Publications,1.0,0.78,1.0,1.0
+ub-mannheim-linked-data,Publications,1.0,0.56,1.0,0.0
+verrijktkoninkrijk,Publications,1.0,0.89,1.0,1.0
+viaf,Publications,1.0,0.78,1.0,1.0
+vivo-cornell-university,Publications,1.0,0.78,1.0,1.0
+vivo-indiana-university,Publications,1.0,0.67,1.0,0.0
+vivo-scripps-research-institute,Publications,1.0,0.67,1.0,0.0
+vivo-university-of-florida,Publications,1.0,0.67,1.0,0.0
+vivo-wustl,Publications,1.0,0.67,1.0,0.0
+vivo2doi,Publications,1.0,0.78,1.0,1.0
+wordlift-io-blog-en,Publications,1.0,0.67,1.0,0.0
+ww1lod,Publications,1.0,1.0,1.0,1.0
+ysa,Publications,1.0,0.78,1.0,1.0
+yso,Publications,1.0,0.78,1.0,1.0
+yso-fi-allars,Publications,1.0,0.67,1.0,1.0
+yso-fi-ysa,Publications,1.0,0.67,1.0,1.0
+zbw-labs,Publications,1.0,0.78,1.0,1.0
+zbw-pressemappe20,Publications,1.0,0.67,1.0,1.0
+bio2rdf-dataset,Social Networking,1.0,0.67,1.0,1.0
+data-incubator-musicbrainz,Social Networking,1.0,0.78,1.0,0.0
+debian-package-tracking-system,Social Networking,1.0,0.67,1.0,1.0
+freebase,Social Networking,1.0,0.67,1.0,0.0
+lod2-project-wiki,Social Networking,1.0,0.67,1.0,1.0
+nextweb-gnoss,Social Networking,1.0,0.78,1.0,1.0
+nhs-jargon,Social Networking,1.0,0.67,1.0,1.0
+personal-homepages,Social Networking,1.0,0.44,1.0,0.0
+sears,Social Networking,1.0,0.67,1.0,1.0
+sociallink,Social Networking,1.0,0.89,1.0,1.0
+socialsemweb-thesaurus,Social Networking,1.0,1.0,1.0,1.0
+statusnet-1w6-org,Social Networking,1.0,0.67,1.0,1.0
+statusnet-20100-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-alexandrefranke-com,Social Networking,1.0,0.44,1.0,0.0
+statusnet-atari-frosch-de,Social Networking,1.0,0.44,1.0,0.0
+statusnet-belfalas-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-bka-li,Social Networking,1.0,0.44,1.0,0.0
+statusnet-bonifaz-ec,Social Networking,1.0,0.44,1.0,0.0
+statusnet-ced117-net,Social Networking,1.0,0.56,1.0,0.0
+statusnet-chickenkiller-com,Social Networking,1.0,0.44,1.0,0.0
+statusnet-chromic-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-cooleysekula-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-datenfahrt-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-davidhaberthuer-ch,Social Networking,1.0,0.44,1.0,0.0
+statusnet-deuxpi-ca,Social Networking,1.0,0.44,1.0,0.0
+statusnet-doomicile-de,Social Networking,1.0,0.67,1.0,1.0
+statusnet-dtdns-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-equestriarp-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-exdc-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-fcac-com,Social Networking,1.0,0.44,1.0,0.0
+statusnet-fcestrada-com,Social Networking,1.0,0.44,1.0,0.0
+statusnet-fragdev-com,Social Networking,1.0,0.44,1.0,0.0
+statusnet-freelish-us,Social Networking,1.0,0.44,1.0,0.0
+statusnet-gegeweb-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-glou-org,Social Networking,1.0,0.56,1.0,0.0
+statusnet-gomertronic-com,Social Networking,1.0,0.33,1.0,0.0
+statusnet-hackerposse-com,Social Networking,1.0,0.67,1.0,1.0
+statusnet-ilikefreedom-ro,Social Networking,1.0,0.44,1.0,0.0
+statusnet-imirhil-fr,Social Networking,1.0,0.44,1.0,0.0
+statusnet-integralblue-com,Social Networking,1.0,0.44,1.0,0.0
+statusnet-johndrinkwater-name,Social Networking,1.0,0.56,1.0,0.0
+statusnet-jonkman-ca,Social Networking,1.0,0.56,1.0,0.0
+statusnet-kaimi-cc,Social Networking,1.0,0.44,1.0,0.0
+statusnet-kathryl-fr,Social Networking,1.0,0.44,1.0,0.0
+statusnet-kenzoid-com,Social Networking,1.0,0.44,1.0,0.0
+statusnet-keuser-fr,Social Networking,1.0,0.44,1.0,0.0
+statusnet-lebsanft-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-legadolibre-com-ar,Social Networking,1.0,0.56,1.0,0.0
+statusnet-linuxwrangling-com,Social Networking,1.0,0.56,1.0,0.0
+statusnet-ludost-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-lydiastench-com,Social Networking,1.0,0.56,1.0,0.0
+statusnet-m-kuttner-com,Social Networking,1.0,0.56,1.0,0.0
+statusnet-macno-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-mamalibre-com-ar,Social Networking,1.0,0.44,1.0,0.0
+statusnet-maymay-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-morphtown-de,Social Networking,1.0,0.44,1.0,0.0
+statusnet-mrblog-nl,Social Networking,1.0,0.44,1.0,0.0
+statusnet-mulestable-net,Social Networking,1.0,0.56,1.0,0.0
+statusnet-my-status-tk,Social Networking,1.0,0.56,1.0,0.0
+statusnet-opensim-chat-eu,Social Networking,1.0,0.44,1.0,0.0
+statusnet-orangeseeds-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-otbm-fr,Social Networking,1.0,0.56,1.0,0.0
+statusnet-ourcoffs-org-au,Social Networking,1.0,0.56,1.0,0.0
+statusnet-panda-id-au,Social Networking,1.0,0.44,1.0,0.0
+statusnet-piana-eu,Social Networking,1.0,0.44,1.0,0.0
+statusnet-planet-libre-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-postblue-info,Social Networking,1.0,0.44,1.0,0.0
+statusnet-progval-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-qdnx-org,Social Networking,1.0,0.67,1.0,1.0
+statusnet-qth-fr,Social Networking,1.0,0.44,1.0,0.0
+statusnet-quitter-se,Social Networking,1.0,0.44,1.0,0.0
+statusnet-rainbowdash-net,Social Networking,1.0,0.56,1.0,0.0
+statusnet-recit-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-russwurm-org,Social Networking,1.0,0.56,1.0,0.0
+statusnet-samnoble-org,Social Networking,1.0,0.56,1.0,0.0
+statusnet-schiessle-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-scoffoni-net,Social Networking,1.0,0.56,1.0,0.0
+statusnet-sebseb01-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-shnoulle-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-skilledtests-com,Social Networking,1.0,0.56,1.0,0.0
+statusnet-somsants-net,Social Networking,1.0,0.56,1.0,0.0
+statusnet-soucy-cc,Social Networking,1.0,0.44,1.0,0.0
+statusnet-spip-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-spraci-org,Social Networking,1.0,0.56,1.0,0.0
+statusnet-ssweeny-net,Social Networking,1.0,0.56,1.0,0.0
+statusnet-status-net,Social Networking,1.0,0.44,1.0,0.0
+statusnet-sweetiebelle-net,Social Networking,1.0,0.56,1.0,0.0
+statusnet-tekk-com-ar,Social Networking,1.0,0.44,1.0,0.0
+statusnet-thelovebug-org,Social Networking,1.0,0.44,1.0,0.0
+statusnet-thornton2-com,Social Networking,1.0,0.56,1.0,0.0
+statusnet-timttmy-co-uk,Social Networking,1.0,0.56,1.0,0.0
+statusnet-tl1n-com,Social Networking,1.0,0.56,1.0,0.0
+statusnet-tschlotfeldt-de,Social Networking,1.0,0.56,1.0,1.0
+statusnet-uni-siegen-de,Social Networking,1.0,0.44,1.0,0.0
+testee,Social Networking,1.0,0.67,1.0,0.0
+vivo,Social Networking,1.0,0.78,1.0,1.0
+abc,User Generated,1.0,0.78,1.0,0.5
+aegp-spanish-textile-and-clothing-association,User Generated,1.0,0.78,1.0,1.0
+antiquecarscollection,User Generated,1.0,0.67,1.0,0.0
+apache,User Generated,1.0,0.67,1.0,1.0
+artenuevosmedios-gnoss,User Generated,1.0,0.78,1.0,1.0
+arthroscopy,User Generated,1.0,0.78,1.0,1.0
+ascdc-as-ntue-school-art-textbooks,User Generated,1.0,0.67,1.0,0.0
+ascdc-ccp-archive,User Generated,1.0,0.67,1.0,0.0
+ascdc-dnb,User Generated,1.0,0.67,1.0,0.0
+ascdc-dqot,User Generated,1.0,0.67,1.0,0.0
+ascdc-ihp-wcd,User Generated,1.0,0.67,1.0,0.0
+ascdc-linked-taiwan-artists,User Generated,1.0,0.67,1.0,0.0
+ascdc-ntm-formosan-aborigines,User Generated,1.0,0.67,1.0,0.0
+ascdc-qing-secret-societies,User Generated,1.0,0.78,1.0,1.0
+athelia-rfid,User Generated,1.0,0.78,1.0,1.0
+berlios,User Generated,1.0,0.67,1.0,1.0
+biblioteca-escolar-digital-cita,User Generated,1.0,0.78,1.0,1.0
+ce4r,User Generated,1.0,0.78,1.0,1.0
+cpv-2008,User Generated,1.0,0.78,1.0,0.0
+dblp-deusto-gnoss,User Generated,1.0,0.78,1.0,1.0
+deustoentrepreneurship,User Generated,1.0,0.78,1.0,1.0
+deustotech,User Generated,1.0,0.78,1.0,1.0
+didactalia,User Generated,1.0,0.78,1.0,1.0
+elviajero,User Generated,1.0,0.78,1.0,1.0
+flickr-wrappr,User Generated,1.0,0.56,1.0,0.0
+garnicaplywood,User Generated,1.0,0.78,1.0,1.0
+gnoss-com-a-social-and-semantic-platform,User Generated,1.0,0.78,1.0,1.0
+greekchildrensartmuseum,User Generated,1.0,0.89,1.0,1.0
+green-competitiveness-gnoss,User Generated,1.0,0.78,1.0,1.0
+https:www.childrensartmuseum.grld-project,User Generated,1.0,0.78,1.0,1.0
+ichoose,User Generated,1.0,0.67,1.0,1.0
+ineverycrea,User Generated,1.0,0.78,1.0,1.0
+ineverycrea-argentina,User Generated,1.0,0.78,1.0,1.0
+interactivemaps-gnoss,User Generated,1.0,0.78,1.0,1.0
+john-goodwins-family-tree,User Generated,1.0,0.67,1.0,0.0
+klappstuhlclub,User Generated,1.0,0.56,1.0,0.0
+linkedmarkmail,User Generated,1.0,0.56,1.0,0.0
+lotico,User Generated,1.0,0.67,1.0,1.0
+miguiadeviajes-gnoss,User Generated,1.0,0.78,1.0,1.0
+museosespania-gnoss,User Generated,1.0,0.78,1.0,1.0
+my-experiment,User Generated,1.0,0.89,1.0,1.0
+my-family-lineage,User Generated,1.0,0.89,1.0,1.0
+myopenlink-dataspaces,User Generated,1.0,0.56,1.0,1.0
+naics-2012,User Generated,1.0,0.78,1.0,0.0
+newborn-photography-maternity-photoshoot-shivani-goyal,User Generated,1.0,0.78,1.0,1.0
+npm,User Generated,1.0,0.67,1.0,0.0
+open-data-risp,User Generated,1.0,0.78,1.0,1.0
+openlinksw-dataspaces,User Generated,1.0,0.44,1.0,0.0
+prefix-cc,User Generated,1.0,0.78,1.0,1.0
+prejust4woman-project,User Generated,1.0,0.89,1.0,1.0
+prospects-and-trends-gnoss,User Generated,1.0,0.78,1.0,1.0
+proyectoapadrina,User Generated,1.0,0.78,1.0,1.0
+rdfohloh,User Generated,1.0,0.56,1.0,0.0
+red-uno-internacional-santillana,User Generated,1.0,0.78,1.0,1.0
+revyu,User Generated,1.0,0.67,1.0,0.0
+rism,User Generated,1.0,0.78,1.0,1.0
+roceeh-road,User Generated,1.0,0.67,1.0,1.0
+rubentaelman,User Generated,1.0,0.67,1.0,1.0
+rubenverborgh,User Generated,1.0,0.78,1.0,1.0
+semanlink,User Generated,1.0,0.67,1.0,1.0
+semanticweb-org,User Generated,1.0,0.67,1.0,0.0
+swift,User Generated,1.0,0.89,1.0,1.0
+the-living-lod-cloud,User Generated,1.0,0.78,1.0,1.0
+twarql,User Generated,1.0,0.67,1.0,0.0
+typepad,User Generated,1.0,0.44,1.0,0.0
+universidad-de-cuenca-linkeddata,User Generated,1.0,0.78,1.0,1.0
+upper-ontology,User Generated,1.0,0.78,1.0,1.0
+utpl-lod,User Generated,1.0,0.67,1.0,0.0
+wikidata,User Generated,1.0,0.89,1.0,1.0
+wordpress,User Generated,1.0,0.56,1.0,1.0
+yovisto,User Generated,1.0,0.89,1.0,1.0

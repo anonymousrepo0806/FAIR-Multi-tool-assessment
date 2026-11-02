@@ -222,14 +222,8 @@ def fetch_checloud_live_fairness(dataset_id: str) -> dict:
         "fair_score": "FAIR score",
         "analysis_date": "analysis_date",
     }
-    base = os.environ.get("KGHEARTBEAT_FAIRNESS_URL", "").rstrip("/")
-    if not base:
-        raise NotImplementedError(
-            "Set KGHEARTBEAT_FAIRNESS_URL to KGHeartBeat's public fairness API base URL "
-            "(the endpoint ending in /kgheartbeat-api/fairness) to enable live lookups."
-        )
     resp = requests.get(
-        f"{base}/{dataset_id}",
+        f"https://kgheartbeat.di.unisa.it/kgheartbeat-api/fairness/{dataset_id}",
         headers={"User-Agent": _UA},
         timeout=_TIMEOUT,
     )

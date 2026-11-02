@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 ff4909e841a7a86d806f83726aa418da04f7cad2 sana <sanabati08@gmail.com> 1790785500 +0200	commit (initial): Initial commit
+ff4909e841a7a86d806f83726aa418da04f7cad2 0000000000000000000000000000000000000000 sana <sanabati08@gmail.com> 1790785514 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 ff4909e841a7a86d806f83726aa418da04f7cad2 sana <sanabati08@gmail.com> 1790785514 +0200	Branch: renamed refs/heads/master to refs/heads/main
+ff4909e841a7a86d806f83726aa418da04f7cad2 3222ef3c287c9a01499165bd1a69cea25bb9350b sana <sanabati08@gmail.com> 1793628558 +0100	commit: Add SPARQL endpoints and dataset links

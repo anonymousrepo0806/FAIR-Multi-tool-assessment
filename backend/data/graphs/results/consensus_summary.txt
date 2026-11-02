@@ -1,0 +1,25 @@
+Consensus rule: all tools implementing a principle score 0 for failure, 1 for pass; principles implemented by fewer than 2 tools are skipped
+Tools implementing each principle: F1=3, F2=3, F3=2, A1=3, A1.2=3, I1=3, I2=3, I3=3, R1.1=3, R1.2=3, R1.3=3
+F-UJI A1.2 check: 0.1% of assessments at full marks, 0.0% at 0
+BLOD: largest consensus-failure pattern covers 748 of 1299 datasets (58%), failing F3+I3+R1.1+R1.2
+CHeCLOUD: largest consensus-failure pattern covers 93 of 193 datasets (48%), failing F3
+Cross-domain: largest consensus-failure pattern covers 25 of 78 datasets (32%), failing R1.1
+Geography: largest consensus-failure pattern covers 11 of 44 datasets (25%), failing R1.1
+Government: largest consensus-failure pattern covers 53 of 188 datasets (28%), failing I2+R1.1
+Life Sciences: largest consensus-failure pattern covers 203 of 355 datasets (57%), failing I2+R1.1
+Linguistic: largest consensus-failure pattern covers 45 of 246 datasets (18%), failing R1.1
+Media: largest consensus-failure pattern covers 13 of 36 datasets (36%), failing R1.1
+Publications: largest consensus-failure pattern covers 72 of 148 datasets (49%), failing R1.1
+Social Networking: largest consensus-failure pattern covers 83 of 96 datasets (86%), failing I2+R1.1
+User Generated: largest consensus-failure pattern covers 14 of 71 datasets (20%), failing R1.1
+BLOD: share with consensus failure on at least 1 / 3 / 6 principles = 97% / 81% / 0%
+CHeCLOUD: share with consensus failure on at least 1 / 3 / 6 principles = 96% / 21% / 0%
+Cross-domain: share with consensus failure on at least 1 / 3 / 6 principles = 32% / 0% / 0%
+Geography: share with consensus failure on at least 1 / 3 / 6 principles = 34% / 0% / 0%
+Government: share with consensus failure on at least 1 / 3 / 6 principles = 52% / 0% / 0%
+Life Sciences: share with consensus failure on at least 1 / 3 / 6 principles = 76% / 0% / 0%
+Linguistic: share with consensus failure on at least 1 / 3 / 6 principles = 21% / 0% / 0%
+Media: share with consensus failure on at least 1 / 3 / 6 principles = 36% / 0% / 0%
+Publications: share with consensus failure on at least 1 / 3 / 6 principles = 52% / 0% / 0%
+Social Networking: share with consensus failure on at least 1 / 3 / 6 principles = 93% / 0% / 0%
+User Generated: share with consensus failure on at least 1 / 3 / 6 principles = 24% / 0% / 0%
