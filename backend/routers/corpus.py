@@ -7,6 +7,7 @@ import pandas as pd
 from fastapi import APIRouter, HTTPException, Query
 
 import db
+import dataset_links
 from aggregation import consensus as consensus_mod
 from mapping import unified_mapping
 
@@ -177,12 +178,18 @@ def _row_to_mapped_by_tool(row: pd.Series) -> dict:
 def _row_to_summary(row: pd.Series) -> dict:
     mapped_by_tool = _row_to_mapped_by_tool(row)
     cons = consensus_mod.compute_consensus(mapped_by_tool)
+    category = row.get("category") if pd.notna(row.get("category")) else None
+    links = dataset_links.get(row["id"], category)
     return {
         "id": row["id"],
-        "category": row.get("category") if pd.notna(row.get("category")) else None,
+        "category": category,
         "repository": row.get("repository") if pd.notna(row.get("repository")) else None,
         "tool_composites": {t: m.get("composite") for t, m in mapped_by_tool.items()},
         "consensus": cons,
+        "title": links["title"],
+        "sparql_endpoints": [e["url"] for e in links["sparql_endpoints"]],
+        "sparql_online": any(e.get("check") == "online" for e in links["sparql_endpoints"]),
+        "site_count": len({s["site"] for s in links["also_available_at"]}),
     }
 
 
@@ -227,6 +234,8 @@ async def corpus_datasets(
     repository: Optional[str] = Query(None, description="Filter by exact repository name"),
     min_consensus: Optional[float] = Query(None, ge=0, le=1),
     max_consensus: Optional[float] = Query(None, ge=0, le=1),
+    has_sparql: Optional[bool] = Query(None, description="true = only datasets with a SPARQL endpoint"),
+    sparql_online: Optional[bool] = Query(None, description="true = only datasets whose endpoint was online at the last KGHeartBeat check"),
     sort_by: str = Query("id", pattern="^(id|consensus)$"),
     sort_desc: bool = Query(False),
     page: int = Query(1, ge=1),
@@ -247,6 +256,11 @@ async def corpus_datasets(
         rows = [r for r in rows if r["consensus"].get("overall") is not None and r["consensus"]["overall"] >= min_consensus]
     if max_consensus is not None:
         rows = [r for r in rows if r["consensus"].get("overall") is not None and r["consensus"]["overall"] <= max_consensus]
+
+    if has_sparql is not None:
+        rows = [r for r in rows if bool(r["sparql_endpoints"]) == has_sparql]
+    if sparql_online:
+        rows = [r for r in rows if r["sparql_online"]]
 
     if sort_by == "consensus":
         rows.sort(key=lambda r: (r["consensus"].get("overall") is None, r["consensus"].get("overall") or 0), reverse=sort_desc)
@@ -319,11 +333,50 @@ async def corpus_dataset_detail(
     mapped_by_tool = {t: r["mapped"] for t, r in tool_results.items()}
     cons = consensus_mod.compute_consensus(mapped_by_tool)
 
+    links = dataset_links.get(dataset_id, category)
     return {
         "input": {"type": "corpus", "value": dataset_id},
         "category": category,
         "repository": row.get("repository") if pd.notna(row.get("repository")) else None,
-        "dataset_url": _dataset_url_for(dataset_id, category),
+        "dataset_url": _dataset_url_for(dataset_id, category) or links["website"],
+        "title": links["title"],
+        "website": links["website"],
+        "sparql_endpoints": links["sparql_endpoints"],
+        "also_available_at": links["also_available_at"],
         "tool_results": tool_results,
         "consensus": cons,
     }
+
+
+@router.get("/corpus/sparql-endpoints")
+async def corpus_sparql_endpoints(
+    category: Optional[str] = Query(None, description="Restrict to one category"),
+    dataset_id: Optional[str] = Query(None, description="Return only this dataset"),
+):
+    """Every corpus dataset that has a SPARQL endpoint, with its endpoints,
+    per-tool FAIR scores, consensus and other websites listing it."""
+    df = _load()
+    if category:
+        df = df[df["category"] == category]
+    if dataset_id:
+        df = df[df["id"].str.lower() == dataset_id.lower()]
+    results = []
+    for _, row in df.iterrows():
+        cat = row.get("category") if pd.notna(row.get("category")) else "blod"
+        links = dataset_links.get(row["id"], cat)
+        if not links["sparql_endpoints"]:
+            continue
+        summary = _row_to_summary(row)
+        results.append({
+            "id": row["id"],
+            "category": cat,
+            "title": links["title"],
+            "sparql_endpoints": links["sparql_endpoints"],
+            "tool_composites": summary["tool_composites"],
+            "consensus": summary["consensus"].get("overall"),
+            "agreement": summary["consensus"].get("agreement"),
+            "website": links["website"],
+            "also_available_at": links["also_available_at"],
+        })
+    results.sort(key=lambda r: (r["category"], r["id"].lower()))
+    return {"total": len(results), "results": results}

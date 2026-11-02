@@ -993,3 +993,42 @@ h1, h2, h3 { letter-spacing: -0.01em; }
   .ai-explanation__generate { display: none !important; }
   body { background: white; }
 }
+
+
+/* ── Dataset access: FAIR scores and SPARQL endpoints ───────── */
+.dataset-detail__title { margin: -4px 0 10px; color: var(--text-muted); font-size: 15px; }
+.dataset-links__scores { display: flex; flex-wrap: wrap; gap: 10px; margin: 8px 0 18px; }
+.dataset-links__score {
+  display: flex; flex-direction: column; gap: 4px; min-width: 110px;
+  padding: 10px 14px; border: 1px solid var(--border); border-radius: 10px; background: #fff;
+}
+.dataset-links__score--consensus { border-color: var(--accent); background: var(--accent-soft); }
+.dataset-links__score-label { font-size: 12px; color: var(--text-muted); }
+.dataset-links__list { display: grid; grid-template-columns: 170px 1fr; gap: 12px 16px; margin: 0; }
+.dataset-links__list dt { font-weight: 600; font-size: 14px; }
+.dataset-links__list dd { margin: 0; font-size: 14px; min-width: 0; }
+.dataset-links__list a { color: var(--accent); text-decoration: none; }
+.dataset-links__list a:hover { text-decoration: underline; }
+.dataset-links__endpoint { margin-bottom: 8px; }
+.dataset-links__url { word-break: break-all; }
+.dataset-links__note { font-size: 12px; color: var(--text-muted); margin-top: 2px; word-break: break-word; }
+.corpus-controls__toggle { display: flex; align-items: center; gap: 6px; font-size: 14px; white-space: nowrap; cursor: pointer; }
+.corpus-row__sparql { color: var(--accent); text-decoration: none; white-space: nowrap; font-size: 13px; }
+.corpus-row__sparql:hover { text-decoration: underline; }
+.sparql-main td a { color: var(--accent); word-break: break-all; }
+@media (max-width: 640px) {
+  .dataset-links__list { grid-template-columns: 1fr; gap: 4px; }
+  .dataset-links__list dd { margin-bottom: 10px; }
+}
+.corpus-controls .corpus-controls__toggle input {
+  flex: none; width: 16px; height: 16px; min-width: 0; padding: 0; margin: 0;
+  border: none; box-shadow: none; accent-color: var(--accent);
+}
+.endpoint-check {
+  display: inline-block; margin-left: 8px; padding: 1px 8px; border-radius: 999px;
+  font-size: 11px; font-weight: 600; white-space: nowrap; vertical-align: middle;
+}
+.endpoint-check--online { background: #dcfce7; color: #15803d; }
+.endpoint-check--offline { background: #fee2e2; color: #b91c1c; }
+.endpoint-check--unreachable { background: #f1f5f9; color: #64748b; }
+.corpus-row__sparql--online::after { content: ""; display: inline-block; width: 7px; height: 7px; margin-left: 4px; border-radius: 50%; background: #16a34a; vertical-align: middle; }

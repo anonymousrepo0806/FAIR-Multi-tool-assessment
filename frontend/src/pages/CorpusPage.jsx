@@ -33,6 +33,8 @@ export default function CorpusPage() {
 
   const [source, setSource] = useState("");
   const [sortDesc, setSortDesc] = useState(true);
+  const [onlySparql, setOnlySparql] = useState(false);
+  const [onlyOnline, setOnlyOnline] = useState(false);
   const [page, setPage] = useState(1);
   const pageSize = 20;
 
@@ -63,7 +65,7 @@ export default function CorpusPage() {
   useEffect(() => {
     setLoading(true);
     setError("");
-    fetchCorpusDatasets({ search, category, repository, sortBy: "consensus", sortDesc, page, pageSize })
+    fetchCorpusDatasets({ search, category, repository, hasSparql: onlySparql, sparqlOnline: onlyOnline, sortBy: "consensus", sortDesc, page, pageSize })
       .then((data) => {
         setRows(data.results);
         setTotal(data.total);
@@ -71,7 +73,7 @@ export default function CorpusPage() {
       })
       .catch((e) => setError(e?.response?.data?.detail || e.message))
       .finally(() => setLoading(false));
-  }, [search, category, repository, sortDesc, page]);
+  }, [search, category, repository, onlySparql, onlyOnline, sortDesc, page]);
 
   function selectSource(next) {
     setPage(1);
@@ -157,6 +159,28 @@ export default function CorpusPage() {
                 setSearch(e.target.value);
               }}
             />
+            <label className="corpus-controls__toggle">
+              <input
+                type="checkbox"
+                checked={onlySparql}
+                onChange={(e) => {
+                  setPage(1);
+                  setOnlySparql(e.target.checked);
+                }}
+              />
+              Only with SPARQL endpoint
+            </label>
+            <label className="corpus-controls__toggle" title="Endpoint was online at the last KGHeartBeat check">
+              <input
+                type="checkbox"
+                checked={onlyOnline}
+                onChange={(e) => {
+                  setPage(1);
+                  setOnlyOnline(e.target.checked);
+                }}
+              />
+              Endpoint online
+            </label>
             <button className="corpus-controls__sort" onClick={() => setSortDesc((d) => !d)}>
               Sort by consensus: {sortDesc ? "high → low" : "low → high"}
             </button>
@@ -177,6 +201,7 @@ export default function CorpusPage() {
                   <th>KG Heartbeat</th>
                   <th>Consensus</th>
                   <th>Agreement</th>
+                  <th>SPARQL</th>
                 </tr>
               </thead>
               <tbody>
@@ -202,11 +227,27 @@ export default function CorpusPage() {
                     <td>
                       <AgreementBadge level={r.consensus.agreement} />
                     </td>
+                    <td>
+                      {r.sparql_endpoints?.length ? (
+                        <a
+                          className={`corpus-row__sparql ${r.sparql_online ? "corpus-row__sparql--online" : ""}`}
+                          href={r.sparql_endpoints[0]}
+                          target="_blank"
+                          rel="noreferrer"
+                          title={`${r.sparql_online ? "Online at last KGHeartBeat check\n" : ""}${r.sparql_endpoints.join("\n")}`}
+                          onClick={(e) => e.stopPropagation()}
+                        >
+                          🔌{r.sparql_endpoints.length > 1 ? ` ${r.sparql_endpoints.length}` : ""}
+                        </a>
+                      ) : (
+                        <span className="view-panel__note">—</span>
+                      )}
+                    </td>
                   </tr>
                 ))}
                 {!loading && rows.length === 0 && (
                   <tr>
-                    <td colSpan={8} className="view-panel__note" style={{ textAlign: "center", padding: 32 }}>
+                    <td colSpan={9} className="view-panel__note" style={{ textAlign: "center", padding: 32 }}>
                       No knowledge graphs match this filter.
                     </td>
                   </tr>

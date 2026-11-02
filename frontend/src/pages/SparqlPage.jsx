@@ -12,7 +12,8 @@ LIMIT 20`;
 function datasetLookupQuery(id) {
   const escaped = id.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
   return `PREFIX fair: <https://fair-multi-assessor.local/schema#>
-SELECT ?id ?category ?repository ?fuji ?fairchecker ?kgheartbeat ?consensusScore ?consensusAgreement WHERE {
+PREFIX void: <http://rdfs.org/ns/void#>
+SELECT ?id ?category ?repository ?fuji ?fairchecker ?kgheartbeat ?consensusScore ?consensusAgreement ?endpoint ?website WHERE {
   ?ds fair:id "${escaped}" ;
       fair:id ?id ;
       fair:category ?category .
@@ -22,6 +23,8 @@ SELECT ?id ?category ?repository ?fuji ?fairchecker ?kgheartbeat ?consensusScore
   OPTIONAL { ?ds fair:kgheartbeatComposite ?kgheartbeat }
   OPTIONAL { ?ds fair:consensusScore ?consensusScore }
   OPTIONAL { ?ds fair:consensusAgreement ?consensusAgreement }
+  OPTIONAL { ?ds void:sparqlEndpoint ?endpoint }
+  OPTIONAL { ?ds fair:website ?website }
 }`;
 }
 
@@ -117,7 +120,15 @@ export default function SparqlPage() {
                     {result.rows.map((row, i) => (
                       <tr key={i}>
                         {row.map((val, j) => (
-                          <td key={j}>{val === "" ? "—" : val}</td>
+                          <td key={j}>
+                            {val === "" ? (
+                              "—"
+                            ) : /^https?:\/\/\S+$/.test(val) ? (
+                              <a href={val} target="_blank" rel="noreferrer">{val}</a>
+                            ) : (
+                              val
+                            )}
+                          </td>
                         ))}
                       </tr>
                     ))}

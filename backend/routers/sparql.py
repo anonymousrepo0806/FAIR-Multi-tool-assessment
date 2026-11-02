@@ -51,7 +51,8 @@ async def sparql_csv(query: str = Query(..., description="A SPARQL 1.1 query (SE
 @router.get("/sparql/schema")
 async def sparql_schema():
     return {
-        "prefixes": {"fair": str(sparql.FAIR), "ds": str(sparql.DS)},
+        "prefixes": {"fair": str(sparql.FAIR), "ds": str(sparql.DS), "void": str(sparql.VOID),
+                     "rdfs": "http://www.w3.org/2000/01/rdf-schema#"},
         "predicates": [
             {"predicate": "fair:id", "description": "Dataset id (string)"},
             {"predicate": "fair:category", "description": "LOD sub-cloud category (string)"},
@@ -63,6 +64,15 @@ async def sparql_schema():
             {"predicate": "fair:consensusScore", "description": "Cross-tool agreed-upon composite (double)"},
             {"predicate": "fair:consensusAgreement",
              "description": "\"high\" | \"medium\" | \"low\" | \"single_tool\" (string)"},
+            {"predicate": "void:sparqlEndpoint (also fair:sparqlEndpoint)",
+             "description": "SPARQL endpoint serving the dataset (IRI); one triple per endpoint"},
+            {"predicate": "fair:endpointStatus (on the endpoint IRI)",
+             "description": "KGHeartBeat availability check: \"online\" | \"offline\" | \"unreachable\" (string)"},
+            {"predicate": "fair:endpointCheckedOn (on the endpoint IRI)", "description": "Date of that check (xsd:date)"},
+            {"predicate": "fair:title", "description": "Dataset title from the BLOD catalogue (string)"},
+            {"predicate": "fair:website", "description": "Dataset homepage (IRI)"},
+            {"predicate": "fair:alsoAvailableAt",
+             "description": "Another website/catalogue listing the dataset (IRI; rdfs:label = site name, e.g. \"BioPortal\")"},
         ],
         "example_queries": sparql.EXAMPLE_QUERIES,
     }

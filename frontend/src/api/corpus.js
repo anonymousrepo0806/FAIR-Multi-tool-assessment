@@ -19,6 +19,8 @@ export async function fetchCorpusDatasets({
   repository,
   minConsensus,
   maxConsensus,
+  hasSparql,
+  sparqlOnline,
   sortBy = "id",
   sortDesc = false,
   page = 1,
@@ -31,6 +33,8 @@ export async function fetchCorpusDatasets({
       repository: repository || undefined,
       min_consensus: minConsensus ?? undefined,
       max_consensus: maxConsensus ?? undefined,
+      has_sparql: hasSparql ? true : undefined,
+      sparql_online: sparqlOnline ? true : undefined,
       sort_by: sortBy,
       sort_desc: sortDesc,
       page,
@@ -45,6 +49,13 @@ export async function fetchCorpusDatasetDetail(datasetId, category) {
 
   const { data } = await client.get(`/corpus/datasets/${encodeURIComponent(datasetId)}`, {
     params: { category: category || undefined },
+  });
+  return data;
+}
+
+export async function fetchSparqlEndpoints({ category, datasetId } = {}) {
+  const { data } = await client.get("/corpus/sparql-endpoints", {
+    params: { category: category || undefined, dataset_id: datasetId || undefined },
   });
   return data;
 }

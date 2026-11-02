@@ -5,6 +5,7 @@ import ToolScoreView from "../components/ToolScoreView";
 import MetricMappingTable from "../components/MetricMappingTable";
 import ConsensusView from "../components/ConsensusView";
 import AIExplanation from "../components/AIExplanation";
+import DatasetLinksView from "../components/DatasetLinksView";
 
 
 export default function DatasetDetailPage({ datasetId, category, repository, onBack }) {
@@ -30,6 +31,9 @@ export default function DatasetDetailPage({ datasetId, category, repository, onB
 
       <header className="dataset-detail__header">
         <h1>{datasetId}</h1>
+        {detail?.title && detail.title.toLowerCase() !== datasetId.toLowerCase() && (
+          <p className="dataset-detail__title">{detail.title}</p>
+        )}
         <div className="dataset-detail__meta">
           {category && (
             <span className="category-chip category-chip--lg">
@@ -50,6 +54,7 @@ export default function DatasetDetailPage({ datasetId, category, repository, onB
 
       {detail && (
         <>
+          <DatasetLinksView detail={detail} />
           <ToolScoreView toolResults={detail.tool_results} />
           <MetricMappingTable toolResults={detail.tool_results} />
           <ConsensusView consensus={detail.consensus} />

@@ -5,8 +5,10 @@ import io
 from typing import Optional
 
 import pandas as pd
-from rdflib import Graph, Literal, Namespace, RDF, URIRef
+from rdflib import BNode, Graph, Literal, Namespace, RDF, RDFS, URIRef
 from rdflib.namespace import XSD
+
+import dataset_links
 
 import graphdb_client
 from aggregation import consensus as consensus_mod
@@ -14,6 +16,7 @@ from routers.corpus import _load, _row_to_mapped_by_tool
 
 FAIR = Namespace("https://fair-multi-assessor.local/schema#")
 DS = Namespace("https://fair-multi-assessor.local/dataset/")
+VOID = Namespace("http://rdfs.org/ns/void#")
 
 _graph: Optional[Graph] = None
 
@@ -49,6 +52,30 @@ def _add_dataset_triples(g: Graph, row) -> None:
         for dim, val in (mapped.get("dimension_scores") or {}).items():
             g.add((uri, FAIR[f"{tool}_{dim}"], Literal(float(val), datatype=XSD.double)))
 
+    links = dataset_links.get(dataset_id, category)
+    if links["title"]:
+        g.add((uri, FAIR.title, Literal(links["title"])))
+    if links["website"]:
+        g.add((uri, FAIR.website, URIRef(links["website"])))
+    for ep in links["sparql_endpoints"]:
+        ep_uri = URIRef(ep["url"])
+        g.add((uri, VOID.sparqlEndpoint, ep_uri))
+        g.add((uri, FAIR.sparqlEndpoint, ep_uri))
+        if ep.get("check"):
+            # KGHeartBeat's availability check for this endpoint
+            g.add((ep_uri, FAIR.endpointStatus, Literal(ep["check"])))
+            if ep.get("checked_on"):
+                g.add((ep_uri, FAIR.endpointCheckedOn, Literal(ep["checked_on"], datatype=XSD.date)))
+        if ep.get("description"):
+            note = BNode()
+            g.add((uri, FAIR.endpointNote, note))
+            g.add((note, FAIR.endpoint, ep_uri))
+            g.add((note, RDFS.comment, Literal(ep["description"])))
+    for site in links["also_available_at"]:
+        site_uri = URIRef(site["url"])
+        g.add((uri, FAIR.alsoAvailableAt, site_uri))
+        g.add((site_uri, RDFS.label, Literal(site["site"])))
+
     cons = consensus_mod.compute_consensus(mapped_by_tool)
     if cons.get("overall") is not None:
         g.add((uri, FAIR.consensusScore, Literal(float(cons["overall"]), datatype=XSD.double)))
@@ -63,6 +90,7 @@ def graph_for_rows(rows) -> Graph:
     g = Graph()
     g.bind("fair", FAIR)
     g.bind("ds", DS)
+    g.bind("void", VOID)
     iterator = (row for _, row in rows.iterrows()) if hasattr(rows, "iterrows") else iter(rows)
     for row in iterator:
         _add_dataset_triples(g, row)
@@ -85,6 +113,7 @@ def build_graph(force: bool = False) -> Graph:
     g = Graph()
     g.bind("fair", FAIR)
     g.bind("ds", DS)
+    g.bind("void", VOID)
 
     df = _load()
     for _, row in df.iterrows():
@@ -127,6 +156,77 @@ def run_query_csv(query: str) -> str:
 
 
 EXAMPLE_QUERIES = [
+    {
+        "label": "Datasets whose SPARQL endpoint was online at the last KGHeartBeat check",
+        "query": (
+            "PREFIX fair: <https://fair-multi-assessor.local/schema#>\n"
+            "PREFIX void: <http://rdfs.org/ns/void#>\n"
+            "SELECT ?id ?category ?endpoint ?checkedOn ?consensusScore WHERE {\n"
+            "  ?ds fair:id ?id ; fair:category ?category ; void:sparqlEndpoint ?endpoint .\n"
+            "  ?endpoint fair:endpointStatus \"online\" .\n"
+            "  OPTIONAL { ?endpoint fair:endpointCheckedOn ?checkedOn }\n"
+            "  OPTIONAL { ?ds fair:consensusScore ?consensusScore }\n"
+            "}\n"
+            "ORDER BY ?category ?id"
+        ),
+    },
+    {
+        "label": "Datasets with a SPARQL endpoint, with their FAIR scores",
+        "query": (
+            "PREFIX fair: <https://fair-multi-assessor.local/schema#>\n"
+            "PREFIX void: <http://rdfs.org/ns/void#>\n"
+            "SELECT ?id ?title ?endpoint ?fuji ?fairchecker ?kgheartbeat ?consensusScore ?website WHERE {\n"
+            "  ?ds fair:id ?id ; void:sparqlEndpoint ?endpoint .\n"
+            "  OPTIONAL { ?ds fair:title ?title }\n"
+            "  OPTIONAL { ?ds fair:fujiComposite ?fuji }\n"
+            "  OPTIONAL { ?ds fair:faircheckerComposite ?fairchecker }\n"
+            "  OPTIONAL { ?ds fair:kgheartbeatComposite ?kgheartbeat }\n"
+            "  OPTIONAL { ?ds fair:consensusScore ?consensusScore }\n"
+            "  OPTIONAL { ?ds fair:website ?website }\n"
+            "}\n"
+            "ORDER BY DESC(?consensusScore)"
+        ),
+    },
+    {
+        "label": "SPARQL endpoint of one dataset",
+        "query": (
+            "PREFIX fair: <https://fair-multi-assessor.local/schema#>\n"
+            "PREFIX void: <http://rdfs.org/ns/void#>\n"
+            "SELECT ?id ?endpoint ?consensusScore WHERE {\n"
+            "  ?ds fair:id ?id ; void:sparqlEndpoint ?endpoint .\n"
+            "  OPTIONAL { ?ds fair:consensusScore ?consensusScore }\n"
+            "  FILTER(LCASE(?id) = \"go-ontology\")\n"
+            "}"
+        ),
+    },
+    {
+        "label": "Datasets listed on several websites",
+        "query": (
+            "PREFIX fair: <https://fair-multi-assessor.local/schema#>\n"
+            "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n"
+            "SELECT ?id (COUNT(DISTINCT ?site) AS ?sites) (GROUP_CONCAT(DISTINCT ?siteName; separator=\", \") AS ?listedOn) WHERE {\n"
+            "  ?ds fair:id ?id ; fair:category \"blod\" ; fair:alsoAvailableAt ?site .\n"
+            "  ?site rdfs:label ?siteName .\n"
+            "}\n"
+            "GROUP BY ?id\n"
+            "HAVING (COUNT(DISTINCT ?site) > 1)\n"
+            "ORDER BY DESC(?sites)\n"
+            "LIMIT 50"
+        ),
+    },
+    {
+        "label": "Websites listing one dataset",
+        "query": (
+            "PREFIX fair: <https://fair-multi-assessor.local/schema#>\n"
+            "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n"
+            "SELECT ?siteName ?site WHERE {\n"
+            "  ?ds fair:id ?id ; fair:category \"blod\" ; fair:alsoAvailableAt ?site .\n"
+            "  ?site rdfs:label ?siteName .\n"
+            "  FILTER(LCASE(?id) = \"chebi\")\n"
+            "}\n"
+            "ORDER BY ?siteName"
+        ),
+    },
     {
         "label": "Top 20 by consensus score",
         "query": (
