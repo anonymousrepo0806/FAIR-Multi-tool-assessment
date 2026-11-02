@@ -294,7 +294,7 @@ def _dataset_url_for(dataset_id: str, category: str) -> Optional[str]:
     return None
 
 
-@router.get("/corpus/datasets/{dataset_id}")
+@router.get("/corpus/datasets/{dataset_id:path}")
 async def corpus_dataset_detail(
     dataset_id: str,
     category: Optional[str] = Query(
