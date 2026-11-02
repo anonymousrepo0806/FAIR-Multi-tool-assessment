@@ -27,6 +27,7 @@ from typing import Optional
 
 BLOD_JSON = Path(os.environ.get("BLOD_JSON_PATH", Path(__file__).parent / "data" / "BLOD.json"))
 KGHB_CSV = Path(os.environ.get("KGHB_ENDPOINTS_PATH", Path(__file__).parent / "data" / "kghb_sparql_endpoints.csv"))
+KGHB_META = Path(os.environ.get("KGHB_METADATA_PATH", Path(__file__).parent / "data" / "kghb_metadata.csv"))
 
 EMPTY = {"title": None, "website": None, "blod_page": None, "sparql_endpoints": [], "also_available_at": []}
 
@@ -34,7 +35,9 @@ _by_lower: Optional[dict] = None
 _by_norm: dict = {}
 _kghb_lower: dict = {}
 _kghb_norm: dict = {}
+_meta_lower: dict = {}
 _cache: dict = {}
+_text_cache: dict = {}
 
 
 def _norm(text) -> str:
@@ -80,9 +83,14 @@ def _url_key(url: str) -> str:
 
 
 def _load() -> dict:
-    global _by_lower, _by_norm, _kghb_lower, _kghb_norm
+    global _by_lower, _by_norm, _kghb_lower, _kghb_norm, _meta_lower
     if _by_lower is None:
-        _by_lower, _by_norm, _kghb_lower, _kghb_norm = {}, {}, {}, {}
+        _by_lower, _by_norm, _kghb_lower, _kghb_norm, _meta_lower = {}, {}, {}, {}, {}
+        if KGHB_META.exists():
+            with KGHB_META.open(encoding="utf-8") as fh:
+                for r in csv.DictReader(fh):
+                    _meta_lower.setdefault(r["id"].strip().lower(),
+                                           {"name": r.get("name") or "", "description": r.get("description") or ""})
         if KGHB_CSV.exists():
             with KGHB_CSV.open(encoding="utf-8") as fh:
                 for r in csv.DictReader(fh):
@@ -105,6 +113,32 @@ def invalidate() -> None:
     global _by_lower
     _by_lower = None
     _cache.clear()
+    _text_cache.clear()
+
+
+def topic_text(dataset_id: str, category: Optional[str] = None) -> str:
+    """Lower-cased searchable text for a dataset: id, title, description and
+    keywords from BLOD.json, plus the name and description KGHeartBeat records.
+    Used for topic search in /federated/select."""
+    by_lower = _load()
+    cat = category or "blod"
+    key = (cat, dataset_id)
+    if key not in _text_cache:
+        low = str(dataset_id).strip().lower()
+        parts = [str(dataset_id)]
+        rec = by_lower.get(low)
+        if rec is None and cat == "blod":
+            rec = _by_norm.get(_norm(dataset_id))
+        if rec is not None:
+            desc = rec.get("description")
+            if isinstance(desc, dict):
+                desc = " ".join(str(v) for v in desc.values())
+            parts += [rec.get("title") or "", desc or "", " ".join(rec.get("keywords") or [])]
+        meta = _meta_lower.get(low)
+        if meta:
+            parts += [meta["name"], meta["description"]]
+        _text_cache[key] = " ".join(p for p in parts if p).lower()
+    return _text_cache[key]
 
 
 def get(dataset_id: str, category: Optional[str] = None) -> dict:

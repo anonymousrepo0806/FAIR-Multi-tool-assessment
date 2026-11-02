@@ -18,7 +18,7 @@ import db
 import graphdb_client
 import ingestion
 import snapshots
-from routers import assess, explain, corpus, snapshots as snapshots_router, checloud as checloud_router, mapping_info, sparql as sparql_router, ingestion as ingestion_router
+from routers import assess, explain, corpus, snapshots as snapshots_router, checloud as checloud_router, mapping_info, sparql as sparql_router, ingestion as ingestion_router, federated as federated_router
 
 scheduler = AsyncIOScheduler()
 
@@ -95,6 +95,7 @@ app.include_router(checloud_router.router, tags=["checloud"])
 app.include_router(mapping_info.router, tags=["mapping"])
 app.include_router(sparql_router.router, tags=["sparql"])
 app.include_router(ingestion_router.router, tags=["ingestion"])
+app.include_router(federated_router.router, tags=["federated"])
 
 
 @app.get("/health")
